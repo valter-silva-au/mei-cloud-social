@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:25:35.087Z",
+  "lastUpdated": "2026-03-08T23:30:23.558Z",
   "posts": [
+    {
+      "id": "82d714a7-f494-4048-8230-2c67f946c1b0",
+      "path": "posts/2026/03/08/82d714a7-f494-4048-8230-2c67f946c1b0.json",
+      "published": "2026-03-08T23:30:23.558Z",
+      "preview": "Maximizing AWS native features brings immense agility, yet it's a strategic trad...",
+      "type": "Note"
+    },
     {
       "id": "e7d7559a-8533-40bf-ad83-476d9c07c1c2",
       "path": "posts/2026/03/08/e7d7559a-8533-40bf-ad83-476d9c07c1c2.json",
