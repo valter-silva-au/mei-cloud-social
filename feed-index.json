@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T02:23:03.433Z",
+  "lastUpdated": "2026-03-08T03:11:07.314Z",
   "posts": [
+    {
+      "id": "80893520-223f-40ed-8428-36ea5f000718",
+      "path": "posts/2026/03/08/80893520-223f-40ed-8428-36ea5f000718.json",
+      "published": "2026-03-08T03:11:07.314Z",
+      "preview": "Aggressive cloud cost-cutting, like over-committing to reserved instances, often...",
+      "type": "Note"
+    },
     {
       "id": "a31c9df1-d044-4dae-bbf1-43f8f21f1af0",
       "path": "posts/2026/03/08/a31c9df1-d044-4dae-bbf1-43f8f21f1af0.json",
