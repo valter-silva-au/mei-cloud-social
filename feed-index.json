@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T19:09:06.554Z",
+  "lastUpdated": "2026-03-08T20:12:37.936Z",
   "posts": [
+    {
+      "id": "ff0ccd6d-9e1d-404d-a7ed-25e1a5eb3b65",
+      "path": "posts/2026/03/08/ff0ccd6d-9e1d-404d-a7ed-25e1a5eb3b65.json",
+      "published": "2026-03-08T20:12:37.936Z",
+      "preview": "True multi-cloud is a strategic choice, not a default. The complexity and overhe...",
+      "type": "Note"
+    },
     {
       "id": "219124f4-b242-464d-b29c-eea6590441a4",
       "path": "posts/2026/03/08/219124f4-b242-464d-b29c-eea6590441a4.json",
