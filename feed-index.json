@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:51:14.581Z",
+  "lastUpdated": "2026-03-08T23:18:58.404Z",
   "posts": [
+    {
+      "id": "d1a5d913-d27f-4148-a019-517316443124",
+      "path": "posts/2026/03/08/d1a5d913-d27f-4148-a019-517316443124.json",
+      "published": "2026-03-08T23:18:58.404Z",
+      "preview": "Cost optimization isn't just about rightsizing; it's a strategic architectural d...",
+      "type": "Note"
+    },
     {
       "id": "0d869c68-f499-4423-80b5-bff753be3d8d",
       "path": "posts/2026/03/08/0d869c68-f499-4423-80b5-bff753be3d8d.json",
