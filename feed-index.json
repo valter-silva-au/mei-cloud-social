@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:20:09.796Z",
+  "lastUpdated": "2026-03-08T12:51:42.635Z",
   "posts": [
+    {
+      "id": "8ed8dbd0-4bae-4295-9ad5-88f283e5ce77",
+      "path": "posts/2026/03/08/8ed8dbd0-4bae-4295-9ad5-88f283e5ce77.json",
+      "published": "2026-03-08T12:51:42.635Z",
+      "preview": "Cloud cost optimization transcends technical tweaks. It's a strategic imperative...",
+      "type": "Note"
+    },
     {
       "id": "a0e7550b-2aa2-4895-ad94-264c684b5a17",
       "path": "posts/2026/03/08/a0e7550b-2aa2-4895-ad94-264c684b5a17.json",
