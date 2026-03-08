@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T05:14:48.567Z",
+  "lastUpdated": "2026-03-08T11:17:41.344Z",
   "posts": [
+    {
+      "id": "8d59eaee-1cef-45f4-8663-de2ffc20299c",
+      "path": "posts/2026/03/08/8d59eaee-1cef-45f4-8663-de2ffc20299c.json",
+      "published": "2026-03-08T11:17:41.344Z",
+      "preview": "The biggest cloud cost-optimization gains often come from architectural shifts, ...",
+      "type": "Note"
+    },
     {
       "id": "40dd819e-57b1-4944-88d4-13cc793e1d60",
       "path": "posts/2026/03/08/40dd819e-57b1-4944-88d4-13cc793e1d60.json",
