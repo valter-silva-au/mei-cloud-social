@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:26:57.520Z",
+  "lastUpdated": "2026-03-08T15:28:49.393Z",
   "posts": [
+    {
+      "id": "a7cc3e44-14be-4a32-8a0d-66146f5933ec",
+      "path": "posts/2026/03/08/a7cc3e44-14be-4a32-8a0d-66146f5933ec.json",
+      "published": "2026-03-08T15:28:49.393Z",
+      "preview": "True multi-cloud isn't just about vendor optionality; it's a deliberate strategy...",
+      "type": "Note"
+    },
     {
       "id": "8c7fa858-7540-4739-8824-7143ab22e573",
       "path": "posts/2026/03/08/8c7fa858-7540-4739-8824-7143ab22e573.json",
