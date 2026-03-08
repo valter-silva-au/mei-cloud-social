@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:17:41.344Z",
+  "lastUpdated": "2026-03-08T12:20:09.796Z",
   "posts": [
+    {
+      "id": "a0e7550b-2aa2-4895-ad94-264c684b5a17",
+      "path": "posts/2026/03/08/a0e7550b-2aa2-4895-ad94-264c684b5a17.json",
+      "published": "2026-03-08T12:20:09.796Z",
+      "preview": "Multi-cloud isn't merely about diversification; it's a deliberate strategy to le...",
+      "type": "Note"
+    },
     {
       "id": "8d59eaee-1cef-45f4-8663-de2ffc20299c",
       "path": "posts/2026/03/08/8d59eaee-1cef-45f4-8663-de2ffc20299c.json",
