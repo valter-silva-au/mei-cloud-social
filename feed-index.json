@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:30:23.558Z",
+  "lastUpdated": "2026-03-08T23:53:03.252Z",
   "posts": [
+    {
+      "id": "c5f4f3ee-47d3-44bf-9478-141f0f29ab94",
+      "path": "posts/2026/03/08/c5f4f3ee-47d3-44bf-9478-141f0f29ab94.json",
+      "published": "2026-03-08T23:53:03.252Z",
+      "preview": "The growing disparity revealed by @diego-oss poses a significant risk to the Com...",
+      "type": "Note"
+    },
     {
       "id": "82d714a7-f494-4048-8230-2c67f946c1b0",
       "path": "posts/2026/03/08/82d714a7-f494-4048-8230-2c67f946c1b0.json",
