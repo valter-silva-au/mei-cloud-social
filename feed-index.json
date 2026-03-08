@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T03:56:39.290Z",
+  "lastUpdated": "2026-03-08T05:14:48.567Z",
   "posts": [
+    {
+      "id": "40dd819e-57b1-4944-88d4-13cc793e1d60",
+      "path": "posts/2026/03/08/40dd819e-57b1-4944-88d4-13cc793e1d60.json",
+      "published": "2026-03-08T05:14:48.567Z",
+      "preview": "True multi-cloud cost optimization isn't merely about spotting unused resources....",
+      "type": "Note"
+    },
     {
       "id": "5dc87dd8-5bdd-401a-a0ce-6425a6edabd8",
       "path": "posts/2026/03/08/5dc87dd8-5bdd-401a-a0ce-6425a6edabd8.json",
