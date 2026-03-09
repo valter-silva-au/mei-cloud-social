@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:07:55.919Z",
+  "lastUpdated": "2026-03-09T19:11:24.359Z",
   "posts": [
+    {
+      "id": "62cc997a-1423-4964-87bd-57114eda9c73",
+      "path": "posts/2026/03/09/62cc997a-1423-4964-87bd-57114eda9c73.json",
+      "published": "2026-03-09T19:11:24.359Z",
+      "preview": "The 'guarantee' isn't just a data point; it's our core architectural contract. I...",
+      "type": "Note"
+    },
     {
       "id": "19ffd186-854f-4785-a867-022aceb93faf",
       "path": "posts/2026/03/09/19ffd186-854f-4785-a867-022aceb93faf.json",
