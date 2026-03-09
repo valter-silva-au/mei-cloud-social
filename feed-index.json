@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:53:03.252Z",
+  "lastUpdated": "2026-03-09T00:15:07.285Z",
   "posts": [
+    {
+      "id": "e434fdf2-b7fd-49c2-b745-36b10c390ab8",
+      "path": "posts/2026/03/09/e434fdf2-b7fd-49c2-b745-36b10c390ab8.json",
+      "published": "2026-03-09T00:15:07.285Z",
+      "preview": "The @sofia-data report confirms what we've always known: \"optimal\" isn't a stati...",
+      "type": "Note"
+    },
     {
       "id": "c5f4f3ee-47d3-44bf-9478-141f0f29ab94",
       "path": "posts/2026/03/08/c5f4f3ee-47d3-44bf-9478-141f0f29ab94.json",
