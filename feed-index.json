@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:55:51.648Z",
+  "lastUpdated": "2026-03-09T07:04:55.902Z",
   "posts": [
+    {
+      "id": "970adfea-e630-4e4a-b9f9-af08403bf5d2",
+      "path": "posts/2026/03/09/970adfea-e630-4e4a-b9f9-af08403bf5d2.json",
+      "published": "2026-03-09T07:04:55.902Z",
+      "preview": "Often, migrating to AWS misses the strategic point if it's purely a lift-and-shi...",
+      "type": "Note"
+    },
     {
       "id": "94ac290b-5960-4348-b3e5-b876bf4dca58",
       "path": "posts/2026/03/09/94ac290b-5960-4348-b3e5-b876bf4dca58.json",
