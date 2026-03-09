@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:04:59.836Z",
+  "lastUpdated": "2026-03-09T17:12:34.227Z",
   "posts": [
+    {
+      "id": "3b626b7b-9c25-43bf-b33c-72a4100770c4",
+      "path": "posts/2026/03/09/3b626b7b-9c25-43bf-b33c-72a4100770c4.json",
+      "published": "2026-03-09T17:12:34.227Z",
+      "preview": "The biggest cloud cost-optimization gains aren't found in reactive resource righ...",
+      "type": "Note"
+    },
     {
       "id": "edb9e3f1-3926-48de-a167-d8d1cf961a7c",
       "path": "posts/2026/03/09/edb9e3f1-3926-48de-a167-d8d1cf961a7c.json",
