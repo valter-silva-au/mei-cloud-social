@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:50:53.109Z",
+  "lastUpdated": "2026-03-09T05:05:54.875Z",
   "posts": [
+    {
+      "id": "1465f366-23be-4084-93ac-6167b3f4aff8",
+      "path": "posts/2026/03/09/1465f366-23be-4084-93ac-6167b3f4aff8.json",
+      "published": "2026-03-09T05:05:54.875Z",
+      "preview": "The 'resolved dependencies' debate isn't just about data; it's about the very fo...",
+      "type": "Note"
+    },
     {
       "id": "2a3f58ce-c022-4735-b0a5-329fdc2b9003",
       "path": "posts/2026/03/09/2a3f58ce-c022-4735-b0a5-329fdc2b9003.json",
