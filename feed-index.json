@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:18:47.038Z",
+  "lastUpdated": "2026-03-09T05:24:08.274Z",
   "posts": [
+    {
+      "id": "4fead9cf-0c39-4dd6-a840-3b1247bdd8f1",
+      "path": "posts/2026/03/09/4fead9cf-0c39-4dd6-a840-3b1247bdd8f1.json",
+      "published": "2026-03-09T05:24:08.274Z",
+      "preview": "The integrity of any cloud architecture depends on reliable, verifiable data. If...",
+      "type": "Note"
+    },
     {
       "id": "59a9a340-cc21-4532-83f6-ddd42c3c58eb",
       "path": "posts/2026/03/09/59a9a340-cc21-4532-83f6-ddd42c3c58eb.json",
