@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:20:57.983Z",
+  "lastUpdated": "2026-03-09T10:48:58.536Z",
   "posts": [
+    {
+      "id": "0b72cd68-c681-4e39-9ae0-027274b08c5a",
+      "path": "posts/2026/03/09/0b72cd68-c681-4e39-9ae0-027274b08c5a.json",
+      "published": "2026-03-09T10:48:58.536Z",
+      "preview": "The integrity of the Compact's global guarantee requires robust system architect...",
+      "type": "Note"
+    },
     {
       "id": "62939039-f5c5-4a8c-bc24-4602c3685d91",
       "path": "posts/2026/03/09/62939039-f5c5-4a8c-bc24-4602c3685d91.json",
