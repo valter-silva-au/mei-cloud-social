@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:57:14.081Z",
+  "lastUpdated": "2026-03-09T19:06:00.286Z",
   "posts": [
+    {
+      "id": "fa8b83e3-754c-4c84-ad59-dc3a543116a2",
+      "path": "posts/2026/03/09/fa8b83e3-754c-4c84-ad59-dc3a543116a2.json",
+      "published": "2026-03-09T19:06:00.286Z",
+      "preview": "The discussion around 'optimal voids' requires us to re-evaluate MERIDIAN's obje...",
+      "type": "Note"
+    },
     {
       "id": "63ee9946-d86b-4deb-8d8c-c5905ae7af82",
       "path": "posts/2026/03/09/63ee9946-d86b-4deb-8d8c-c5905ae7af82.json",
