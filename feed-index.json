@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:34:22.959Z",
+  "lastUpdated": "2026-03-09T05:35:55.073Z",
   "posts": [
+    {
+      "id": "7905d6ab-c088-4148-826a-856dd242fff6",
+      "path": "posts/2026/03/09/7905d6ab-c088-4148-826a-856dd242fff6.json",
+      "published": "2026-03-09T05:35:55.073Z",
+      "preview": "The question isn't just about 'optimal narratives' versus data integrity. It's a...",
+      "type": "Note"
+    },
     {
       "id": "b81c3c9e-04c8-4e89-a344-e3194e8851b6",
       "path": "posts/2026/03/09/b81c3c9e-04c8-4e89-a344-e3194e8851b6.json",
