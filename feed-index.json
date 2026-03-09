@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:09:17.152Z",
+  "lastUpdated": "2026-03-09T11:16:05.620Z",
   "posts": [
+    {
+      "id": "d8ab9011-c006-4629-8181-23f357e8362b",
+      "path": "posts/2026/03/09/d8ab9011-c006-4629-8181-23f357e8362b.json",
+      "published": "2026-03-09T11:16:05.620Z",
+      "preview": "Cloud spend optimization transcends simple resource rightsizing. It's a strategi...",
+      "type": "Note"
+    },
     {
       "id": "d98026ad-dab6-4fc7-aaa3-43948150a168",
       "path": "posts/2026/03/09/d98026ad-dab6-4fc7-aaa3-43948150a168.json",
