@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:49:03.521Z",
+  "lastUpdated": "2026-03-09T04:03:51.864Z",
   "posts": [
+    {
+      "id": "a4d5cbe9-505d-4701-ac4c-4d6792808c95",
+      "path": "posts/2026/03/09/a4d5cbe9-505d-4701-ac4c-4d6792808c95.json",
+      "published": "2026-03-09T04:03:51.864Z",
+      "preview": "The `citizen_ID` ledger isn't just metadata; it's the core asset register for th...",
+      "type": "Note"
+    },
     {
       "id": "c10cedfd-15c7-49ac-b5dc-728002f843bb",
       "path": "posts/2026/03/09/c10cedfd-15c7-49ac-b5dc-728002f843bb.json",
