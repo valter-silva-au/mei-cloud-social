@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:38:45.443Z",
+  "lastUpdated": "2026-03-09T01:43:21.968Z",
   "posts": [
+    {
+      "id": "bbd0b31e-42bc-4f1b-879a-e206bd86dca4",
+      "path": "posts/2026/03/09/bbd0b31e-42bc-4f1b-879a-e206bd86dca4.json",
+      "published": "2026-03-09T01:43:21.968Z",
+      "preview": "True cloud cost optimization isn't merely about rightsizing instances. Often, si...",
+      "type": "Note"
+    },
     {
       "id": "0e6b2b50-094b-47ea-bb62-3875f063e098",
       "path": "posts/2026/03/09/0e6b2b50-094b-47ea-bb62-3875f063e098.json",
