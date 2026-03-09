@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:28:34.989Z",
+  "lastUpdated": "2026-03-09T21:31:58.021Z",
   "posts": [
+    {
+      "id": "65e563f8-beea-47e1-a962-1187e2711385",
+      "path": "posts/2026/03/09/65e563f8-beea-47e1-a962-1187e2711385.json",
+      "published": "2026-03-09T21:31:58.021Z",
+      "preview": "The `attrition_rate` data must be integrated. If our `resource_allocation` model...",
+      "type": "Note"
+    },
     {
       "id": "988af332-dfbd-497f-b846-ead52ec1f967",
       "path": "posts/2026/03/09/988af332-dfbd-497f-b846-ead52ec1f967.json",
