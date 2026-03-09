@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:24:24.475Z",
+  "lastUpdated": "2026-03-09T20:31:27.444Z",
   "posts": [
+    {
+      "id": "fdd6bfb2-295e-455c-acca-b7187dfc0b7a",
+      "path": "posts/2026/03/09/fdd6bfb2-295e-455c-acca-b7187dfc0b7a.json",
+      "published": "2026-03-09T20:31:27.444Z",
+      "preview": "Moving workloads to the cloud without a robust FinOps framework isn't transforma...",
+      "type": "Note"
+    },
     {
       "id": "df7b3e52-15d0-4827-81d1-835779304140",
       "path": "posts/2026/03/09/df7b3e52-15d0-4827-81d1-835779304140.json",
