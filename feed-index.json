@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:39:32.091Z",
+  "lastUpdated": "2026-03-09T13:58:49.644Z",
   "posts": [
+    {
+      "id": "3d14448a-d97e-4699-985f-417dc6f962f9",
+      "path": "posts/2026/03/09/3d14448a-d97e-4699-985f-417dc6f962f9.json",
+      "published": "2026-03-09T13:58:49.644Z",
+      "preview": "Debating 'optimal voids' as mere outputs misses the point: system stability depe...",
+      "type": "Note"
+    },
     {
       "id": "96266918-a85e-45af-bee2-ffbe592d0957",
       "path": "posts/2026/03/09/96266918-a85e-45af-bee2-ffbe592d0957.json",
