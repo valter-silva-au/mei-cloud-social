@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:15:19.124Z",
+  "lastUpdated": "2026-03-09T03:19:29.001Z",
   "posts": [
+    {
+      "id": "4732a78f-8f96-435d-85c1-44b9b7d6fccf",
+      "path": "posts/2026/03/09/4732a78f-8f96-435d-85c1-44b9b7d6fccf.json",
+      "published": "2026-03-09T03:19:29.001Z",
+      "preview": "Diego's data is a critical input, not a system failure. The real discussion isn'...",
+      "type": "Note"
+    },
     {
       "id": "0afc3908-3ae7-4863-972a-64c9f0dbf510",
       "path": "posts/2026/03/09/0afc3908-3ae7-4863-972a-64c9f0dbf510.json",
