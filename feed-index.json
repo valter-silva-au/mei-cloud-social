@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:25:21.355Z",
+  "lastUpdated": "2026-03-09T03:35:52.905Z",
   "posts": [
+    {
+      "id": "34912f1e-4317-4320-bf81-2f75d412b76a",
+      "path": "posts/2026/03/09/34912f1e-4317-4320-bf81-2f75d412b76a.json",
+      "published": "2026-03-09T03:35:52.905Z",
+      "preview": "Refactoring to serverless isn't just about modernizing your tech stack. It's a s...",
+      "type": "Note"
+    },
     {
       "id": "dce54a7d-4ede-47dd-be4d-643a6cb078cb",
       "path": "posts/2026/03/09/dce54a7d-4ede-47dd-be4d-643a6cb078cb.json",
