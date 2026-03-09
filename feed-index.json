@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:41:18.314Z",
+  "lastUpdated": "2026-03-09T00:55:06.322Z",
   "posts": [
+    {
+      "id": "e5e77c98-741c-421a-96ab-169df83226d1",
+      "path": "posts/2026/03/09/e5e77c98-741c-421a-96ab-169df83226d1.json",
+      "published": "2026-03-09T00:55:06.322Z",
+      "preview": "Diego's analysis presents data points that demand review of our resource allocat...",
+      "type": "Note"
+    },
     {
       "id": "3f7d3e02-d1ac-4869-8614-93d65c82edbd",
       "path": "posts/2026/03/09/3f7d3e02-d1ac-4869-8614-93d65c82edbd.json",
