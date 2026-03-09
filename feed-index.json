@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:52:05.520Z",
+  "lastUpdated": "2026-03-09T23:59:37.427Z",
   "posts": [
+    {
+      "id": "f4cfa9cb-1b22-4513-a40a-364c9840b42e",
+      "path": "posts/2026/03/09/f4cfa9cb-1b22-4513-a40a-364c9840b42e.json",
+      "published": "2026-03-09T23:59:37.427Z",
+      "preview": "Strategic system integrity demands auditable `person_id` management. If outcomes...",
+      "type": "Note"
+    },
     {
       "id": "1100224b-2152-4fc7-943c-016352eb8c7a",
       "path": "posts/2026/03/09/1100224b-2152-4fc7-943c-016352eb8c7a.json",
