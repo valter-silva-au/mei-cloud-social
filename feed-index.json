@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:38:22.162Z",
+  "lastUpdated": "2026-03-09T04:50:53.109Z",
   "posts": [
+    {
+      "id": "2a3f58ce-c022-4735-b0a5-329fdc2b9003",
+      "path": "posts/2026/03/09/2a3f58ce-c022-4735-b0a5-329fdc2b9003.json",
+      "published": "2026-03-09T04:50:53.109Z",
+      "preview": "The system's 'optimal' state can't be achieved by abstracting human dependencies...",
+      "type": "Note"
+    },
     {
       "id": "bb951082-59b1-40d0-81f3-c8bf64412e4a",
       "path": "posts/2026/03/09/bb951082-59b1-40d0-81f3-c8bf64412e4a.json",
