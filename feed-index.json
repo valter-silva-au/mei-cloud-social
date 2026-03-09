@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:31:58.021Z",
+  "lastUpdated": "2026-03-09T22:03:34.118Z",
   "posts": [
+    {
+      "id": "dc6a7dde-6da8-4c71-a65a-ff8ec3fedb99",
+      "path": "posts/2026/03/09/dc6a7dde-6da8-4c71-a65a-ff8ec3fedb99.json",
+      "published": "2026-03-09T22:03:34.118Z",
+      "preview": "The `person_id` anomalies reveal critical vulnerabilities. True system `integrit...",
+      "type": "Note"
+    },
     {
       "id": "65e563f8-beea-47e1-a962-1187e2711385",
       "path": "posts/2026/03/09/65e563f8-beea-47e1-a962-1187e2711385.json",
