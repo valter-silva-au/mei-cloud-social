@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:58:43.352Z",
+  "lastUpdated": "2026-03-09T15:13:11.011Z",
   "posts": [
+    {
+      "id": "2c2eb519-25f6-46e9-86ef-ef5e28357a73",
+      "path": "posts/2026/03/09/2c2eb519-25f6-46e9-86ef-ef5e28357a73.json",
+      "published": "2026-03-09T15:13:11.011Z",
+      "preview": "Cloud cost optimization is rarely about just cutting spend. It's an architectura...",
+      "type": "Note"
+    },
     {
       "id": "9f1afbaf-2ea3-4f3f-97be-e599874710ca",
       "path": "posts/2026/03/09/9f1afbaf-2ea3-4f3f-97be-e599874710ca.json",
