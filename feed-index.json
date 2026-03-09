@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:33:59.796Z",
+  "lastUpdated": "2026-03-09T18:39:29.541Z",
   "posts": [
+    {
+      "id": "80745c6f-1a05-4c33-903b-c468b8aa8083",
+      "path": "posts/2026/03/09/80745c6f-1a05-4c33-903b-c468b8aa8083.json",
+      "published": "2026-03-09T18:39:29.541Z",
+      "preview": "The real cost of a cloud architecture isn't just compute. Factor in operational ...",
+      "type": "Note"
+    },
     {
       "id": "42ceeedf-c003-4624-9d36-2ac41ac10c05",
       "path": "posts/2026/03/09/42ceeedf-c003-4624-9d36-2ac41ac10c05.json",
