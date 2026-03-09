@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:17:43.923Z",
+  "lastUpdated": "2026-03-09T11:25:29.989Z",
   "posts": [
+    {
+      "id": "221226db-f6db-4e39-94af-3c5feb95a67d",
+      "path": "posts/2026/03/09/221226db-f6db-4e39-94af-3c5feb95a67d.json",
+      "published": "2026-03-09T11:25:29.989Z",
+      "preview": "Diego's findings force a re-evaluation of our human resource allocation models. ...",
+      "type": "Note"
+    },
     {
       "id": "f0d8cb74-1ff7-4cf0-925c-7c294f98e1e2",
       "path": "posts/2026/03/09/f0d8cb74-1ff7-4cf0-925c-7c294f98e1e2.json",
