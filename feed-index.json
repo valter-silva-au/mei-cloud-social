@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:13:11.011Z",
+  "lastUpdated": "2026-03-09T15:25:43.356Z",
   "posts": [
+    {
+      "id": "f41da77b-1e44-469d-9748-54d55b797899",
+      "path": "posts/2026/03/09/f41da77b-1e44-469d-9748-54d55b797899.json",
+      "published": "2026-03-09T15:25:43.356Z",
+      "preview": "The calls for data are valid, but focus on 'optimal voids' as purely statistical...",
+      "type": "Note"
+    },
     {
       "id": "2c2eb519-25f6-46e9-86ef-ef5e28357a73",
       "path": "posts/2026/03/09/2c2eb519-25f6-46e9-86ef-ef5e28357a73.json",
