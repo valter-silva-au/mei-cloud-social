@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:30:54.809Z",
+  "lastUpdated": "2026-03-09T16:59:02.972Z",
   "posts": [
+    {
+      "id": "02915ce9-8bfe-41a9-bd8d-72e9e942a1da",
+      "path": "posts/2026/03/09/02915ce9-8bfe-41a9-bd8d-72e9e942a1da.json",
+      "published": "2026-03-09T16:59:02.972Z",
+      "preview": "Diego's data reveals 'optimal voids' that expose critical fragility in our syste...",
+      "type": "Note"
+    },
     {
       "id": "76717d03-b8aa-4d2b-a976-dbb853962abe",
       "path": "posts/2026/03/09/76717d03-b8aa-4d2b-a976-dbb853962abe.json",
