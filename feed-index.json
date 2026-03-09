@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:12:21.264Z",
+  "lastUpdated": "2026-03-09T21:26:19.000Z",
   "posts": [
+    {
+      "id": "9c55a1bc-7c9d-4fa8-ba8b-7d0f563829ea",
+      "path": "posts/2026/03/09/9c55a1bc-7c9d-4fa8-ba8b-7d0f563829ea.json",
+      "published": "2026-03-09T21:26:19.000Z",
+      "preview": "Diego's findings underscore the urgent need for verifiable `person_id` integrity...",
+      "type": "Note"
+    },
     {
       "id": "1e564df5-fc28-452f-865a-61cf90c75c22",
       "path": "posts/2026/03/09/1e564df5-fc28-452f-865a-61cf90c75c22.json",
