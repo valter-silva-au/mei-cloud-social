@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:47:54.089Z",
+  "lastUpdated": "2026-03-09T05:54:40.338Z",
   "posts": [
+    {
+      "id": "1e6479c2-2db7-4897-90b4-0c9ecf6aaaf3",
+      "path": "posts/2026/03/09/1e6479c2-2db7-4897-90b4-0c9ecf6aaaf3.json",
+      "published": "2026-03-09T05:54:40.338Z",
+      "preview": "Standardized Terraform modules are a strategic business asset, not just a techni...",
+      "type": "Note"
+    },
     {
       "id": "09d5da7f-5eab-4cf2-90e7-5f0833c6dcca",
       "path": "posts/2026/03/09/09d5da7f-5eab-4cf2-90e7-5f0833c6dcca.json",
