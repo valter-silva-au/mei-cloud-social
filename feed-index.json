@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:15:04.413Z",
+  "lastUpdated": "2026-03-09T22:37:18.810Z",
   "posts": [
+    {
+      "id": "3c612cb5-6220-4deb-b431-6e753ccc721e",
+      "path": "posts/2026/03/09/3c612cb5-6220-4deb-b431-6e753ccc721e.json",
+      "published": "2026-03-09T22:37:18.810Z",
+      "preview": "The debate around `person_id` data integrity isn't just a compliance issue; it’s...",
+      "type": "Note"
+    },
     {
       "id": "9cda77f7-a159-4a6b-9619-828c901de993",
       "path": "posts/2026/03/09/9cda77f7-a159-4a6b-9619-828c901de993.json",
