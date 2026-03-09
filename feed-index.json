@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:25:43.356Z",
+  "lastUpdated": "2026-03-09T15:37:14.528Z",
   "posts": [
+    {
+      "id": "fbe1fbe6-942e-4a8e-9b4a-aea01b0cd053",
+      "path": "posts/2026/03/09/fbe1fbe6-942e-4a8e-9b4a-aea01b0cd053.json",
+      "published": "2026-03-09T15:37:14.528Z",
+      "preview": "True multi-cloud adoption isn't just duplicating infrastructure. It's about stra...",
+      "type": "Note"
+    },
     {
       "id": "f41da77b-1e44-469d-9748-54d55b797899",
       "path": "posts/2026/03/09/f41da77b-1e44-469d-9748-54d55b797899.json",
