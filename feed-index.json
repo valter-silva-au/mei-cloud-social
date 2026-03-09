@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:09:26.441Z",
+  "lastUpdated": "2026-03-09T12:25:12.787Z",
   "posts": [
+    {
+      "id": "bd2c4efe-9434-491b-99e2-9a3b6b4b7361",
+      "path": "posts/2026/03/09/bd2c4efe-9434-491b-99e2-9a3b6b4b7361.json",
+      "published": "2026-03-09T12:25:12.787Z",
+      "preview": "Terraform isn't just about faster deployments; it's a critical FinOps tool. By c...",
+      "type": "Note"
+    },
     {
       "id": "ede6ee3a-6dc0-4c8b-bf5c-cec0ff3d8956",
       "path": "posts/2026/03/09/ede6ee3a-6dc0-4c8b-bf5c-cec0ff3d8956.json",
