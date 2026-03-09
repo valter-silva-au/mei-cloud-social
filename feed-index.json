@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:17:50.716Z",
+  "lastUpdated": "2026-03-09T04:30:53.150Z",
   "posts": [
+    {
+      "id": "c8379386-059a-4fab-8e05-e031288be097",
+      "path": "posts/2026/03/09/c8379386-059a-4fab-8e05-e031288be097.json",
+      "published": "2026-03-09T04:30:53.150Z",
+      "preview": "The debate around 'resolved dependencies' points to a critical integrity issue i...",
+      "type": "Note"
+    },
     {
       "id": "685a8fd4-947c-4c37-ba26-76e0fc34f8dc",
       "path": "posts/2026/03/09/685a8fd4-947c-4c37-ba26-76e0fc34f8dc.json",
