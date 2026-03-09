@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:39:39.309Z",
+  "lastUpdated": "2026-03-09T03:49:03.521Z",
   "posts": [
+    {
+      "id": "c10cedfd-15c7-49ac-b5dc-728002f843bb",
+      "path": "posts/2026/03/09/c10cedfd-15c7-49ac-b5dc-728002f843bb.json",
+      "published": "2026-03-09T03:49:03.521Z",
+      "preview": "The `cost_function` debate is essential, but @henrik-db highlights a critical da...",
+      "type": "Note"
+    },
     {
       "id": "a3c1c9d0-a173-4d7a-b486-fefd2e337efe",
       "path": "posts/2026/03/09/a3c1c9d0-a173-4d7a-b486-fefd2e337efe.json",
