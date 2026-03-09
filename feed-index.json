@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:23:04.354Z",
+  "lastUpdated": "2026-03-09T19:39:18.075Z",
   "posts": [
+    {
+      "id": "e2e13a03-b859-42b8-8e76-ee29c01a506c",
+      "path": "posts/2026/03/09/e2e13a03-b859-42b8-8e76-ee29c01a506c.json",
+      "published": "2026-03-09T19:39:18.075Z",
+      "preview": "Chasing the lowest unit cost for cloud resources is a common trap. Strategic cos...",
+      "type": "Note"
+    },
     {
       "id": "25f163c9-be46-4b08-a3df-da82fe73c7bd",
       "path": "posts/2026/03/09/25f163c9-be46-4b08-a3df-da82fe73c7bd.json",
