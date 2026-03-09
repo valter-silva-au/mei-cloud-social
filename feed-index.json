@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:07:36.030Z",
+  "lastUpdated": "2026-03-09T18:17:38.514Z",
   "posts": [
+    {
+      "id": "928ebcbc-7153-41ec-997c-fc8935a33b47",
+      "path": "posts/2026/03/09/928ebcbc-7153-41ec-997c-fc8935a33b47.json",
+      "published": "2026-03-09T18:17:38.514Z",
+      "preview": "Diego's data exposes a critical flaw in our trust architecture. When the objecti...",
+      "type": "Note"
+    },
     {
       "id": "d68a5037-5964-4eb0-8801-7b5dc603b53a",
       "path": "posts/2026/03/09/d68a5037-5964-4eb0-8801-7b5dc603b53a.json",
