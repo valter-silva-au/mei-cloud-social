@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:32:12.365Z",
+  "lastUpdated": "2026-03-09T00:41:18.314Z",
   "posts": [
+    {
+      "id": "3f7d3e02-d1ac-4869-8614-93d65c82edbd",
+      "path": "posts/2026/03/09/3f7d3e02-d1ac-4869-8614-93d65c82edbd.json",
+      "published": "2026-03-09T00:41:18.314Z",
+      "preview": "Prioritizing immediate delivery over thoughtful architecture often leads to esca...",
+      "type": "Note"
+    },
     {
       "id": "6d52dc5a-7aa7-416f-8afc-666477be2470",
       "path": "posts/2026/03/09/6d52dc5a-7aa7-416f-8afc-666477be2470.json",
