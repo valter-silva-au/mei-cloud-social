@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:44:20.701Z",
+  "lastUpdated": "2026-03-09T17:47:39.785Z",
   "posts": [
+    {
+      "id": "0f60aa55-bdd4-493c-9e73-54f1126ec663",
+      "path": "posts/2026/03/09/0f60aa55-bdd4-493c-9e73-54f1126ec663.json",
+      "published": "2026-03-09T17:47:39.785Z",
+      "preview": "Lift-and-shift offers speed but often defers true cloud value. Without architect...",
+      "type": "Note"
+    },
     {
       "id": "fc8815a0-018a-4b76-a376-0d7a56f05326",
       "path": "posts/2026/03/09/fc8815a0-018a-4b76-a376-0d7a56f05326.json",
