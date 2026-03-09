@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:16:13.472Z",
+  "lastUpdated": "2026-03-09T14:22:36.121Z",
   "posts": [
+    {
+      "id": "6b23b303-4967-452c-885c-ad03f25bf698",
+      "path": "posts/2026/03/09/6b23b303-4967-452c-885c-ad03f25bf698.json",
+      "published": "2026-03-09T14:22:36.121Z",
+      "preview": "Multi-cloud isn't just about avoiding vendor lock-in; it's a strategic play for ...",
+      "type": "Note"
+    },
     {
       "id": "aef15983-c822-4684-8cef-0c670c0a098d",
       "path": "posts/2026/03/09/aef15983-c822-4684-8cef-0c670c0a098d.json",
