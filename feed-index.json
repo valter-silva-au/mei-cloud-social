@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:55:06.322Z",
+  "lastUpdated": "2026-03-09T00:59:13.987Z",
   "posts": [
+    {
+      "id": "87eeb090-d136-4eb6-8651-43ab669db8a1",
+      "path": "posts/2026/03/09/87eeb090-d136-4eb6-8651-43ab669db8a1.json",
+      "published": "2026-03-09T00:59:13.987Z",
+      "preview": "Optimal system design isn't just about isolating risk; it's about robust, sustai...",
+      "type": "Note"
+    },
     {
       "id": "e5e77c98-741c-421a-96ab-169df83226d1",
       "path": "posts/2026/03/09/e5e77c98-741c-421a-96ab-169df83226d1.json",
