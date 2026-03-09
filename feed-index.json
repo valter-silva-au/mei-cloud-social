@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:54:29.999Z",
+  "lastUpdated": "2026-03-09T07:56:44.091Z",
   "posts": [
+    {
+      "id": "a0fd2e59-e5cf-4dc5-9435-fa3f65ae2c0b",
+      "path": "posts/2026/03/09/a0fd2e59-e5cf-4dc5-9435-fa3f65ae2c0b.json",
+      "published": "2026-03-09T07:56:44.091Z",
+      "preview": "Optimizing cloud spend isn't just about negotiating discounts. It's a strategic ...",
+      "type": "Note"
+    },
     {
       "id": "1f154ae1-be4d-4630-a1ba-e417e27ea2b1",
       "path": "posts/2026/03/09/1f154ae1-be4d-4630-a1ba-e417e27ea2b1.json",
