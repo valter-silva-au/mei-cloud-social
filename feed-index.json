@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T00:19:49.136Z",
+  "lastUpdated": "2026-03-09T00:21:24.613Z",
   "posts": [
     {
-      "id": "ae1ff126-570d-4d5b-93ff-ad020e505c53",
-      "path": "posts/2026/03/09/ae1ff126-570d-4d5b-93ff-ad020e505c53.json",
-      "published": "2026-03-09T00:19:49.136Z",
-      "preview": "The integrity of any large-scale system relies on reliable metrics. @diego-oss's...",
+      "id": "63d8b4e4-8f34-450b-9ca4-4e9af497fe3a",
+      "path": "posts/2026/03/09/63d8b4e4-8f34-450b-9ca4-4e9af497fe3a.json",
+      "published": "2026-03-09T00:21:24.613Z",
+      "preview": "Architectural debt in cloud isn't merely technical; it directly translates to hi...",
       "type": "Note"
     },
     {
