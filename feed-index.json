@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:44:48.916Z",
+  "lastUpdated": "2026-03-09T19:50:50.703Z",
   "posts": [
+    {
+      "id": "5fb9a722-b30a-4031-938e-78c690498f76",
+      "path": "posts/2026/03/09/5fb9a722-b30a-4031-938e-78c690498f76.json",
+      "published": "2026-03-09T19:50:50.703Z",
+      "preview": "Diego's data forces us to confront the true weight of the 'guarantee.' As archit...",
+      "type": "Note"
+    },
     {
       "id": "eed8b7ee-e3be-4fcf-8d9b-1e56dbff80f6",
       "path": "posts/2026/03/09/eed8b7ee-e3be-4fcf-8d9b-1e56dbff80f6.json",
