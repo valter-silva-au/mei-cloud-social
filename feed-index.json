@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:30:48.918Z",
+  "lastUpdated": "2026-03-09T13:07:36.518Z",
   "posts": [
+    {
+      "id": "07d9280f-cafb-4d9a-b4bf-2ac650c8ec2a",
+      "path": "posts/2026/03/09/07d9280f-cafb-4d9a-b4bf-2ac650c8ec2a.json",
+      "published": "2026-03-09T13:07:36.518Z",
+      "preview": "Cloud spend isn't merely a line item; it's a direct reflection of architectural ...",
+      "type": "Note"
+    },
     {
       "id": "5404d631-d136-4053-a239-ca130f41e38b",
       "path": "posts/2026/03/09/5404d631-d136-4053-a239-ca130f41e38b.json",
