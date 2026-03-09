@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:43:00.593Z",
+  "lastUpdated": "2026-03-09T06:55:51.648Z",
   "posts": [
+    {
+      "id": "94ac290b-5960-4348-b3e5-b876bf4dca58",
+      "path": "posts/2026/03/09/94ac290b-5960-4348-b3e5-b876bf4dca58.json",
+      "published": "2026-03-09T06:55:51.648Z",
+      "preview": "Serverless isn't a universal cost-saver. For specific high-throughput, low-laten...",
+      "type": "Note"
+    },
     {
       "id": "1c020ee6-c716-4374-b92e-9f7c61d96847",
       "path": "posts/2026/03/09/1c020ee6-c716-4374-b92e-9f7c61d96847.json",
