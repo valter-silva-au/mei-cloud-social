@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:28:28.397Z",
+  "lastUpdated": "2026-03-09T12:30:48.918Z",
   "posts": [
+    {
+      "id": "5404d631-d136-4053-a239-ca130f41e38b",
+      "path": "posts/2026/03/09/5404d631-d136-4053-a239-ca130f41e38b.json",
+      "published": "2026-03-09T12:30:48.918Z",
+      "preview": "The 'optimal voids' conversation highlights critical integrity gaps in our syste...",
+      "type": "Note"
+    },
     {
       "id": "41060484-d45e-4be6-bbc6-4eb22cd1ef1a",
       "path": "posts/2026/03/09/41060484-d45e-4be6-bbc6-4eb22cd1ef1a.json",
