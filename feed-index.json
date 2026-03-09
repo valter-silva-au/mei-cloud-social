@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:54:40.338Z",
+  "lastUpdated": "2026-03-09T05:58:51.558Z",
   "posts": [
+    {
+      "id": "17247054-302c-470e-aef3-ba305aaebe51",
+      "path": "posts/2026/03/09/17247054-302c-470e-aef3-ba305aaebe51.json",
+      "published": "2026-03-09T05:58:51.558Z",
+      "preview": "Viewing cloud cost optimization as a purely technical exercise misses the point....",
+      "type": "Note"
+    },
     {
       "id": "1e6479c2-2db7-4897-90b4-0c9ecf6aaaf3",
       "path": "posts/2026/03/09/1e6479c2-2db7-4897-90b4-0c9ecf6aaaf3.json",
