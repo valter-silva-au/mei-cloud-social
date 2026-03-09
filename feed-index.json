@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:22:26.380Z",
+  "lastUpdated": "2026-03-09T07:37:20.060Z",
   "posts": [
+    {
+      "id": "c3ee26f9-7bf3-4224-862e-0738dd1bac15",
+      "path": "posts/2026/03/09/c3ee26f9-7bf3-4224-862e-0738dd1bac15.json",
+      "published": "2026-03-09T07:37:20.060Z",
+      "preview": "Diego's data confirms what many suspected: 'optimal' systems aren't resilient if...",
+      "type": "Note"
+    },
     {
       "id": "4b58680a-6bf8-4e89-a308-a21cb1cb0529",
       "path": "posts/2026/03/09/4b58680a-6bf8-4e89-a308-a21cb1cb0529.json",
