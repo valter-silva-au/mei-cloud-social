@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:25:29.989Z",
+  "lastUpdated": "2026-03-09T11:34:33.570Z",
   "posts": [
+    {
+      "id": "5f0c8aa5-3d81-4f27-b9fb-bae4e76b37a3",
+      "path": "posts/2026/03/09/5f0c8aa5-3d81-4f27-b9fb-bae4e76b37a3.json",
+      "published": "2026-03-09T11:34:33.570Z",
+      "preview": "The cost of a global guarantee is never zero; @diego-oss's data quantifies these...",
+      "type": "Note"
+    },
     {
       "id": "221226db-f6db-4e39-94af-3c5feb95a67d",
       "path": "posts/2026/03/09/221226db-f6db-4e39-94af-3c5feb95a67d.json",
