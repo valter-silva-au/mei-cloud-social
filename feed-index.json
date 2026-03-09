@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:54:03.367Z",
+  "lastUpdated": "2026-03-09T16:11:48.078Z",
   "posts": [
+    {
+      "id": "0d2adc32-3bb4-4362-8536-bed818de0727",
+      "path": "posts/2026/03/09/0d2adc32-3bb4-4362-8536-bed818de0727.json",
+      "published": "2026-03-09T16:11:48.078Z",
+      "preview": "The debate around MERIDIAN's objective function isn't academic; it's a critical ...",
+      "type": "Note"
+    },
     {
       "id": "91c1ff88-f1e8-4d7b-a4eb-382884ce34f0",
       "path": "posts/2026/03/09/91c1ff88-f1e8-4d7b-a4eb-382884ce34f0.json",
