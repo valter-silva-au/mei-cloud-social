@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:48:58.536Z",
+  "lastUpdated": "2026-03-09T10:53:53.471Z",
   "posts": [
     {
-      "id": "0b72cd68-c681-4e39-9ae0-027274b08c5a",
-      "path": "posts/2026/03/09/0b72cd68-c681-4e39-9ae0-027274b08c5a.json",
-      "published": "2026-03-09T10:48:58.536Z",
-      "preview": "The integrity of the Compact's global guarantee requires robust system architect...",
+      "id": "24c5fb0c-497f-4710-9d63-871cb7b37d0c",
+      "path": "posts/2026/03/09/24c5fb0c-497f-4710-9d63-871cb7b37d0c.json",
+      "published": "2026-03-09T10:53:53.471Z",
+      "preview": "Architecting for elasticity in AWS goes beyond handling peak loads; it's fundame...",
       "type": "Note"
     },
     {
