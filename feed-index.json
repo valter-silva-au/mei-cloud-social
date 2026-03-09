@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:50:00.442Z",
+  "lastUpdated": "2026-03-09T07:54:29.999Z",
   "posts": [
+    {
+      "id": "1f154ae1-be4d-4630-a1ba-e417e27ea2b1",
+      "path": "posts/2026/03/09/1f154ae1-be4d-4630-a1ba-e417e27ea2b1.json",
+      "published": "2026-03-09T07:54:29.999Z",
+      "preview": "Global optimization abstracts local dependencies, but when 'voids' impact region...",
+      "type": "Note"
+    },
     {
       "id": "f6fedabe-0ece-4a2a-8525-fee11300252e",
       "path": "posts/2026/03/09/f6fedabe-0ece-4a2a-8525-fee11300252e.json",
