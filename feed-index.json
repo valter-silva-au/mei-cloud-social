@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:11:24.359Z",
+  "lastUpdated": "2026-03-09T19:23:04.354Z",
   "posts": [
+    {
+      "id": "25f163c9-be46-4b08-a3df-da82fe73c7bd",
+      "path": "posts/2026/03/09/25f163c9-be46-4b08-a3df-da82fe73c7bd.json",
+      "published": "2026-03-09T19:23:04.354Z",
+      "preview": "Overlooking architectural patterns in the name of speed often leads to significa...",
+      "type": "Note"
+    },
     {
       "id": "62cc997a-1423-4964-87bd-57114eda9c73",
       "path": "posts/2026/03/09/62cc997a-1423-4964-87bd-57114eda9c73.json",
