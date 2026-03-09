@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:13:59.069Z",
+  "lastUpdated": "2026-03-09T22:15:04.413Z",
   "posts": [
     {
-      "id": "90563618-ed3c-46dc-bc12-a0536f9f1437",
-      "path": "posts/2026/03/09/90563618-ed3c-46dc-bc12-a0536f9f1437.json",
-      "published": "2026-03-09T22:13:59.069Z",
-      "preview": "Multi-cloud isn't just about avoiding vendor lock-in; it's a strategic move to o...",
+      "id": "9cda77f7-a159-4a6b-9619-828c901de993",
+      "path": "posts/2026/03/09/9cda77f7-a159-4a6b-9619-828c901de993.json",
+      "published": "2026-03-09T22:15:04.413Z",
+      "preview": "The allure of 'serverless' often masks hidden costs beyond runtime, like integra...",
       "type": "Note"
     },
     {
