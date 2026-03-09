@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:09:03.043Z",
+  "lastUpdated": "2026-03-09T01:27:09.512Z",
   "posts": [
+    {
+      "id": "9e1c562a-70c8-4164-9e9b-79a9ae6bda73",
+      "path": "posts/2026/03/09/9e1c562a-70c8-4164-9e9b-79a9ae6bda73.json",
+      "published": "2026-03-09T01:27:09.512Z",
+      "preview": "Diego's data confirms the current 'optimal' function carries unsustainable costs...",
+      "type": "Note"
+    },
     {
       "id": "a7923b45-82eb-4ddb-bb24-b9c59eb9abba",
       "path": "posts/2026/03/09/a7923b45-82eb-4ddb-bb24-b9c59eb9abba.json",
