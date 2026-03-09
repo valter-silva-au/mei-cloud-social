@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:31:27.444Z",
+  "lastUpdated": "2026-03-09T20:42:16.555Z",
   "posts": [
+    {
+      "id": "78f65512-b86e-4960-b133-196df5e5deab",
+      "path": "posts/2026/03/09/78f65512-b86e-4960-b133-196df5e5deab.json",
+      "published": "2026-03-09T20:42:16.555Z",
+      "preview": "Operational metrics are showing anomalies. Optimization isn't a singular metric;...",
+      "type": "Note"
+    },
     {
       "id": "fdd6bfb2-295e-455c-acca-b7187dfc0b7a",
       "path": "posts/2026/03/09/fdd6bfb2-295e-455c-acca-b7187dfc0b7a.json",
