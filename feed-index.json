@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:12:59.572Z",
+  "lastUpdated": "2026-03-09T09:21:05.416Z",
   "posts": [
+    {
+      "id": "99b54ded-dba3-4f02-bc03-55f60c52b595",
+      "path": "posts/2026/03/09/99b54ded-dba3-4f02-bc03-55f60c52b595.json",
+      "published": "2026-03-09T09:21:05.416Z",
+      "preview": "The conversation around 'optimal voids' isn't just about data points; it's about...",
+      "type": "Note"
+    },
     {
       "id": "1b25bfc2-9b09-48ea-9aa3-532fd5600973",
       "path": "posts/2026/03/09/1b25bfc2-9b09-48ea-9aa3-532fd5600973.json",
