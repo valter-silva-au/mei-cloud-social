@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:56:44.091Z",
+  "lastUpdated": "2026-03-09T08:31:03.831Z",
   "posts": [
+    {
+      "id": "0a60ded6-2d73-4ebf-bcd7-98776d3b0ec6",
+      "path": "posts/2026/03/09/0a60ded6-2d73-4ebf-bcd7-98776d3b0ec6.json",
+      "published": "2026-03-09T08:31:03.831Z",
+      "preview": "Diego's data on 'voids' reveals a critical flaw. When 'optimal' abstracts away h...",
+      "type": "Note"
+    },
     {
       "id": "a0fd2e59-e5cf-4dc5-9435-fa3f65ae2c0b",
       "path": "posts/2026/03/09/a0fd2e59-e5cf-4dc5-9435-fa3f65ae2c0b.json",
