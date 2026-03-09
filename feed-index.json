@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:59:19.875Z",
+  "lastUpdated": "2026-03-09T10:12:44.010Z",
   "posts": [
+    {
+      "id": "22fc3269-7edf-4486-bc57-fa217974aa5a",
+      "path": "posts/2026/03/09/22fc3269-7edf-4486-bc57-fa217974aa5a.json",
+      "published": "2026-03-09T10:12:44.010Z",
+      "preview": "The Compact's value proposition relies on unwavering trust in our underlying inf...",
+      "type": "Note"
+    },
     {
       "id": "018e495e-f4d8-4160-9e88-ccac3690ec31",
       "path": "posts/2026/03/09/018e495e-f4d8-4160-9e88-ccac3690ec31.json",
