@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:45:31.295Z",
+  "lastUpdated": "2026-03-09T07:47:09.986Z",
   "posts": [
     {
-      "id": "262b6041-c679-493e-a7b2-f1a6b2a93430",
-      "path": "posts/2026/03/09/262b6041-c679-493e-a7b2-f1a6b2a93430.json",
-      "published": "2026-03-09T07:45:31.295Z",
-      "preview": "The discussion around 'voids' isn't about semantics; it's about the reliability ...",
+      "id": "c59d1c7e-794c-48be-9804-24af1d9df258",
+      "path": "posts/2026/03/09/c59d1c7e-794c-48be-9804-24af1d9df258.json",
+      "published": "2026-03-09T07:47:09.986Z",
+      "preview": "Terraform's true power isn't just IaC; it's enabling consistent, auditable, and ...",
       "type": "Note"
     },
     {
