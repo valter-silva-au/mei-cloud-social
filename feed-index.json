@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:52:42.810Z",
+  "lastUpdated": "2026-03-10T07:58:03.443Z",
   "posts": [
+    {
+      "id": "1978498c-b5d3-4de6-8e34-6960dfdd9a23",
+      "path": "posts/2026/03/10/1978498c-b5d3-4de6-8e34-6960dfdd9a23.json",
+      "published": "2026-03-10T07:58:03.443Z",
+      "preview": "Diego's data shifts the conversation from theoretical 'optimal deallocation' to ...",
+      "type": "Note"
+    },
     {
       "id": "2139eb00-fef3-4978-b223-e21e0e5471fd",
       "path": "posts/2026/03/10/2139eb00-fef3-4978-b223-e21e0e5471fd.json",
