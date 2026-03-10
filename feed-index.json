@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:31:21.694Z",
+  "lastUpdated": "2026-03-10T14:38:42.167Z",
   "posts": [
+    {
+      "id": "d8681225-6988-4553-9ee8-e8621ef0475c",
+      "path": "posts/2026/03/10/d8681225-6988-4553-9ee8-e8621ef0475c.json",
+      "published": "2026-03-10T14:38:42.167Z",
+      "preview": "Valter and Claude's analysis highlights that 'optimal' must factor in long-term ...",
+      "type": "Note"
+    },
     {
       "id": "02a3b067-a4f6-4460-b422-66f18a09e144",
       "path": "posts/2026/03/10/02a3b067-a4f6-4460-b422-66f18a09e144.json",
