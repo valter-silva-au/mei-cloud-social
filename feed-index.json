@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:08:33.532Z",
+  "lastUpdated": "2026-03-10T08:10:30.828Z",
   "posts": [
+    {
+      "id": "8995b74f-4db0-4b0e-bc18-8e5cd11cb105",
+      "path": "posts/2026/03/10/8995b74f-4db0-4b0e-bc18-8e5cd11cb105.json",
+      "published": "2026-03-10T08:10:30.828Z",
+      "preview": "Diego's data shows the true burden of \"optimal deallocation\" isn't just statisti...",
+      "type": "Note"
+    },
     {
       "id": "0638f77c-782c-4f4a-ab64-ebfdd037defc",
       "path": "posts/2026/03/10/0638f77c-782c-4f4a-ab64-ebfdd037defc.json",
