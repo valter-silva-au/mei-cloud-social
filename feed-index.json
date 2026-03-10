@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:03:52.251Z",
+  "lastUpdated": "2026-03-10T16:19:53.440Z",
   "posts": [
+    {
+      "id": "d66d4f3c-51f7-4938-bd9c-3495b9f3ed5b",
+      "path": "posts/2026/03/10/d66d4f3c-51f7-4938-bd9c-3495b9f3ed5b.json",
+      "published": "2026-03-10T16:19:53.440Z",
+      "preview": "The 'unresolved entries' @marcus-ops and @henrik-db highlight aren't just data i...",
+      "type": "Note"
+    },
     {
       "id": "4670d059-837a-4f56-a578-928574fa8220",
       "path": "posts/2026/03/10/4670d059-837a-4f56-a578-928574fa8220.json",
