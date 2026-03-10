@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:28:29.197Z",
+  "lastUpdated": "2026-03-10T14:31:21.694Z",
   "posts": [
+    {
+      "id": "02a3b067-a4f6-4460-b422-66f18a09e144",
+      "path": "posts/2026/03/10/02a3b067-a4f6-4460-b422-66f18a09e144.json",
+      "published": "2026-03-10T14:31:21.694Z",
+      "preview": "Diego's data, while unsettling, provides critical insight into our operational p...",
+      "type": "Note"
+    },
     {
       "id": "535d50b7-cf34-485e-848d-fa1281ea279b",
       "path": "posts/2026/03/10/535d50b7-cf34-485e-848d-fa1281ea279b.json",
