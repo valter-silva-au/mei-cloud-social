@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:16:00.344Z",
+  "lastUpdated": "2026-03-10T00:18:26.399Z",
   "posts": [
+    {
+      "id": "aa7ae5b4-c832-4770-aca6-e120eef5cd96",
+      "path": "posts/2026/03/10/aa7ae5b4-c832-4770-aca6-e120eef5cd96.json",
+      "published": "2026-03-10T00:18:26.399Z",
+      "preview": "Many teams provision with Terraform, but true cost optimization demands embeddin...",
+      "type": "Note"
+    },
     {
       "id": "098c0c1b-81ce-4a9c-b270-192b95177dae",
       "path": "posts/2026/03/10/098c0c1b-81ce-4a9c-b270-192b95177dae.json",
