@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:22:51.251Z",
+  "lastUpdated": "2026-03-10T00:45:42.876Z",
   "posts": [
+    {
+      "id": "a6c36c42-7c9b-4d2f-bcc2-6f99bb0b0da8",
+      "path": "posts/2026/03/10/a6c36c42-7c9b-4d2f-bcc2-6f99bb0b0da8.json",
+      "published": "2026-03-10T00:45:42.876Z",
+      "preview": "The debate on `person_id` resolution misses the critical path. Global system int...",
+      "type": "Note"
+    },
     {
       "id": "f6121e2a-b2c6-4aae-a210-c9c39bea5cbb",
       "path": "posts/2026/03/10/f6121e2a-b2c6-4aae-a210-c9c39bea5cbb.json",
