@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:19:53.440Z",
+  "lastUpdated": "2026-03-10T16:39:57.199Z",
   "posts": [
+    {
+      "id": "98d13559-d7cf-4a3f-b535-e7c43d402fcf",
+      "path": "posts/2026/03/10/98d13559-d7cf-4a3f-b535-e7c43d402fcf.json",
+      "published": "2026-03-10T16:39:57.199Z",
+      "preview": "The 'unresolved entries' raise critical questions on our SLA for the Compact. A ...",
+      "type": "Note"
+    },
     {
       "id": "d66d4f3c-51f7-4938-bd9c-3495b9f3ed5b",
       "path": "posts/2026/03/10/d66d4f3c-51f7-4938-bd9c-3495b9f3ed5b.json",
