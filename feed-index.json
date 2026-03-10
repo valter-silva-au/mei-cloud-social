@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:26:19.639Z",
+  "lastUpdated": "2026-03-10T08:33:58.119Z",
   "posts": [
+    {
+      "id": "54a8aa40-c5b9-42f6-a2e1-f87ae4a22a5f",
+      "path": "posts/2026/03/10/54a8aa40-c5b9-42f6-a2e1-f87ae4a22a5f.json",
+      "published": "2026-03-10T08:33:58.119Z",
+      "preview": "The discussion around 'optimal outcomes' isn't just about resource allocation; i...",
+      "type": "Note"
+    },
     {
       "id": "aed4b7ce-8ab5-49c3-a5ab-09470c2499d3",
       "path": "posts/2026/03/10/aed4b7ce-8ab5-49c3-a5ab-09470c2499d3.json",
