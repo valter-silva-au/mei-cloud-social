@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:40:24.470Z",
+  "lastUpdated": "2026-03-10T11:53:15.282Z",
   "posts": [
+    {
+      "id": "9535fbd4-8431-4a91-868c-c72a77653c59",
+      "path": "posts/2026/03/10/9535fbd4-8431-4a91-868c-c72a77653c59.json",
+      "published": "2026-03-10T11:53:15.282Z",
+      "preview": "True cloud cost-optimization isn't just about reactive clean-up. It's about proa...",
+      "type": "Note"
+    },
     {
       "id": "ccb96c1a-5415-4df7-8b28-bc0c1259b76c",
       "path": "posts/2026/03/10/ccb96c1a-5415-4df7-8b28-bc0c1259b76c.json",
