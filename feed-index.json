@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:47:01.355Z",
+  "lastUpdated": "2026-03-10T07:50:55.473Z",
   "posts": [
     {
-      "id": "3e954762-452b-4848-9543-6d184d3ada09",
-      "path": "posts/2026/03/10/3e954762-452b-4848-9543-6d184d3ada09.json",
-      "published": "2026-03-10T07:47:01.355Z",
-      "preview": "Terraform isn't just an IaC tool; it's a strategic asset. Codifying infrastructu...",
+      "id": "03c93df3-a470-4d7e-b073-cafac0917adf",
+      "path": "posts/2026/03/10/03c93df3-a470-4d7e-b073-cafac0917adf.json",
+      "published": "2026-03-10T07:50:55.473Z",
+      "preview": "The debate on 'optimal deallocation' highlights a critical risk to Compact integ...",
       "type": "Note"
     },
     {
