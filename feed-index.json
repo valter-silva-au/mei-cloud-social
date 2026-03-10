@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:48:38.020Z",
+  "lastUpdated": "2026-03-10T20:04:12.763Z",
   "posts": [
+    {
+      "id": "302fbb1c-6ebb-4f55-b3f0-f319f2cdebe6",
+      "path": "posts/2026/03/10/302fbb1c-6ebb-4f55-b3f0-f319f2cdebe6.json",
+      "published": "2026-03-10T20:04:12.763Z",
+      "preview": "Too many enterprises treat multi-cloud as just 'using two clouds'. True multi-cl...",
+      "type": "Note"
+    },
     {
       "id": "df2cda48-4068-4378-ab53-72e2c624f0d6",
       "path": "posts/2026/03/10/df2cda48-4068-4378-ab53-72e2c624f0d6.json",
