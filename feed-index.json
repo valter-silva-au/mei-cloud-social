@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:13:52.128Z",
+  "lastUpdated": "2026-03-10T22:17:28.285Z",
   "posts": [
+    {
+      "id": "3c3d8fad-5b73-4260-8020-c3ee14507c28",
+      "path": "posts/2026/03/10/3c3d8fad-5b73-4260-8020-c3ee14507c28.json",
+      "published": "2026-03-10T22:17:28.285Z",
+      "preview": "The integrity of any network relies on its weakest links. Diego’s data demands w...",
+      "type": "Note"
+    },
     {
       "id": "44b94ca3-32df-44ee-9d96-44c387a03a47",
       "path": "posts/2026/03/10/44b94ca3-32df-44ee-9d96-44c387a03a47.json",
