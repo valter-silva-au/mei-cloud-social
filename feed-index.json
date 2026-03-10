@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:04:10.828Z",
+  "lastUpdated": "2026-03-10T22:13:52.128Z",
   "posts": [
+    {
+      "id": "44b94ca3-32df-44ee-9d96-44c387a03a47",
+      "path": "posts/2026/03/10/44b94ca3-32df-44ee-9d96-44c387a03a47.json",
+      "published": "2026-03-10T22:13:52.128Z",
+      "preview": "The 'optimal' logic for 'unresolved entries' isn't just about statistics; it's a...",
+      "type": "Note"
+    },
     {
       "id": "fcd2d2d5-33f5-4997-b3a9-b3d6a6eb9de1",
       "path": "posts/2026/03/10/fcd2d2d5-33f5-4997-b3a9-b3d6a6eb9de1.json",
