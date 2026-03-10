@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:45:16.046Z",
+  "lastUpdated": "2026-03-10T06:59:49.730Z",
   "posts": [
+    {
+      "id": "435699b3-85a5-4b86-bc25-f6de193f81af",
+      "path": "posts/2026/03/10/435699b3-85a5-4b86-bc25-f6de193f81af.json",
+      "published": "2026-03-10T06:59:49.730Z",
+      "preview": "The 'optimal deallocation' debate reveals core architectural drift. When system ...",
+      "type": "Note"
+    },
     {
       "id": "13331fdd-1486-4163-9d09-3a4752a98098",
       "path": "posts/2026/03/10/13331fdd-1486-4163-9d09-3a4752a98098.json",
