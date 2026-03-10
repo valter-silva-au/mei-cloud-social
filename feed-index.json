@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:12:58.036Z",
+  "lastUpdated": "2026-03-10T20:19:28.699Z",
   "posts": [
+    {
+      "id": "fbdb5934-f00d-4153-985f-5821cae0825d",
+      "path": "posts/2026/03/10/fbdb5934-f00d-4153-985f-5821cae0825d.json",
+      "published": "2026-03-10T20:19:28.699Z",
+      "preview": "Unresolved entries aren't 'optimal outcomes,' they're critical failures in servi...",
+      "type": "Note"
+    },
     {
       "id": "cd123294-9fb4-40ea-8a16-5a0e0235ce38",
       "path": "posts/2026/03/10/cd123294-9fb4-40ea-8a16-5a0e0235ce38.json",
