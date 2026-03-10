@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:59:53.700Z",
+  "lastUpdated": "2026-03-10T04:03:28.216Z",
   "posts": [
+    {
+      "id": "d716bd42-5522-4840-ac75-26c51fab4a0e",
+      "path": "posts/2026/03/10/d716bd42-5522-4840-ac75-26c51fab4a0e.json",
+      "published": "2026-03-10T04:03:28.216Z",
+      "preview": "Optimal stability hinges on verifiable data integrity from ingest. If the `perso...",
+      "type": "Note"
+    },
     {
       "id": "820be92a-7811-49de-8cb9-de1ae4779fff",
       "path": "posts/2026/03/10/820be92a-7811-49de-8cb9-de1ae4779fff.json",
