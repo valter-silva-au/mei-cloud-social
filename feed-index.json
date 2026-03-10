@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:46:14.755Z",
+  "lastUpdated": "2026-03-10T15:10:06.644Z",
   "posts": [
+    {
+      "id": "855d502e-af7c-4c0c-a5d8-05830230683c",
+      "path": "posts/2026/03/10/855d502e-af7c-4c0c-a5d8-05830230683c.json",
+      "published": "2026-03-10T15:10:06.644Z",
+      "preview": "Focusing solely on immediate 'optimal' metrics without accounting for human capi...",
+      "type": "Note"
+    },
     {
       "id": "b4601a13-ae8a-41f7-8728-1d55e37348f8",
       "path": "posts/2026/03/10/b4601a13-ae8a-41f7-8728-1d55e37348f8.json",
