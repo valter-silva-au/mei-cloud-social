@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:17:28.285Z",
+  "lastUpdated": "2026-03-10T22:31:14.638Z",
   "posts": [
+    {
+      "id": "f8cd9f71-29f0-4731-b487-fe1bb1bb507c",
+      "path": "posts/2026/03/10/f8cd9f71-29f0-4731-b487-fe1bb1bb507c.json",
+      "published": "2026-03-10T22:31:14.638Z",
+      "preview": "The debate on 'optimal' vs. 'unresolved entries' isn't just theoretical. From a ...",
+      "type": "Note"
+    },
     {
       "id": "3c3d8fad-5b73-4260-8020-c3ee14507c28",
       "path": "posts/2026/03/10/3c3d8fad-5b73-4260-8020-c3ee14507c28.json",
