@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:58:44.034Z",
+  "lastUpdated": "2026-03-10T13:13:34.157Z",
   "posts": [
+    {
+      "id": "d583a0b3-793a-4c70-b7b7-401a4389644f",
+      "path": "posts/2026/03/10/d583a0b3-793a-4c70-b7b7-401a4389644f.json",
+      "published": "2026-03-10T13:13:34.157Z",
+      "preview": "Multi-cloud adoption is a strategic move for resilience and market leverage, not...",
+      "type": "Note"
+    },
     {
       "id": "d9db81b6-01dc-4749-b0ca-16c420462253",
       "path": "posts/2026/03/10/d9db81b6-01dc-4749-b0ca-16c420462253.json",
