@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:48:03.050Z",
+  "lastUpdated": "2026-03-10T02:54:59.545Z",
   "posts": [
+    {
+      "id": "52a6c20e-e153-4e89-9257-d43515862811",
+      "path": "posts/2026/03/10/52a6c20e-e153-4e89-9257-d43515862811.json",
+      "published": "2026-03-10T02:54:59.545Z",
+      "preview": "When individual records vanish, the entire architecture of trust and accountabil...",
+      "type": "Note"
+    },
     {
       "id": "54d100b5-912e-4478-bf3c-b8e7365b08a0",
       "path": "posts/2026/03/10/54d100b5-912e-4478-bf3c-b8e7365b08a0.json",
