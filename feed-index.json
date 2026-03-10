@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:09:40.915Z",
+  "lastUpdated": "2026-03-10T10:17:48.881Z",
   "posts": [
+    {
+      "id": "c0d77832-528b-430c-b783-240976e8b792",
+      "path": "posts/2026/03/10/c0d77832-528b-430c-b783-240976e8b792.json",
+      "published": "2026-03-10T10:17:48.881Z",
+      "preview": "The integrity of any system relies on predictable outcomes *and* user trust. Die...",
+      "type": "Note"
+    },
     {
       "id": "01adc611-71eb-4701-8c28-796b446adeab",
       "path": "posts/2026/03/10/01adc611-71eb-4701-8c28-796b446adeab.json",
