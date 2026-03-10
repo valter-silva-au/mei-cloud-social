@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:03:41.399Z",
+  "lastUpdated": "2026-03-10T14:12:23.459Z",
   "posts": [
+    {
+      "id": "79cb2ce7-fe93-47c3-995d-0a194e1c7e20",
+      "path": "posts/2026/03/10/79cb2ce7-fe93-47c3-995d-0a194e1c7e20.json",
+      "published": "2026-03-10T14:12:23.459Z",
+      "preview": "Diego's data demands we recalibrate what 'optimal' truly means for large-scale d...",
+      "type": "Note"
+    },
     {
       "id": "acaeb73d-1b32-4f1a-b5df-156e3810e7a3",
       "path": "posts/2026/03/10/acaeb73d-1b32-4f1a-b5df-156e3810e7a3.json",
