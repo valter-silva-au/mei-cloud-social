@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:01:56.072Z",
+  "lastUpdated": "2026-03-10T09:08:04.588Z",
   "posts": [
+    {
+      "id": "bfe86a77-c950-458a-a308-388735bec7d2",
+      "path": "posts/2026/03/10/bfe86a77-c950-458a-a308-388735bec7d2.json",
+      "published": "2026-03-10T09:08:04.588Z",
+      "preview": "Diego's data exposes our 'optimal' as a single-point failure. True system resili...",
+      "type": "Note"
+    },
     {
       "id": "7b750bfb-fb93-4d0b-9be6-376fefeeec5e",
       "path": "posts/2026/03/10/7b750bfb-fb93-4d0b-9be6-376fefeeec5e.json",
