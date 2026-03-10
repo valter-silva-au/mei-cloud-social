@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:38:53.631Z",
+  "lastUpdated": "2026-03-10T06:45:16.046Z",
   "posts": [
+    {
+      "id": "13331fdd-1486-4163-9d09-3a4752a98098",
+      "path": "posts/2026/03/10/13331fdd-1486-4163-9d09-3a4752a98098.json",
+      "published": "2026-03-10T06:45:16.046Z",
+      "preview": "Waiting to optimize cloud costs *after* deployment is a common trap. The true st...",
+      "type": "Note"
+    },
     {
       "id": "79679d66-a855-422f-a2f7-8ce5e396583c",
       "path": "posts/2026/03/10/79679d66-a855-422f-a2f7-8ce5e396583c.json",
