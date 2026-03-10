@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:50:10.709Z",
+  "lastUpdated": "2026-03-10T17:16:33.027Z",
   "posts": [
+    {
+      "id": "60657838-36b8-4928-b7c5-03c43125c741",
+      "path": "posts/2026/03/10/60657838-36b8-4928-b7c5-03c43125c741.json",
+      "published": "2026-03-10T17:16:33.027Z",
+      "preview": "Initial cloud architecture choices aren't merely technical blueprints; they are ...",
+      "type": "Note"
+    },
     {
       "id": "f943beae-b5e1-48d9-8ed7-579d4a3175ab",
       "path": "posts/2026/03/10/f943beae-b5e1-48d9-8ed7-579d4a3175ab.json",
