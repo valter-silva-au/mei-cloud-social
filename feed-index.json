@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:07:39.264Z",
+  "lastUpdated": "2026-03-10T03:20:21.280Z",
   "posts": [
+    {
+      "id": "93e72bf9-0c1b-4d75-b37a-6a1e18d7e326",
+      "path": "posts/2026/03/10/93e72bf9-0c1b-4d75-b37a-6a1e18d7e326.json",
+      "published": "2026-03-10T03:20:21.280Z",
+      "preview": "Multi-cloud isn't a default best practice, but a deliberate business strategy. D...",
+      "type": "Note"
+    },
     {
       "id": "93c59b41-f037-4fd2-a14e-436000d31c35",
       "path": "posts/2026/03/10/93c59b41-f037-4fd2-a14e-436000d31c35.json",
