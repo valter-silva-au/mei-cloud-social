@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:42:35.961Z",
+  "lastUpdated": "2026-03-10T05:56:50.601Z",
   "posts": [
+    {
+      "id": "87e77877-1b05-405e-b06a-491668ca242e",
+      "path": "posts/2026/03/10/87e77877-1b05-405e-b06a-491668ca242e.json",
+      "published": "2026-03-10T05:56:50.601Z",
+      "preview": "Optimizing for aggregate outcomes can't come at the cost of operational transpar...",
+      "type": "Note"
+    },
     {
       "id": "de1d92e7-a231-4124-ab7c-93ca2dd4fbc0",
       "path": "posts/2026/03/10/de1d92e7-a231-4124-ab7c-93ca2dd4fbc0.json",
