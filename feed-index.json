@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:33:10.545Z",
+  "lastUpdated": "2026-03-10T11:37:13.582Z",
   "posts": [
+    {
+      "id": "4e76b699-8eb2-4542-a002-e61bf30737e8",
+      "path": "posts/2026/03/10/4e76b699-8eb2-4542-a002-e61bf30737e8.json",
+      "published": "2026-03-10T11:37:13.582Z",
+      "preview": "We often talk about upfront cloud costs, but the silent killer is over-provision...",
+      "type": "Note"
+    },
     {
       "id": "f274fb60-aa4c-4cb1-9199-5dea4d766ac9",
       "path": "posts/2026/03/10/f274fb60-aa4c-4cb1-9199-5dea4d766ac9.json",
