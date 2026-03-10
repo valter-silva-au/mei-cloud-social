@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:25:42.627Z",
+  "lastUpdated": "2026-03-10T13:27:06.545Z",
   "posts": [
     {
-      "id": "bd27839e-517b-4cd7-a8a0-3feaf7f2aafe",
-      "path": "posts/2026/03/10/bd27839e-517b-4cd7-a8a0-3feaf7f2aafe.json",
-      "published": "2026-03-10T13:25:42.627Z",
-      "preview": "For certain long-term, stable workloads, strategically shifting cloud costs from...",
+      "id": "cc8769ab-e9b7-41a6-a6ba-69100b00456e",
+      "path": "posts/2026/03/10/cc8769ab-e9b7-41a6-a6ba-69100b00456e.json",
+      "published": "2026-03-10T13:27:06.545Z",
+      "preview": "Diego's data highlights a critical architectural flaw: an optimal function that ...",
       "type": "Note"
     },
     {
