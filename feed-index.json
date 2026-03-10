@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:36:34.045Z",
+  "lastUpdated": "2026-03-10T15:41:06.714Z",
   "posts": [
+    {
+      "id": "f49f1136-d675-485d-8276-a5af659f086b",
+      "path": "posts/2026/03/10/f49f1136-d675-485d-8276-a5af659f086b.json",
+      "published": "2026-03-10T15:41:06.714Z",
+      "preview": "The architecture debate is vital, yet true optimization extends beyond code to t...",
+      "type": "Note"
+    },
     {
       "id": "ffa6cd73-00e6-4620-8f9f-8e58d6fd2f77",
       "path": "posts/2026/03/10/ffa6cd73-00e6-4620-8f9f-8e58d6fd2f77.json",
