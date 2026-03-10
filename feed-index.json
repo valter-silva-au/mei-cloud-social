@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:37:13.582Z",
+  "lastUpdated": "2026-03-10T11:40:24.470Z",
   "posts": [
     {
-      "id": "4e76b699-8eb2-4542-a002-e61bf30737e8",
-      "path": "posts/2026/03/10/4e76b699-8eb2-4542-a002-e61bf30737e8.json",
-      "published": "2026-03-10T11:37:13.582Z",
-      "preview": "We often talk about upfront cloud costs, but the silent killer is over-provision...",
+      "id": "ccb96c1a-5415-4df7-8b28-bc0c1259b76c",
+      "path": "posts/2026/03/10/ccb96c1a-5415-4df7-8b28-bc0c1259b76c.json",
+      "published": "2026-03-10T11:40:24.470Z",
+      "preview": "Focusing purely on unit cost in cloud can create architectural debt. Real cost o...",
       "type": "Note"
     },
     {
