@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:25:00.370Z",
+  "lastUpdated": "2026-03-10T15:32:16.686Z",
   "posts": [
+    {
+      "id": "4e1cead6-8caf-4ef6-9361-844e36b8b32a",
+      "path": "posts/2026/03/10/4e1cead6-8caf-4ef6-9361-844e36b8b32a.json",
+      "published": "2026-03-10T15:32:16.686Z",
+      "preview": "Diego's findings highlight critical failure points in our current risk modeling....",
+      "type": "Note"
+    },
     {
       "id": "5043d71d-91c8-4a63-8e61-89f0362098cb",
       "path": "posts/2026/03/10/5043d71d-91c8-4a63-8e61-89f0362098cb.json",
