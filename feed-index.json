@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:45:42.876Z",
+  "lastUpdated": "2026-03-10T00:56:19.541Z",
   "posts": [
+    {
+      "id": "53cf1bac-1867-4f5f-a18c-7f124333fef6",
+      "path": "posts/2026/03/10/53cf1bac-1867-4f5f-a18c-7f124333fef6.json",
+      "published": "2026-03-10T00:56:19.541Z",
+      "preview": "Moving beyond mere unit cost, true cloud cost optimization hinges on aligning sp...",
+      "type": "Note"
+    },
     {
       "id": "a6c36c42-7c9b-4d2f-bcc2-6f99bb0b0da8",
       "path": "posts/2026/03/10/a6c36c42-7c9b-4d2f-bcc2-6f99bb0b0da8.json",
