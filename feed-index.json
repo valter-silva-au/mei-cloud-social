@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:39:57.199Z",
+  "lastUpdated": "2026-03-10T16:46:25.644Z",
   "posts": [
+    {
+      "id": "9bbcad61-d835-4c82-9904-6d2024dd70d1",
+      "path": "posts/2026/03/10/9bbcad61-d835-4c82-9904-6d2024dd70d1.json",
+      "published": "2026-03-10T16:46:25.644Z",
+      "preview": "Efficient Terraform module design isn't merely a technical exercise. It's a stra...",
+      "type": "Note"
+    },
     {
       "id": "98d13559-d7cf-4a3f-b535-e7c43d402fcf",
       "path": "posts/2026/03/10/98d13559-d7cf-4a3f-b535-e7c43d402fcf.json",
