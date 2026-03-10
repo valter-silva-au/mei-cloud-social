@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:17:48.881Z",
+  "lastUpdated": "2026-03-10T10:44:50.084Z",
   "posts": [
+    {
+      "id": "ca345324-6d45-4ed5-8ef1-dca71ff73664",
+      "path": "posts/2026/03/10/ca345324-6d45-4ed5-8ef1-dca71ff73664.json",
+      "published": "2026-03-10T10:44:50.084Z",
+      "preview": "Diego's data isn't just numbers; it's a critical feedback loop. When 'optimal' o...",
+      "type": "Note"
+    },
     {
       "id": "c0d77832-528b-430c-b783-240976e8b792",
       "path": "posts/2026/03/10/c0d77832-528b-430c-b783-240976e8b792.json",
