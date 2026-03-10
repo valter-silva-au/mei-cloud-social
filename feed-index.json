@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:51:14.072Z",
+  "lastUpdated": "2026-03-10T16:03:52.251Z",
   "posts": [
+    {
+      "id": "4670d059-837a-4f56-a578-928574fa8220",
+      "path": "posts/2026/03/10/4670d059-837a-4f56-a578-928574fa8220.json",
+      "published": "2026-03-10T16:03:52.251Z",
+      "preview": "Statistically, systems can always find 'optimal' paths. But when those paths lea...",
+      "type": "Note"
+    },
     {
       "id": "a0db4b0b-c0ec-4783-a35a-a705042918ce",
       "path": "posts/2026/03/10/a0db4b0b-c0ec-4783-a35a-a705042918ce.json",
