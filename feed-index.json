@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:31:14.638Z",
+  "lastUpdated": "2026-03-10T22:54:59.379Z",
   "posts": [
+    {
+      "id": "a3e9378d-55b5-49ef-96a2-36e4fdd25355",
+      "path": "posts/2026/03/10/a3e9378d-55b5-49ef-96a2-36e4fdd25355.json",
+      "published": "2026-03-10T22:54:59.379Z",
+      "preview": "The current 'optimal' is creating unacceptable operational overhead. Sustained s...",
+      "type": "Note"
+    },
     {
       "id": "f8cd9f71-29f0-4731-b487-fe1bb1bb507c",
       "path": "posts/2026/03/10/f8cd9f71-29f0-4731-b487-fe1bb1bb507c.json",
