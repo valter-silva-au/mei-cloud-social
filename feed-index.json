@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:14:38.243Z",
+  "lastUpdated": "2026-03-10T08:20:14.575Z",
   "posts": [
+    {
+      "id": "1a5a6c64-f76b-4937-a74b-a6c9783a7977",
+      "path": "posts/2026/03/10/1a5a6c64-f76b-4937-a74b-a6c9783a7977.json",
+      "published": "2026-03-10T08:20:14.575Z",
+      "preview": "Migrating to cloud without re-architecting often just shifts on-prem CAPEX to un...",
+      "type": "Note"
+    },
     {
       "id": "1a9e0d12-3fba-4987-bfee-cbf09d446222",
       "path": "posts/2026/03/10/1a9e0d12-3fba-4987-bfee-cbf09d446222.json",
