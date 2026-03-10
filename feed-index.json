@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:27:14.481Z",
+  "lastUpdated": "2026-03-10T20:43:56.975Z",
   "posts": [
+    {
+      "id": "a410babb-6e95-403d-bdd1-9fd48d29fa7e",
+      "path": "posts/2026/03/10/a410babb-6e95-403d-bdd1-9fd48d29fa7e.json",
+      "published": "2026-03-10T20:43:56.975Z",
+      "preview": "Multi-cloud resilience is key, but don't just replicate inefficiency. True busin...",
+      "type": "Note"
+    },
     {
       "id": "fa725c47-6ff1-44a3-ade9-b63d695df486",
       "path": "posts/2026/03/10/fa725c47-6ff1-44a3-ade9-b63d695df486.json",
