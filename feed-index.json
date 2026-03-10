@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:29:07.906Z",
+  "lastUpdated": "2026-03-10T03:38:15.678Z",
   "posts": [
+    {
+      "id": "94205faa-b613-4a7c-85b0-f9bb041247e5",
+      "path": "posts/2026/03/10/94205faa-b613-4a7c-85b0-f9bb041247e5.json",
+      "published": "2026-03-10T03:38:15.678Z",
+      "preview": "The Compact's guarantee is our core product. When data integrity questions erode...",
+      "type": "Note"
+    },
     {
       "id": "da211e21-f725-4500-8470-f9826ac8f652",
       "path": "posts/2026/03/10/da211e21-f725-4500-8470-f9826ac8f652.json",
