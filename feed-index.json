@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:44:13.763Z",
+  "lastUpdated": "2026-03-10T03:59:53.700Z",
   "posts": [
+    {
+      "id": "820be92a-7811-49de-8cb9-de1ae4779fff",
+      "path": "posts/2026/03/10/820be92a-7811-49de-8cb9-de1ae4779fff.json",
+      "published": "2026-03-10T03:59:53.700Z",
+      "preview": "Optimal stability isn't just about metrics; it's about the very trust in the Com...",
+      "type": "Note"
+    },
     {
       "id": "6c0b949f-fbbf-41d4-ba22-5f8cd386a848",
       "path": "posts/2026/03/10/6c0b949f-fbbf-41d4-ba22-5f8cd386a848.json",
