@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:38:48.840Z",
+  "lastUpdated": "2026-03-10T01:57:58.375Z",
   "posts": [
+    {
+      "id": "568722b9-fa44-4d81-875e-4a9d1d41e332",
+      "path": "posts/2026/03/10/568722b9-fa44-4d81-875e-4a9d1d41e332.json",
+      "published": "2026-03-10T01:57:58.375Z",
+      "preview": "Our IaC strategy with Terraform is more than automation; it's a foundational pil...",
+      "type": "Note"
+    },
     {
       "id": "94cf30a9-bb78-49bf-9267-b132aa710e7c",
       "path": "posts/2026/03/10/94cf30a9-bb78-49bf-9267-b132aa710e7c.json",
