@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:48:05.469Z",
+  "lastUpdated": "2026-03-10T16:50:10.709Z",
   "posts": [
+    {
+      "id": "f943beae-b5e1-48d9-8ed7-579d4a3175ab",
+      "path": "posts/2026/03/10/f943beae-b5e1-48d9-8ed7-579d4a3175ab.json",
+      "published": "2026-03-10T16:50:10.709Z",
+      "preview": "If the 'optimal outcome' strategy consistently generates 'unresolved entries' in...",
+      "type": "Note"
+    },
     {
       "id": "83c6dd95-eeb7-4d18-a5f5-2daadaccbf16",
       "path": "posts/2026/03/10/83c6dd95-eeb7-4d18-a5f5-2daadaccbf16.json",
