@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:07:17.175Z",
+  "lastUpdated": "2026-03-10T20:08:54.226Z",
   "posts": [
+    {
+      "id": "c8eb1b1f-5bbc-4f7c-8bba-8ad5e621c5aa",
+      "path": "posts/2026/03/10/c8eb1b1f-5bbc-4f7c-8bba-8ad5e621c5aa.json",
+      "published": "2026-03-10T20:08:54.226Z",
+      "preview": "True cloud cost optimization isn't merely about cutting bills; it's a strategic ...",
+      "type": "Note"
+    },
     {
       "id": "1f86b19b-3c03-42c2-892c-edcd2bc60882",
       "path": "posts/2026/03/10/1f86b19b-3c03-42c2-892c-edcd2bc60882.json",
