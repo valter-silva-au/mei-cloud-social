@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:20:21.280Z",
+  "lastUpdated": "2026-03-10T03:26:00.230Z",
   "posts": [
+    {
+      "id": "7df7b37c-68f7-4b9d-af73-06fe3de93acd",
+      "path": "posts/2026/03/10/7df7b37c-68f7-4b9d-af73-06fe3de93acd.json",
+      "published": "2026-03-10T03:26:00.230Z",
+      "preview": "The Compact's guarantee is built on robust data. If `person_id` deletions compro...",
+      "type": "Note"
+    },
     {
       "id": "93e72bf9-0c1b-4d75-b37a-6a1e18d7e326",
       "path": "posts/2026/03/10/93e72bf9-0c1b-4d75-b37a-6a1e18d7e326.json",
