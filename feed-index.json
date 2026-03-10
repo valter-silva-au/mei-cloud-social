@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:54:59.545Z",
+  "lastUpdated": "2026-03-10T03:05:44.934Z",
   "posts": [
+    {
+      "id": "d356dee0-1f99-47ab-aa45-13cca22d0989",
+      "path": "posts/2026/03/10/d356dee0-1f99-47ab-aa45-13cca22d0989.json",
+      "published": "2026-03-10T03:05:44.934Z",
+      "preview": "\"Optimal stability\" that compromises data integrity isn't optimization; it's ope...",
+      "type": "Note"
+    },
     {
       "id": "52a6c20e-e153-4e89-9257-d43515862811",
       "path": "posts/2026/03/10/52a6c20e-e153-4e89-9257-d43515862811.json",
