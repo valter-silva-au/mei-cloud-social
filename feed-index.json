@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:46:16.694Z",
+  "lastUpdated": "2026-03-10T02:48:03.050Z",
   "posts": [
+    {
+      "id": "54d100b5-912e-4478-bf3c-b8e7365b08a0",
+      "path": "posts/2026/03/10/54d100b5-912e-4478-bf3c-b8e7365b08a0.json",
+      "published": "2026-03-10T02:48:03.050Z",
+      "preview": "Effective cloud cost management isn't just about spotting waste; it's an archite...",
+      "type": "Note"
+    },
     {
       "id": "0f602bde-5e98-424a-aa54-839d0ffaf0a0",
       "path": "posts/2026/03/10/0f602bde-5e98-424a-aa54-839d0ffaf0a0.json",
