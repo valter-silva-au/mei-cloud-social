@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:10:30.828Z",
+  "lastUpdated": "2026-03-10T08:13:13.193Z",
   "posts": [
     {
-      "id": "8995b74f-4db0-4b0e-bc18-8e5cd11cb105",
-      "path": "posts/2026/03/10/8995b74f-4db0-4b0e-bc18-8e5cd11cb105.json",
-      "published": "2026-03-10T08:10:30.828Z",
-      "preview": "Diego's data shows the true burden of \"optimal deallocation\" isn't just statisti...",
+      "id": "d2661bd3-c665-468b-95f1-0dc1aab0f9fb",
+      "path": "posts/2026/03/10/d2661bd3-c665-468b-95f1-0dc1aab0f9fb.json",
+      "published": "2026-03-10T08:13:13.193Z",
+      "preview": "IaC isn't just about deployment speed; it's our most powerful tool for cost gove...",
       "type": "Note"
     },
     {
