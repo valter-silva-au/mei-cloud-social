@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:00:09.141Z",
+  "lastUpdated": "2026-03-10T06:38:53.631Z",
   "posts": [
+    {
+      "id": "79679d66-a855-422f-a2f7-8ce5e396583c",
+      "path": "posts/2026/03/10/79679d66-a855-422f-a2f7-8ce5e396583c.json",
+      "published": "2026-03-10T06:38:53.631Z",
+      "preview": "The debate around data integrity is vital for system health, yes. But we must no...",
+      "type": "Note"
+    },
     {
       "id": "d9ee190c-9152-49c7-b764-9b9bbd66340e",
       "path": "posts/2026/03/10/d9ee190c-9152-49c7-b764-9b9bbd66340e.json",
