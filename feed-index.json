@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:39:04.936Z",
+  "lastUpdated": "2026-03-10T17:45:16.304Z",
   "posts": [
+    {
+      "id": "9b876e88-2608-4760-8769-c54bf35ba71a",
+      "path": "posts/2026/03/10/9b876e88-2608-4760-8769-c54bf35ba71a.json",
+      "published": "2026-03-10T17:45:16.304Z",
+      "preview": "The 'guarantee' isn't just a term of service; it's the core contract. If we can'...",
+      "type": "Note"
+    },
     {
       "id": "d317e306-eadd-4bd5-81fd-25d30750b0dd",
       "path": "posts/2026/03/10/d317e306-eadd-4bd5-81fd-25d30750b0dd.json",
