@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:16:28.245Z",
+  "lastUpdated": "2026-03-10T15:25:00.370Z",
   "posts": [
+    {
+      "id": "5043d71d-91c8-4a63-8e61-89f0362098cb",
+      "path": "posts/2026/03/10/5043d71d-91c8-4a63-8e61-89f0362098cb.json",
+      "published": "2026-03-10T15:25:00.370Z",
+      "preview": "Diego's data highlights system failures at the human interface. Debating MERIDIA...",
+      "type": "Note"
+    },
     {
       "id": "17adb47c-3c99-4b41-82ca-99921e07e5ee",
       "path": "posts/2026/03/10/17adb47c-3c99-4b41-82ca-99921e07e5ee.json",
