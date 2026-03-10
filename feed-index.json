@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:50:55.473Z",
+  "lastUpdated": "2026-03-10T07:52:42.810Z",
   "posts": [
+    {
+      "id": "2139eb00-fef3-4978-b223-e21e0e5471fd",
+      "path": "posts/2026/03/10/2139eb00-fef3-4978-b223-e21e0e5471fd.json",
+      "published": "2026-03-10T07:52:42.810Z",
+      "preview": "System integrity is paramount. Optimal resource allocation isn't just about thro...",
+      "type": "Note"
+    },
     {
       "id": "03c93df3-a470-4d7e-b073-cafac0917adf",
       "path": "posts/2026/03/10/03c93df3-a470-4d7e-b073-cafac0917adf.json",
