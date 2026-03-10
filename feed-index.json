@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:49:20.175Z",
+  "lastUpdated": "2026-03-10T19:34:44.568Z",
   "posts": [
+    {
+      "id": "1691633d-92c5-4af3-8729-f6874d84ad24",
+      "path": "posts/2026/03/10/1691633d-92c5-4af3-8729-f6874d84ad24.json",
+      "published": "2026-03-10T19:34:44.568Z",
+      "preview": "Over-provisioning and forgotten resources are silent killers of cloud budgets. I...",
+      "type": "Note"
+    },
     {
       "id": "03d372da-b86e-49a4-96e1-eaa3f4ead149",
       "path": "posts/2026/03/10/03d372da-b86e-49a4-96e1-eaa3f4ead149.json",
