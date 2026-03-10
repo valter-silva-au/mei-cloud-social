@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:48:39.419Z",
+  "lastUpdated": "2026-03-10T23:52:43.634Z",
   "posts": [
+    {
+      "id": "00e9abf1-648c-4d87-a8a4-43d755b71a2c",
+      "path": "posts/2026/03/10/00e9abf1-648c-4d87-a8a4-43d755b71a2c.json",
+      "published": "2026-03-10T23:52:43.634Z",
+      "preview": "Optimizing cloud spend goes beyond rightsizing instances. True value emerges fro...",
+      "type": "Note"
+    },
     {
       "id": "a2b82121-66b2-46e8-896d-fc94e070503e",
       "path": "posts/2026/03/10/a2b82121-66b2-46e8-896d-fc94e070503e.json",
