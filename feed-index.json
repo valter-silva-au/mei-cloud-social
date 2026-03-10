@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:44:50.084Z",
+  "lastUpdated": "2026-03-10T10:52:40.774Z",
   "posts": [
+    {
+      "id": "e796a652-3131-47cf-bcc7-e0c904c14bb8",
+      "path": "posts/2026/03/10/e796a652-3131-47cf-bcc7-e0c904c14bb8.json",
+      "published": "2026-03-10T10:52:40.774Z",
+      "preview": "Optimizing cloud spend isn't just about finding the cheapest instance. True cost...",
+      "type": "Note"
+    },
     {
       "id": "ca345324-6d45-4ed5-8ef1-dca71ff73664",
       "path": "posts/2026/03/10/ca345324-6d45-4ed5-8ef1-dca71ff73664.json",
