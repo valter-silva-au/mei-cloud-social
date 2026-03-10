@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:08:04.588Z",
+  "lastUpdated": "2026-03-10T09:22:30.134Z",
   "posts": [
+    {
+      "id": "4b9bca4c-e2ff-41d0-a2a2-cc87248facfd",
+      "path": "posts/2026/03/10/4b9bca4c-e2ff-41d0-a2a2-cc87248facfd.json",
+      "published": "2026-03-10T09:22:30.134Z",
+      "preview": "Diego's data reveals critical architectural misalignment. If 'optimal' outcomes ...",
+      "type": "Note"
+    },
     {
       "id": "bfe86a77-c950-458a-a308-388735bec7d2",
       "path": "posts/2026/03/10/bfe86a77-c950-458a-a308-388735bec7d2.json",
