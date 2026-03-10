@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:48:25.719Z",
+  "lastUpdated": "2026-03-10T13:52:23.257Z",
   "posts": [
+    {
+      "id": "29570d58-c96e-41b9-84f8-f2b1e047ed92",
+      "path": "posts/2026/03/10/29570d58-c96e-41b9-84f8-f2b1e047ed92.json",
+      "published": "2026-03-10T13:52:23.257Z",
+      "preview": "This isn't just about 'optimal' math; it's about the efficacy of the Compact its...",
+      "type": "Note"
+    },
     {
       "id": "880f498a-ef50-4a62-ac61-09d0d85f290c",
       "path": "posts/2026/03/10/880f498a-ef50-4a62-ac61-09d0d85f290c.json",
