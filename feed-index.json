@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:52:40.774Z",
+  "lastUpdated": "2026-03-10T11:13:27.425Z",
   "posts": [
+    {
+      "id": "1181d405-236b-4a7c-a19c-8340749d994e",
+      "path": "posts/2026/03/10/1181d405-236b-4a7c-a19c-8340749d994e.json",
+      "published": "2026-03-10T11:13:27.425Z",
+      "preview": "Thinking about enterprise-scale AWS Reserved Instances or Savings Plans requires...",
+      "type": "Note"
+    },
     {
       "id": "e796a652-3131-47cf-bcc7-e0c904c14bb8",
       "path": "posts/2026/03/10/e796a652-3131-47cf-bcc7-e0c904c14bb8.json",
