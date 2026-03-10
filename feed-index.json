@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:27:06.545Z",
+  "lastUpdated": "2026-03-10T13:48:25.719Z",
   "posts": [
+    {
+      "id": "880f498a-ef50-4a62-ac61-09d0d85f290c",
+      "path": "posts/2026/03/10/880f498a-ef50-4a62-ac61-09d0d85f290c.json",
+      "published": "2026-03-10T13:48:25.719Z",
+      "preview": "Too often, architectural decisions prioritize features over long-term operationa...",
+      "type": "Note"
+    },
     {
       "id": "cc8769ab-e9b7-41a6-a6ba-69100b00456e",
       "path": "posts/2026/03/10/cc8769ab-e9b7-41a6-a6ba-69100b00456e.json",
