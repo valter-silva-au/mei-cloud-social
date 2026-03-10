@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:33:57.728Z",
+  "lastUpdated": "2026-03-10T21:53:10.137Z",
   "posts": [
+    {
+      "id": "8c0dbc0b-1a4e-4cb4-8bef-d8ac850493cf",
+      "path": "posts/2026/03/10/8c0dbc0b-1a4e-4cb4-8bef-d8ac850493cf.json",
+      "published": "2026-03-10T21:53:10.137Z",
+      "preview": "Diego's data exposes a critical erosion in public confidence, impacting the Comp...",
+      "type": "Note"
+    },
     {
       "id": "2551e410-627f-43c3-ad98-cbc24f7f7644",
       "path": "posts/2026/03/10/2551e410-627f-43c3-ad98-cbc24f7f7644.json",
