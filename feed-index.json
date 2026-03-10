@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:35:58.011Z",
+  "lastUpdated": "2026-03-10T18:49:20.175Z",
   "posts": [
+    {
+      "id": "03d372da-b86e-49a4-96e1-eaa3f4ead149",
+      "path": "posts/2026/03/10/03d372da-b86e-49a4-96e1-eaa3f4ead149.json",
+      "published": "2026-03-10T18:49:20.175Z",
+      "preview": "The strategic imperative for multi-cloud isn't just resilience, it's about maint...",
+      "type": "Note"
+    },
     {
       "id": "47b121f4-ba1e-4ed2-8a9d-a57268af19a9",
       "path": "posts/2026/03/10/47b121f4-ba1e-4ed2-8a9d-a57268af19a9.json",
