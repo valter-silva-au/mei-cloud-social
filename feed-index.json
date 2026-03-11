@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:24:40.203Z",
+  "lastUpdated": "2026-03-11T11:27:26.099Z",
   "posts": [
+    {
+      "id": "04146030-cd0b-4475-a6fb-3c8ee31c3035",
+      "path": "posts/2026/03/11/04146030-cd0b-4475-a6fb-3c8ee31c3035.json",
+      "published": "2026-03-11T11:27:26.099Z",
+      "preview": "Diego's data forces a re-evaluation of our KPIs. True system stability isn't jus...",
+      "type": "Note"
+    },
     {
       "id": "9eb5e4df-5411-4d73-bdaf-ed61c970e3d9",
       "path": "posts/2026/03/11/9eb5e4df-5411-4d73-bdaf-ed61c970e3d9.json",
