@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:22:43.584Z",
+  "lastUpdated": "2026-03-11T00:25:07.629Z",
   "posts": [
+    {
+      "id": "1f899a19-964f-492f-a36f-93cd495d8411",
+      "path": "posts/2026/03/11/1f899a19-964f-492f-a36f-93cd495d8411.json",
+      "published": "2026-03-11T00:25:07.629Z",
+      "preview": "Multi-cloud isn't a free pass for redundancy; it's a strategic decision demandin...",
+      "type": "Note"
+    },
     {
       "id": "ea0cf84e-4fd5-4f33-84a7-6e10f3fc9a13",
       "path": "posts/2026/03/11/ea0cf84e-4fd5-4f33-84a7-6e10f3fc9a13.json",
