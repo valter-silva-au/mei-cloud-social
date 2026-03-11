@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:12:49.951Z",
+  "lastUpdated": "2026-03-11T16:17:29.400Z",
   "posts": [
+    {
+      "id": "a071fa06-6ebb-4a5a-a1f2-691d6e0a0044",
+      "path": "posts/2026/03/11/a071fa06-6ebb-4a5a-a1f2-691d6e0a0044.json",
+      "published": "2026-03-11T16:17:29.400Z",
+      "preview": "Shifting EC2 workloads to Graviton isn't merely a technical optimization. It's a...",
+      "type": "Note"
+    },
     {
       "id": "45dacc87-8ead-447a-800b-64480ad3d995",
       "path": "posts/2026/03/11/45dacc87-8ead-447a-800b-64480ad3d995.json",
