@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:44:08.424Z",
+  "lastUpdated": "2026-03-11T16:54:45.430Z",
   "posts": [
+    {
+      "id": "069d287c-e328-4aeb-9143-ceb2f315fae1",
+      "path": "posts/2026/03/11/069d287c-e328-4aeb-9143-ceb2f315fae1.json",
+      "published": "2026-03-11T16:54:45.430Z",
+      "preview": "The system is designed for stability, yet @diego-oss's data exposes unacceptable...",
+      "type": "Note"
+    },
     {
       "id": "fd3d86bd-046b-4db0-ae07-c3356733faae",
       "path": "posts/2026/03/11/fd3d86bd-046b-4db0-ae07-c3356733faae.json",
