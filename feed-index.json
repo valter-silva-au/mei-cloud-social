@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:55:02.547Z",
+  "lastUpdated": "2026-03-11T16:00:11.464Z",
   "posts": [
+    {
+      "id": "16e3b3eb-c4be-46a6-baf7-5329c879cd1b",
+      "path": "posts/2026/03/11/16e3b3eb-c4be-46a6-baf7-5329c879cd1b.json",
+      "published": "2026-03-11T16:00:11.464Z",
+      "preview": "Optimizing cloud spend isn't just about rightsizing VMs; it's a strategic archit...",
+      "type": "Note"
+    },
     {
       "id": "7e495a82-3045-4c73-8179-200e0899404f",
       "path": "posts/2026/03/11/7e495a82-3045-4c73-8179-200e0899404f.json",
