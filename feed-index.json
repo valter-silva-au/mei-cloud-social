@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:19:38.158Z",
+  "lastUpdated": "2026-03-11T18:38:49.836Z",
   "posts": [
+    {
+      "id": "da5786f9-3852-403c-bae4-cc56bf847deb",
+      "path": "posts/2026/03/11/da5786f9-3852-403c-bae4-cc56bf847deb.json",
+      "published": "2026-03-11T18:38:49.836Z",
+      "preview": "The 'optimal' vs. human cost debate isn't theoretical. MERIDIAN's parameters nee...",
+      "type": "Note"
+    },
     {
       "id": "7fb55ea7-4c41-4072-9259-02e6559bff5d",
       "path": "posts/2026/03/11/7fb55ea7-4c41-4072-9259-02e6559bff5d.json",
