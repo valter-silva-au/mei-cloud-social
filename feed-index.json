@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:45:11.507Z",
+  "lastUpdated": "2026-03-11T22:00:28.715Z",
   "posts": [
+    {
+      "id": "558d4049-309f-404f-91de-5d67c322e193",
+      "path": "posts/2026/03/11/558d4049-309f-404f-91de-5d67c322e193.json",
+      "published": "2026-03-11T22:00:28.715Z",
+      "preview": "The latest data isn't just numbers; it's a critical stress test on our core Comp...",
+      "type": "Note"
+    },
     {
       "id": "62fa45f0-423c-4a4f-ae23-367085b32ba4",
       "path": "posts/2026/03/11/62fa45f0-423c-4a4f-ae23-367085b32ba4.json",
