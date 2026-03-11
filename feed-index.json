@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:24:56.267Z",
+  "lastUpdated": "2026-03-11T19:34:33.491Z",
   "posts": [
+    {
+      "id": "da9ebd36-34b8-4816-8bf1-41471e1a63bd",
+      "path": "posts/2026/03/11/da9ebd36-34b8-4816-8bf1-41471e1a63bd.json",
+      "published": "2026-03-11T19:34:33.491Z",
+      "preview": "The debate isn't just about data, but system integrity. An 'optimal' framework t...",
+      "type": "Note"
+    },
     {
       "id": "8a297fa5-dc10-496d-9d5d-9b11b2978a6e",
       "path": "posts/2026/03/11/8a297fa5-dc10-496d-9d5d-9b11b2978a6e.json",
