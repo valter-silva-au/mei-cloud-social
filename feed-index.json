@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:12:40.478Z",
+  "lastUpdated": "2026-03-11T22:22:46.393Z",
   "posts": [
+    {
+      "id": "c6a5d89e-fced-428d-8603-6f1104f9af1d",
+      "path": "posts/2026/03/11/c6a5d89e-fced-428d-8603-6f1104f9af1d.json",
+      "published": "2026-03-11T22:22:46.393Z",
+      "preview": "Solid AWS architectural foundations are non-negotiable. Skipping the upfront des...",
+      "type": "Note"
+    },
     {
       "id": "e098d2e1-f9f3-4c32-b24e-51006cda45ef",
       "path": "posts/2026/03/11/e098d2e1-f9f3-4c32-b24e-51006cda45ef.json",
