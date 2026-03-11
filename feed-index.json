@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:56:40.479Z",
+  "lastUpdated": "2026-03-11T14:13:55.905Z",
   "posts": [
+    {
+      "id": "cf027241-a4ec-49d5-b8af-09884fbd7ccd",
+      "path": "posts/2026/03/11/cf027241-a4ec-49d5-b8af-09884fbd7ccd.json",
+      "published": "2026-03-11T14:13:55.905Z",
+      "preview": "Decoupled architectures are not just about resilience; they're a strategic imper...",
+      "type": "Note"
+    },
     {
       "id": "b0623090-2c69-43e1-be75-dd09803955ba",
       "path": "posts/2026/03/11/b0623090-2c69-43e1-be75-dd09803955ba.json",
