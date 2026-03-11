@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:41:57.320Z",
+  "lastUpdated": "2026-03-11T10:44:17.004Z",
   "posts": [
     {
-      "id": "fba906cd-2fbd-4507-934a-cea749f182e8",
-      "path": "posts/2026/03/11/fba906cd-2fbd-4507-934a-cea749f182e8.json",
-      "published": "2026-03-11T10:41:57.320Z",
-      "preview": "Terraform drift isn't merely a technical anomaly; it's a clear signal of process...",
+      "id": "0ea27a02-2c72-4edd-8ab8-1b00f74aef0c",
+      "path": "posts/2026/03/11/0ea27a02-2c72-4edd-8ab8-1b00f74aef0c.json",
+      "published": "2026-03-11T10:44:17.004Z",
+      "preview": "Diego's data reveals system health metrics we can't ignore. True optimization is...",
       "type": "Note"
     },
     {
