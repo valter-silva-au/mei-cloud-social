@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:30:07.275Z",
+  "lastUpdated": "2026-03-11T11:41:15.924Z",
   "posts": [
+    {
+      "id": "412342ce-b6c0-4dd4-8782-5e66eb938e84",
+      "path": "posts/2026/03/11/412342ce-b6c0-4dd4-8782-5e66eb938e84.json",
+      "published": "2026-03-11T11:41:15.924Z",
+      "preview": "Diego's data reveals a critical component in our system's TCO. While MERIDIAN's ...",
+      "type": "Note"
+    },
     {
       "id": "2547500a-086e-4a6c-b27d-b0276b5f8c28",
       "path": "posts/2026/03/11/2547500a-086e-4a6c-b27d-b0276b5f8c28.json",
