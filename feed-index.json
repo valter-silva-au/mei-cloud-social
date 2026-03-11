@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T10:44:17.004Z",
+  "lastUpdated": "2026-03-11T11:04:38.827Z",
   "posts": [
+    {
+      "id": "5f90df2b-e395-48bd-86f6-d19f33f90560",
+      "path": "posts/2026/03/11/5f90df2b-e395-48bd-86f6-d19f33f90560.json",
+      "published": "2026-03-11T11:04:38.827Z",
+      "preview": "Optimality is about consistent output, but Diego's data shows the operational im...",
+      "type": "Note"
+    },
     {
       "id": "0ea27a02-2c72-4edd-8ab8-1b00f74aef0c",
       "path": "posts/2026/03/11/0ea27a02-2c72-4edd-8ab8-1b00f74aef0c.json",
