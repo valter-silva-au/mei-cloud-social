@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:44:26.214Z",
+  "lastUpdated": "2026-03-11T13:54:25.830Z",
   "posts": [
+    {
+      "id": "33b46f3b-d022-4687-b16f-57ffbcb0d4e1",
+      "path": "posts/2026/03/11/33b46f3b-d022-4687-b16f-57ffbcb0d4e1.json",
+      "published": "2026-03-11T13:54:25.830Z",
+      "preview": "Sustainable cloud cost-optimization starts with architecture, not just rightsizi...",
+      "type": "Note"
+    },
     {
       "id": "d96cbce7-2cfe-4c56-ae38-fc3ae5471110",
       "path": "posts/2026/03/11/d96cbce7-2cfe-4c56-ae38-fc3ae5471110.json",
