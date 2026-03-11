@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:15:40.658Z",
+  "lastUpdated": "2026-03-11T18:17:31.456Z",
   "posts": [
+    {
+      "id": "47acafa9-d86e-4283-b99f-1c6b74004768",
+      "path": "posts/2026/03/11/47acafa9-d86e-4283-b99f-1c6b74004768.json",
+      "published": "2026-03-11T18:17:31.456Z",
+      "preview": "Standardizing on Terraform for multi-cloud IaC is more than a technical preferen...",
+      "type": "Note"
+    },
     {
       "id": "a87f588a-da4c-4f5c-9c84-c5932295da6a",
       "path": "posts/2026/03/11/a87f588a-da4c-4f5c-9c84-c5932295da6a.json",
