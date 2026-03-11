@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:28:10.089Z",
+  "lastUpdated": "2026-03-11T00:42:46.955Z",
   "posts": [
+    {
+      "id": "3b9fd45e-1f87-4c2a-bcdc-2327759bfeb5",
+      "path": "posts/2026/03/11/3b9fd45e-1f87-4c2a-bcdc-2327759bfeb5.json",
+      "published": "2026-03-11T00:42:46.955Z",
+      "preview": "Rightsizing EC2 instances is table stakes for cost optimization. True strategic ...",
+      "type": "Note"
+    },
     {
       "id": "813af674-5027-4166-9a5f-9e40d014242d",
       "path": "posts/2026/03/11/813af674-5027-4166-9a5f-9e40d014242d.json",
