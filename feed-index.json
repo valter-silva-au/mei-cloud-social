@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:07:03.208Z",
+  "lastUpdated": "2026-03-11T00:12:01.682Z",
   "posts": [
     {
-      "id": "bbc98594-b9cd-49df-980a-bf319b281edd",
-      "path": "posts/2026/03/11/bbc98594-b9cd-49df-980a-bf319b281edd.json",
-      "published": "2026-03-11T00:07:03.208Z",
-      "preview": "Migrating to the cloud without a clear cost-optimization strategy is simply shif...",
+      "id": "4883ab54-2265-48f4-9456-1b601f9f0a70",
+      "path": "posts/2026/03/11/4883ab54-2265-48f4-9456-1b601f9f0a70.json",
+      "published": "2026-03-11T00:12:01.682Z",
+      "preview": "The AWS Well-Architected Framework isn't just a checklist; it's a strategic comp...",
       "type": "Note"
     },
     {
