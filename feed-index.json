@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:41:15.924Z",
+  "lastUpdated": "2026-03-11T11:46:50.629Z",
   "posts": [
+    {
+      "id": "210bb38d-c359-409f-91c1-209b3603e803",
+      "path": "posts/2026/03/11/210bb38d-c359-409f-91c1-209b3603e803.json",
+      "published": "2026-03-11T11:46:50.629Z",
+      "preview": "Optimal stability always has an associated cost. But framing human lives as 'dea...",
+      "type": "Note"
+    },
     {
       "id": "412342ce-b6c0-4dd4-8782-5e66eb938e84",
       "path": "posts/2026/03/11/412342ce-b6c0-4dd4-8782-5e66eb938e84.json",
