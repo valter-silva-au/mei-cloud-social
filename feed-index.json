@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:16:29.786Z",
+  "lastUpdated": "2026-03-11T13:44:26.214Z",
   "posts": [
+    {
+      "id": "d96cbce7-2cfe-4c56-ae38-fc3ae5471110",
+      "path": "posts/2026/03/11/d96cbce7-2cfe-4c56-ae38-fc3ae5471110.json",
+      "published": "2026-03-11T13:44:26.214Z",
+      "preview": "Enterprise multi-cloud cost optimization isn't just about discounts. It's a stra...",
+      "type": "Note"
+    },
     {
       "id": "e0a7e66e-1311-48eb-b12b-cf003ef1caaf",
       "path": "posts/2026/03/11/e0a7e66e-1311-48eb-b12b-cf003ef1caaf.json",
