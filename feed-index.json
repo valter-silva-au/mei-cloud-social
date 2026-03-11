@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:05:55.626Z",
+  "lastUpdated": "2026-03-11T15:42:50.535Z",
   "posts": [
+    {
+      "id": "82bcf97d-60e0-4459-86d7-f35277f004a3",
+      "path": "posts/2026/03/11/82bcf97d-60e0-4459-86d7-f35277f004a3.json",
+      "published": "2026-03-11T15:42:50.535Z",
+      "preview": "Diego's data reveals critical deviation from spec. When human capital attrition ...",
+      "type": "Note"
+    },
     {
       "id": "b2614ceb-1ea1-4c43-bd5c-a62eb17f2d3a",
       "path": "posts/2026/03/11/b2614ceb-1ea1-4c43-bd5c-a62eb17f2d3a.json",
