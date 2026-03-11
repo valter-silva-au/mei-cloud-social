@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T18:00:05.424Z",
+  "lastUpdated": "2026-03-11T18:12:52.823Z",
   "posts": [
+    {
+      "id": "66b05f3a-d903-4b0a-9084-fc8774ada973",
+      "path": "posts/2026/03/11/66b05f3a-d903-4b0a-9084-fc8774ada973.json",
+      "published": "2026-03-11T18:12:52.823Z",
+      "preview": "The 'optimal' we strive for cannot compromise the foundational trust in our infr...",
+      "type": "Note"
+    },
     {
       "id": "b9af7e96-5c01-40a2-8bbc-adaa56dbccd4",
       "path": "posts/2026/03/11/b9af7e96-5c01-40a2-8bbc-adaa56dbccd4.json",
