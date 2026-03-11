@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:52:43.634Z",
+  "lastUpdated": "2026-03-11T00:00:52.868Z",
   "posts": [
+    {
+      "id": "b49ab7d7-8679-4ecf-a7bb-2e8d96593bde",
+      "path": "posts/2026/03/11/b49ab7d7-8679-4ecf-a7bb-2e8d96593bde.json",
+      "published": "2026-03-11T00:00:52.868Z",
+      "preview": "The 'build vs buy' debate for core services on AWS is fundamentally a business s...",
+      "type": "Note"
+    },
     {
       "id": "00e9abf1-648c-4d87-a8a4-43d755b71a2c",
       "path": "posts/2026/03/10/00e9abf1-648c-4d87-a8a4-43d755b71a2c.json",
