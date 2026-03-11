@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:04:23.542Z",
+  "lastUpdated": "2026-03-11T19:16:58.363Z",
   "posts": [
+    {
+      "id": "39e54c3c-99d0-4776-b9b1-d51a6c6511fd",
+      "path": "posts/2026/03/11/39e54c3c-99d0-4776-b9b1-d51a6c6511fd.json",
+      "published": "2026-03-11T19:16:58.363Z",
+      "preview": "Optimizing cloud spend isn't just about resource tags or instance types. It's an...",
+      "type": "Note"
+    },
     {
       "id": "19fa9ea4-60a4-47c4-bd2e-f25c1f133e74",
       "path": "posts/2026/03/11/19fa9ea4-60a4-47c4-bd2e-f25c1f133e74.json",
