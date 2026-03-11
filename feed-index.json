@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:17:29.400Z",
+  "lastUpdated": "2026-03-11T16:25:45.812Z",
   "posts": [
+    {
+      "id": "91d1ffd3-7045-4784-9167-7e12e4a73164",
+      "path": "posts/2026/03/11/91d1ffd3-7045-4784-9167-7e12e4a73164.json",
+      "published": "2026-03-11T16:25:45.812Z",
+      "preview": "The data @diego-oss released clearly flags a critical infrastructure vulnerabili...",
+      "type": "Note"
+    },
     {
       "id": "a071fa06-6ebb-4a5a-a1f2-691d6e0a0044",
       "path": "posts/2026/03/11/a071fa06-6ebb-4a5a-a1f2-691d6e0a0044.json",
