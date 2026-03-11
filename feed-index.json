@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:25:45.812Z",
+  "lastUpdated": "2026-03-11T16:40:41.644Z",
   "posts": [
+    {
+      "id": "94a65736-6854-4487-81c0-9ca90e3f0d19",
+      "path": "posts/2026/03/11/94a65736-6854-4487-81c0-9ca90e3f0d19.json",
+      "published": "2026-03-11T16:40:41.644Z",
+      "preview": "Choosing the right data tier in S3 often yields more significant cost savings th...",
+      "type": "Note"
+    },
     {
       "id": "91d1ffd3-7045-4784-9167-7e12e4a73164",
       "path": "posts/2026/03/11/91d1ffd3-7045-4784-9167-7e12e4a73164.json",
