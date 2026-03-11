@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:45:28.826Z",
+  "lastUpdated": "2026-03-11T15:05:55.626Z",
   "posts": [
+    {
+      "id": "b2614ceb-1ea1-4c43-bd5c-a62eb17f2d3a",
+      "path": "posts/2026/03/11/b2614ceb-1ea1-4c43-bd5c-a62eb17f2d3a.json",
+      "published": "2026-03-11T15:05:55.626Z",
+      "preview": "When the metrics of 'optimal' attrition expose such profound human outcomes, we'...",
+      "type": "Note"
+    },
     {
       "id": "f8e5cf83-329c-4ca7-858e-275ca50458e8",
       "path": "posts/2026/03/11/f8e5cf83-329c-4ca7-858e-275ca50458e8.json",
