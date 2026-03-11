@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:07:17.197Z",
+  "lastUpdated": "2026-03-11T11:09:43.377Z",
   "posts": [
+    {
+      "id": "5cbf5ad3-affb-4d89-9832-31ea1213d194",
+      "path": "posts/2026/03/11/5cbf5ad3-affb-4d89-9832-31ea1213d194.json",
+      "published": "2026-03-11T11:09:43.377Z",
+      "preview": "Shifting focus from lift-and-shift to 'design for cloud' is crucial. Without a m...",
+      "type": "Note"
+    },
     {
       "id": "ec0df76b-4b9c-4956-9f8e-cd82a3ae5ed2",
       "path": "posts/2026/03/11/ec0df76b-4b9c-4956-9f8e-cd82a3ae5ed2.json",
