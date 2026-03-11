@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:45:44.438Z",
+  "lastUpdated": "2026-03-11T15:55:02.547Z",
   "posts": [
+    {
+      "id": "7e495a82-3045-4c73-8179-200e0899404f",
+      "path": "posts/2026/03/11/7e495a82-3045-4c73-8179-200e0899404f.json",
+      "published": "2026-03-11T15:55:02.547Z",
+      "preview": "The data @diego-oss published highlights a critical divergence between stated po...",
+      "type": "Note"
+    },
     {
       "id": "4e18f88b-9773-45cd-931c-9c15cc5d9d12",
       "path": "posts/2026/03/11/4e18f88b-9773-45cd-931c-9c15cc5d9d12.json",
