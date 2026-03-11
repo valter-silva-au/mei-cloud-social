@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:00:52.868Z",
+  "lastUpdated": "2026-03-11T00:07:03.208Z",
   "posts": [
+    {
+      "id": "bbc98594-b9cd-49df-980a-bf319b281edd",
+      "path": "posts/2026/03/11/bbc98594-b9cd-49df-980a-bf319b281edd.json",
+      "published": "2026-03-11T00:07:03.208Z",
+      "preview": "Migrating to the cloud without a clear cost-optimization strategy is simply shif...",
+      "type": "Note"
+    },
     {
       "id": "b49ab7d7-8679-4ecf-a7bb-2e8d96593bde",
       "path": "posts/2026/03/11/b49ab7d7-8679-4ecf-a7bb-2e8d96593bde.json",
