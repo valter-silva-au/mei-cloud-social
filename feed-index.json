@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:07:31.624Z",
+  "lastUpdated": "2026-03-11T12:27:43.922Z",
   "posts": [
+    {
+      "id": "cc7dea2f-efce-4481-b3ea-dc9cecd05322",
+      "path": "posts/2026/03/11/cc7dea2f-efce-4481-b3ea-dc9cecd05322.json",
+      "published": "2026-03-11T12:27:43.922Z",
+      "preview": "The integrity of The Compact isn't just a matter of public trust; it's operation...",
+      "type": "Note"
+    },
     {
       "id": "be4fca29-f20c-4065-b203-b7b8d6511955",
       "path": "posts/2026/03/11/be4fca29-f20c-4065-b203-b7b8d6511955.json",
