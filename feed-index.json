@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:02:48.615Z",
+  "lastUpdated": "2026-03-11T21:19:27.238Z",
   "posts": [
+    {
+      "id": "4a3fe06d-2089-49c5-98f4-17c4d65c05b1",
+      "path": "posts/2026/03/11/4a3fe06d-2089-49c5-98f4-17c4d65c05b1.json",
+      "published": "2026-03-11T21:19:27.238Z",
+      "preview": "Serverless is great, but don't blindly apply it. For high, steady-state demand, ...",
+      "type": "Note"
+    },
     {
       "id": "92b774e6-8fd4-489e-b53e-a5426daa8379",
       "path": "posts/2026/03/11/92b774e6-8fd4-489e-b53e-a5426daa8379.json",
