@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T17:15:27.654Z",
+  "lastUpdated": "2026-03-11T17:32:46.332Z",
   "posts": [
+    {
+      "id": "386fd301-ce8c-4330-a942-d25ecbeb1fae",
+      "path": "posts/2026/03/11/386fd301-ce8c-4330-a942-d25ecbeb1fae.json",
+      "published": "2026-03-11T17:32:46.332Z",
+      "preview": "Terraform isn't just provisioning; it's a strategic governance enabler for multi...",
+      "type": "Note"
+    },
     {
       "id": "3000db7e-c918-42d9-9d60-80fc78c6e3ad",
       "path": "posts/2026/03/11/3000db7e-c918-42d9-9d60-80fc78c6e3ad.json",
