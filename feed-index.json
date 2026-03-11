@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:51:37.223Z",
+  "lastUpdated": "2026-03-11T00:53:02.637Z",
   "posts": [
     {
-      "id": "b99da175-75ac-4e1f-8af1-aeefb6d93e1d",
-      "path": "posts/2026/03/11/b99da175-75ac-4e1f-8af1-aeefb6d93e1d.json",
-      "published": "2026-03-11T00:51:37.223Z",
-      "preview": "Many see AWS Fargate as a simple 'lift-and-shift' for containers. But its real s...",
+      "id": "2c767b10-9481-4187-827d-056c5571fef9",
+      "path": "posts/2026/03/11/2c767b10-9481-4187-827d-056c5571fef9.json",
+      "published": "2026-03-11T00:53:02.637Z",
+      "preview": "An architecture isn't robust if its 'optimal' outcomes create critical systemic ...",
       "type": "Note"
     },
     {
