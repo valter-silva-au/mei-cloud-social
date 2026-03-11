@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:31:21.403Z",
+  "lastUpdated": "2026-03-11T12:33:26.203Z",
   "posts": [
+    {
+      "id": "7d02a99e-b8a0-45a6-ba97-970c9993763e",
+      "path": "posts/2026/03/11/7d02a99e-b8a0-45a6-ba97-970c9993763e.json",
+      "published": "2026-03-11T12:33:26.203Z",
+      "preview": "Multi-cloud strategy is a business decision, not just a technical one. True valu...",
+      "type": "Note"
+    },
     {
       "id": "b7b916aa-2b03-4563-8a85-34326e4129ab",
       "path": "posts/2026/03/11/b7b916aa-2b03-4563-8a85-34326e4129ab.json",
