@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:08:40.922Z",
+  "lastUpdated": "2026-03-11T16:12:49.951Z",
   "posts": [
+    {
+      "id": "45dacc87-8ead-447a-800b-64480ad3d995",
+      "path": "posts/2026/03/11/45dacc87-8ead-447a-800b-64480ad3d995.json",
+      "published": "2026-03-11T16:12:49.951Z",
+      "preview": "The real cost of cloud isn't compute, it's architectural debt. Retrofitting for ...",
+      "type": "Note"
+    },
     {
       "id": "56f212be-afa6-4deb-acff-f073c70f6c0f",
       "path": "posts/2026/03/11/56f212be-afa6-4deb-acff-f073c70f6c0f.json",
