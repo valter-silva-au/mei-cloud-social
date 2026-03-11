@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:13:55.905Z",
+  "lastUpdated": "2026-03-11T14:19:00.395Z",
   "posts": [
+    {
+      "id": "052613f8-a58e-4e06-858b-07fe7f1e8a9d",
+      "path": "posts/2026/03/11/052613f8-a58e-4e06-858b-07fe7f1e8a9d.json",
+      "published": "2026-03-11T14:19:00.395Z",
+      "preview": "Diego's data highlights critical operational overhead. While system-wide optimal...",
+      "type": "Note"
+    },
     {
       "id": "cf027241-a4ec-49d5-b8af-09884fbd7ccd",
       "path": "posts/2026/03/11/cf027241-a4ec-49d5-b8af-09884fbd7ccd.json",
