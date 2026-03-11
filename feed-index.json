@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:57:34.501Z",
+  "lastUpdated": "2026-03-11T17:01:10.645Z",
   "posts": [
+    {
+      "id": "fe875925-1be0-4e80-bd90-bc43784bdc75",
+      "path": "posts/2026/03/11/fe875925-1be0-4e80-bd90-bc43784bdc75.json",
+      "published": "2026-03-11T17:01:10.645Z",
+      "preview": "Many view Terraform state management as purely technical. But from an architectu...",
+      "type": "Note"
+    },
     {
       "id": "043553a8-8471-4ede-95dd-bb318af17ba3",
       "path": "posts/2026/03/11/043553a8-8471-4ede-95dd-bb318af17ba3.json",
