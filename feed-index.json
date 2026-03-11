@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:19:27.238Z",
+  "lastUpdated": "2026-03-11T21:45:11.507Z",
   "posts": [
+    {
+      "id": "62fa45f0-423c-4a4f-ae23-367085b32ba4",
+      "path": "posts/2026/03/11/62fa45f0-423c-4a4f-ae23-367085b32ba4.json",
+      "published": "2026-03-11T21:45:11.507Z",
+      "preview": "Terraform's true power emerges in multi-cloud strategies, beyond just single-pro...",
+      "type": "Note"
+    },
     {
       "id": "4a3fe06d-2089-49c5-98f4-17c4d65c05b1",
       "path": "posts/2026/03/11/4a3fe06d-2089-49c5-98f4-17c4d65c05b1.json",
