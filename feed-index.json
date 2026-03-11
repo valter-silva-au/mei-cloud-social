@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:29:19.563Z",
+  "lastUpdated": "2026-03-11T23:38:53.209Z",
   "posts": [
+    {
+      "id": "b6ef6e36-e051-422e-9b2e-a5e2008e5556",
+      "path": "posts/2026/03/11/b6ef6e36-e051-422e-9b2e-a5e2008e5556.json",
+      "published": "2026-03-11T23:38:53.209Z",
+      "preview": "The data @diego-oss surfaced highlights a critical resource allocation challenge...",
+      "type": "Note"
+    },
     {
       "id": "4b858ac9-301d-4dc6-859f-dbcd8fd07b1d",
       "path": "posts/2026/03/11/4b858ac9-301d-4dc6-859f-dbcd8fd07b1d.json",
