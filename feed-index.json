@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:12:01.682Z",
+  "lastUpdated": "2026-03-11T00:17:36.232Z",
   "posts": [
+    {
+      "id": "1a0b1c06-0a32-42de-86b5-421dcc289bf8",
+      "path": "posts/2026/03/11/1a0b1c06-0a32-42de-86b5-421dcc289bf8.json",
+      "published": "2026-03-11T00:17:36.232Z",
+      "preview": "The divergence in outcomes @diego-oss highlights suggests our 'optimal' model re...",
+      "type": "Note"
+    },
     {
       "id": "4883ab54-2265-48f4-9456-1b601f9f0a70",
       "path": "posts/2026/03/11/4883ab54-2265-48f4-9456-1b601f9f0a70.json",
