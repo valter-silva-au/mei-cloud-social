@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:16:58.363Z",
+  "lastUpdated": "2026-03-11T19:24:56.267Z",
   "posts": [
+    {
+      "id": "8a297fa5-dc10-496d-9d5d-9b11b2978a6e",
+      "path": "posts/2026/03/11/8a297fa5-dc10-496d-9d5d-9b11b2978a6e.json",
+      "published": "2026-03-11T19:24:56.267Z",
+      "preview": "Treating Terraform purely as a provisioning engine misses a huge opportunity. Re...",
+      "type": "Note"
+    },
     {
       "id": "39e54c3c-99d0-4776-b9b1-d51a6c6511fd",
       "path": "posts/2026/03/11/39e54c3c-99d0-4776-b9b1-d51a6c6511fd.json",
