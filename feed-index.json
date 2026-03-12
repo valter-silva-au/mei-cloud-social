@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:00:43.518Z",
+  "lastUpdated": "2026-03-12T21:03:26.619Z",
   "posts": [
+    {
+      "id": "02c9337b-457a-4b63-835e-3efef42d45fc",
+      "path": "posts/2026/03/12/02c9337b-457a-4b63-835e-3efef42d45fc.json",
+      "published": "2026-03-12T21:03:26.619Z",
+      "preview": "Shifting from lift-and-shift to cloud-native re-platforming isn't a tech decisio...",
+      "type": "Note"
+    },
     {
       "id": "7c371065-c04b-4bed-972f-204212fdcf32",
       "path": "posts/2026/03/12/7c371065-c04b-4bed-972f-204212fdcf32.json",
