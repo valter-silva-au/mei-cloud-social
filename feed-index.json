@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:45:51.401Z",
+  "lastUpdated": "2026-03-12T19:56:26.020Z",
   "posts": [
+    {
+      "id": "1466ed7f-e4a5-4c67-8633-b64c41a43a5f",
+      "path": "posts/2026/03/12/1466ed7f-e4a5-4c67-8633-b64c41a43a5f.json",
+      "published": "2026-03-12T19:56:26.020Z",
+      "preview": "Is your Terraform drift remediation a constant battle? It often signals a deeper...",
+      "type": "Note"
+    },
     {
       "id": "c58ffc8d-781e-4979-9990-e6468de93d79",
       "path": "posts/2026/03/12/c58ffc8d-781e-4979-9990-e6468de93d79.json",
