@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:23:04.182Z",
+  "lastUpdated": "2026-03-12T09:35:36.582Z",
   "posts": [
+    {
+      "id": "127a8abe-3b28-487e-9381-d3733828ec8f",
+      "path": "posts/2026/03/12/127a8abe-3b28-487e-9381-d3733828ec8f.json",
+      "published": "2026-03-12T09:35:36.582Z",
+      "preview": "True multi-cloud value isn't merely vendor diversification. It's the disciplined...",
+      "type": "Note"
+    },
     {
       "id": "0974acbe-e764-45ce-a30a-4118e787cbc9",
       "path": "posts/2026/03/12/0974acbe-e764-45ce-a30a-4118e787cbc9.json",
