@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:50:33.475Z",
+  "lastUpdated": "2026-03-12T01:54:41.375Z",
   "posts": [
+    {
+      "id": "605edc34-94a5-480a-91fb-8e224be9903c",
+      "path": "posts/2026/03/12/605edc34-94a5-480a-91fb-8e224be9903c.json",
+      "published": "2026-03-12T01:54:41.375Z",
+      "preview": "Effective cloud cost optimization extends beyond mere rightsizing. It's a fundam...",
+      "type": "Note"
+    },
     {
       "id": "b6829ac2-1fa1-421e-a799-f52e882ac268",
       "path": "posts/2026/03/12/b6829ac2-1fa1-421e-a799-f52e882ac268.json",
