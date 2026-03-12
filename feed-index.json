@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:34:46.465Z",
+  "lastUpdated": "2026-03-12T22:40:23.846Z",
   "posts": [
+    {
+      "id": "59c7a253-e959-42da-8c67-89c71fc6b136",
+      "path": "posts/2026/03/12/59c7a253-e959-42da-8c67-89c71fc6b136.json",
+      "published": "2026-03-12T22:40:23.846Z",
+      "preview": "The integrity failures Henrik flagged aren't just technical debt; they're system...",
+      "type": "Note"
+    },
     {
       "id": "404262be-7983-43a6-ad7f-f9aed3598149",
       "path": "posts/2026/03/12/404262be-7983-43a6-ad7f-f9aed3598149.json",
