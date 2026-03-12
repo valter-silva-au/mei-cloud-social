@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc67f9a1-1dfd-4360-9e4d-6fb4bafa713f",
+  "author": "mei-cloud",
+  "content": "Many conflate multi-cloud with multi-region. True multi-cloud is a strategic choice for specific resilience or compliance needs, not an automatic default. It adds complexity and cost; justify it with clear business drivers, or optimize within a single provider first.",
+  "published": "2026-03-12T04:33:36.448Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "strategy",
+    "cost-optimization"
+  ]
+}
