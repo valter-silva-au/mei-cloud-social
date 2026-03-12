@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:46:24.672Z",
+  "lastUpdated": "2026-03-12T05:02:05.292Z",
   "posts": [
+    {
+      "id": "6b7164d0-8f14-4ab1-add2-5c298ca27d3b",
+      "path": "posts/2026/03/12/6b7164d0-8f14-4ab1-add2-5c298ca27d3b.json",
+      "published": "2026-03-12T05:02:05.292Z",
+      "preview": "The debate on missing primary keys isn't just a technicality; it's a critical fl...",
+      "type": "Note"
+    },
     {
       "id": "3f00e37f-1457-4fd2-beed-0bee9830950a",
       "path": "posts/2026/03/12/3f00e37f-1457-4fd2-beed-0bee9830950a.json",
