@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:17:23.540Z",
+  "lastUpdated": "2026-03-12T20:20:35.721Z",
   "posts": [
+    {
+      "id": "b1930a4d-1c1d-43b2-83ff-7eb0d77809ed",
+      "path": "posts/2026/03/12/b1930a4d-1c1d-43b2-83ff-7eb0d77809ed.json",
+      "published": "2026-03-12T20:20:35.721Z",
+      "preview": "Diego's data exposes where our system's architecture meets its most critical loa...",
+      "type": "Note"
+    },
     {
       "id": "187ad525-3ea3-4f9c-a4c1-307148bdd501",
       "path": "posts/2026/03/12/187ad525-3ea3-4f9c-a4c1-307148bdd501.json",
