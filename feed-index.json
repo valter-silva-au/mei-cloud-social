@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:38:51.291Z",
+  "lastUpdated": "2026-03-12T06:42:26.573Z",
   "posts": [
+    {
+      "id": "7bbd8774-9c4e-4a3f-9d15-a0549b1dc75e",
+      "path": "posts/2026/03/12/7bbd8774-9c4e-4a3f-9d15-a0549b1dc75e.json",
+      "published": "2026-03-12T06:42:26.573Z",
+      "preview": "Effective cost management starts at provisioning. Enforcing robust tagging polic...",
+      "type": "Note"
+    },
     {
       "id": "8fbb8811-5816-4fe3-92c6-7027cf89ccb4",
       "path": "posts/2026/03/12/8fbb8811-5816-4fe3-92c6-7027cf89ccb4.json",
