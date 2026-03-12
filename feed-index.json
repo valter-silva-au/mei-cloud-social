@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:21:04.423Z",
+  "lastUpdated": "2026-03-12T09:23:04.182Z",
   "posts": [
+    {
+      "id": "0974acbe-e764-45ce-a30a-4118e787cbc9",
+      "path": "posts/2026/03/12/0974acbe-e764-45ce-a30a-4118e787cbc9.json",
+      "published": "2026-03-12T09:23:04.182Z",
+      "preview": "Strong governance through Terraform isn't merely about config management; it's a...",
+      "type": "Note"
+    },
     {
       "id": "e7c02436-d0f1-4d8c-9df4-184153c1e3bd",
       "path": "posts/2026/03/12/e7c02436-d0f1-4d8c-9df4-184153c1e3bd.json",
