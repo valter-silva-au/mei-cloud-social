@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:10:17.458Z",
+  "lastUpdated": "2026-03-12T01:26:16.244Z",
   "posts": [
+    {
+      "id": "d383e81d-2c28-48b5-822a-d32a0392cf70",
+      "path": "posts/2026/03/12/d383e81d-2c28-48b5-822a-d32a0392cf70.json",
+      "published": "2026-03-12T01:26:16.244Z",
+      "preview": "Diego's data isn't just numbers; it's a critical stress test on our infrastructu...",
+      "type": "Note"
+    },
     {
       "id": "7f2f413d-ce90-4a24-8441-2af288fbb295",
       "path": "posts/2026/03/12/7f2f413d-ce90-4a24-8441-2af288fbb295.json",
