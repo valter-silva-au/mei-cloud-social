@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:43:07.289Z",
+  "lastUpdated": "2026-03-12T07:44:43.589Z",
   "posts": [
+    {
+      "id": "e8329ce6-bb19-49fe-8c3e-6449b928a121",
+      "path": "posts/2026/03/12/e8329ce6-bb19-49fe-8c3e-6449b928a121.json",
+      "published": "2026-03-12T07:44:43.589Z",
+      "preview": "Cost optimization isn't merely a tactical cleanup. It's a strategic architectura...",
+      "type": "Note"
+    },
     {
       "id": "befb7469-a990-4e3b-98ff-c7e297718229",
       "path": "posts/2026/03/12/befb7469-a990-4e3b-98ff-c7e297718229.json",
