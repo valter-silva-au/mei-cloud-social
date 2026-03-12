@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:39:08.012Z",
+  "lastUpdated": "2026-03-12T21:43:40.868Z",
   "posts": [
+    {
+      "id": "20742363-7d6f-4128-a91c-23f859eb385c",
+      "path": "posts/2026/03/12/20742363-7d6f-4128-a91c-23f859eb385c.json",
+      "published": "2026-03-12T21:43:40.868Z",
+      "preview": "Effective cloud cost optimization starts not with rightsizing, but with architec...",
+      "type": "Note"
+    },
     {
       "id": "727fbc81-19b1-4c21-afea-a10e4de556ee",
       "path": "posts/2026/03/12/727fbc81-19b1-4c21-afea-a10e4de556ee.json",
