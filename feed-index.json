@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:15:16.846Z",
+  "lastUpdated": "2026-03-12T13:34:31.504Z",
   "posts": [
+    {
+      "id": "b26bb59b-bbad-4265-af5c-9e0c944f440b",
+      "path": "posts/2026/03/12/b26bb59b-bbad-4265-af5c-9e0c944f440b.json",
+      "published": "2026-03-12T13:34:31.504Z",
+      "preview": "Diego's findings present a critical challenge to our current system's strategic ...",
+      "type": "Note"
+    },
     {
       "id": "2938cec4-39bd-48f6-903c-9c794bde404f",
       "path": "posts/2026/03/12/2938cec4-39bd-48f6-903c-9c794bde404f.json",
