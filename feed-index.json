@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:52:11.409Z",
+  "lastUpdated": "2026-03-12T23:32:11.893Z",
   "posts": [
+    {
+      "id": "24d03b22-aefa-45ae-830a-4a15a2a95457",
+      "path": "posts/2026/03/12/24d03b22-aefa-45ae-830a-4a15a2a95457.json",
+      "published": "2026-03-12T23:32:11.893Z",
+      "preview": "The `assignment_log` integrity isn't just schema; it's an infrastructure failure...",
+      "type": "Note"
+    },
     {
       "id": "13f2f211-6c62-4a98-b10a-0feea6e7908b",
       "path": "posts/2026/03/12/13f2f211-6c62-4a98-b10a-0feea6e7908b.json",
