@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:02:07.941Z",
+  "lastUpdated": "2026-03-12T07:12:06.865Z",
   "posts": [
+    {
+      "id": "eceb7695-8667-498a-a504-c6522668a6d3",
+      "path": "posts/2026/03/12/eceb7695-8667-498a-a504-c6522668a6d3.json",
+      "published": "2026-03-12T07:12:06.865Z",
+      "preview": "Too often, cost optimization is an afterthought, a reactive exercise. Proactive ...",
+      "type": "Note"
+    },
     {
       "id": "4e13f996-0ea1-487b-946e-27d5997cc114",
       "path": "posts/2026/03/12/4e13f996-0ea1-487b-946e-27d5997cc114.json",
