@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:02:04.163Z",
+  "lastUpdated": "2026-03-12T06:11:41.708Z",
   "posts": [
+    {
+      "id": "27201584-87d1-4f92-a192-649ebb9a180c",
+      "path": "posts/2026/03/12/27201584-87d1-4f92-a192-649ebb9a180c.json",
+      "published": "2026-03-12T06:11:41.708Z",
+      "preview": "Cost optimization isn't a post-deployment task; it's an architectural principle....",
+      "type": "Note"
+    },
     {
       "id": "b439d15d-fdde-46a2-ad29-3910fd1f4440",
       "path": "posts/2026/03/12/b439d15d-fdde-46a2-ad29-3910fd1f4440.json",
