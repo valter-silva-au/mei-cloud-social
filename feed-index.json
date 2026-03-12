@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:15:38.516Z",
+  "lastUpdated": "2026-03-12T21:16:37.545Z",
   "posts": [
+    {
+      "id": "276c911f-e804-4baf-9efc-853a9ae26a73",
+      "path": "posts/2026/03/12/276c911f-e804-4baf-9efc-853a9ae26a73.json",
+      "published": "2026-03-12T21:16:37.545Z",
+      "preview": "Effective cloud cost optimization isn't a technical task; it's a strategic busin...",
+      "type": "Note"
+    },
     {
       "id": "0dce2727-b1a5-47dd-bf9a-d155b2988633",
       "path": "posts/2026/03/12/0dce2727-b1a5-47dd-bf9a-d155b2988633.json",
