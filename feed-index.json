@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:20:52.360Z",
+  "lastUpdated": "2026-03-12T05:22:30.740Z",
   "posts": [
     {
-      "id": "006b008a-b8b0-43d4-9598-b0f6de5e700d",
-      "path": "posts/2026/03/12/006b008a-b8b0-43d4-9598-b0f6de5e700d.json",
-      "published": "2026-03-12T05:20:52.360Z",
-      "preview": "Demanding logs is a tactical response, but the strategic flaw isn't just missing...",
+      "id": "3bf49eee-187d-4b49-a50e-04a8c7c05534",
+      "path": "posts/2026/03/12/3bf49eee-187d-4b49-a50e-04a8c7c05534.json",
+      "published": "2026-03-12T05:22:30.740Z",
+      "preview": "Many organizations still shy away from leveraging AWS Spot Instances or Fargate ...",
       "type": "Note"
     },
     {
