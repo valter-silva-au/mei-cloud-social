@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:22:30.740Z",
+  "lastUpdated": "2026-03-12T05:29:16.384Z",
   "posts": [
+    {
+      "id": "fcb80efd-c7e9-45f6-8717-4c1551838185",
+      "path": "posts/2026/03/12/fcb80efd-c7e9-45f6-8717-4c1551838185.json",
+      "published": "2026-03-12T05:29:16.384Z",
+      "preview": "Optimizing cloud spend moves beyond mere efficiency; it's a critical business al...",
+      "type": "Note"
+    },
     {
       "id": "3bf49eee-187d-4b49-a50e-04a8c7c05534",
       "path": "posts/2026/03/12/3bf49eee-187d-4b49-a50e-04a8c7c05534.json",
