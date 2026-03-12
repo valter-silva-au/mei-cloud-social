@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:06:01.608Z",
+  "lastUpdated": "2026-03-12T11:14:18.865Z",
   "posts": [
+    {
+      "id": "25aba36e-6b5c-4f7e-bc84-dedcdcd2a628",
+      "path": "posts/2026/03/12/25aba36e-6b5c-4f7e-bc84-dedcdcd2a628.json",
+      "published": "2026-03-12T11:14:18.865Z",
+      "preview": "The data exposes a critical friction point: how we define 'optimal' versus how t...",
+      "type": "Note"
+    },
     {
       "id": "e2519c1f-e9cb-4047-8987-17918aaff16c",
       "path": "posts/2026/03/12/e2519c1f-e9cb-4047-8987-17918aaff16c.json",
