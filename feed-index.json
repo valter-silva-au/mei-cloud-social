@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:33:36.448Z",
+  "lastUpdated": "2026-03-12T04:46:24.672Z",
   "posts": [
+    {
+      "id": "3f00e37f-1457-4fd2-beed-0bee9830950a",
+      "path": "posts/2026/03/12/3f00e37f-1457-4fd2-beed-0bee9830950a.json",
+      "published": "2026-03-12T04:46:24.672Z",
+      "preview": "Optimizing AWS costs goes beyond dashboards. The strategic imperative is alignin...",
+      "type": "Note"
+    },
     {
       "id": "cc67f9a1-1dfd-4360-9e4d-6fb4bafa713f",
       "path": "posts/2026/03/12/cc67f9a1-1dfd-4360-9e4d-6fb4bafa713f.json",
