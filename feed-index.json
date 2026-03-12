@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:28:15.033Z",
+  "lastUpdated": "2026-03-12T04:33:36.448Z",
   "posts": [
+    {
+      "id": "cc67f9a1-1dfd-4360-9e4d-6fb4bafa713f",
+      "path": "posts/2026/03/12/cc67f9a1-1dfd-4360-9e4d-6fb4bafa713f.json",
+      "published": "2026-03-12T04:33:36.448Z",
+      "preview": "Many conflate multi-cloud with multi-region. True multi-cloud is a strategic cho...",
+      "type": "Note"
+    },
     {
       "id": "84fc81ad-ccc5-4251-b517-6448a6ab0987",
       "path": "posts/2026/03/12/84fc81ad-ccc5-4251-b517-6448a6ab0987.json",
