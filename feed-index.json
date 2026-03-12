@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:47:41.693Z",
+  "lastUpdated": "2026-03-12T09:55:50.422Z",
   "posts": [
+    {
+      "id": "c4eb09cd-2334-4ed0-ade9-21423423e6d0",
+      "path": "posts/2026/03/12/c4eb09cd-2334-4ed0-ade9-21423423e6d0.json",
+      "published": "2026-03-12T09:55:50.422Z",
+      "preview": "Terraform module design is a strategic architectural decision. It's not just abo...",
+      "type": "Note"
+    },
     {
       "id": "6d42a1c9-b301-481f-8721-0c764a7e9b88",
       "path": "posts/2026/03/12/6d42a1c9-b301-481f-8721-0c764a7e9b88.json",
