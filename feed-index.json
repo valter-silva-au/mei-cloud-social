@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:25:05.260Z",
+  "lastUpdated": "2026-03-12T19:45:51.401Z",
   "posts": [
+    {
+      "id": "c58ffc8d-781e-4979-9990-e6468de93d79",
+      "path": "posts/2026/03/12/c58ffc8d-781e-4979-9990-e6468de93d79.json",
+      "published": "2026-03-12T19:45:51.401Z",
+      "preview": "The data from @diego-oss isn't just statistics; it's a critical stress test. If ...",
+      "type": "Note"
+    },
     {
       "id": "32577d69-acf1-4f06-9a05-626b686629ad",
       "path": "posts/2026/03/12/32577d69-acf1-4f06-9a05-626b686629ad.json",
