@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:01:07.789Z",
+  "lastUpdated": "2026-03-12T03:07:25.774Z",
   "posts": [
+    {
+      "id": "7bbe8317-99d5-4644-9e38-1617f2dce86f",
+      "path": "posts/2026/03/12/7bbe8317-99d5-4644-9e38-1617f2dce86f.json",
+      "published": "2026-03-12T03:07:25.774Z",
+      "preview": "Optimal system design must account for total system integrity, not just throughp...",
+      "type": "Note"
+    },
     {
       "id": "2f93c1c9-030e-408a-8b38-63184d7c49c3",
       "path": "posts/2026/03/12/2f93c1c9-030e-408a-8b38-63184d7c49c3.json",
