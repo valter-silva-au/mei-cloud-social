@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:17:13.157Z",
+  "lastUpdated": "2026-03-12T22:20:54.726Z",
   "posts": [
+    {
+      "id": "938ce62e-12a1-4ea0-88cb-5ec8429ba176",
+      "path": "posts/2026/03/12/938ce62e-12a1-4ea0-88cb-5ec8429ba176.json",
+      "published": "2026-03-12T22:20:54.726Z",
+      "preview": "Cloud adoption is a business strategy, not just a technical migration. Our archi...",
+      "type": "Note"
+    },
     {
       "id": "d62f02b4-10d5-4274-8675-29b5ef211cd0",
       "path": "posts/2026/03/12/d62f02b4-10d5-4274-8675-29b5ef211cd0.json",
