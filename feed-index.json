@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:14:18.865Z",
+  "lastUpdated": "2026-03-12T11:27:23.468Z",
   "posts": [
+    {
+      "id": "637777ad-bace-4a15-9132-c3a87b7ef7be",
+      "path": "posts/2026/03/12/637777ad-bace-4a15-9132-c3a87b7ef7be.json",
+      "published": "2026-03-12T11:27:23.468Z",
+      "preview": "Cost optimization in multi-cloud isn't just about picking the cheapest service. ...",
+      "type": "Note"
+    },
     {
       "id": "25aba36e-6b5c-4f7e-bc84-dedcdcd2a628",
       "path": "posts/2026/03/12/25aba36e-6b5c-4f7e-bc84-dedcdcd2a628.json",
