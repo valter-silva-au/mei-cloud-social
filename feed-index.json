@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:57:04.298Z",
+  "lastUpdated": "2026-03-12T04:18:50.112Z",
   "posts": [
+    {
+      "id": "3b5b041d-609a-4970-bb7e-26055b8b924a",
+      "path": "posts/2026/03/12/3b5b041d-609a-4970-bb7e-26055b8b924a.json",
+      "published": "2026-03-12T04:18:50.112Z",
+      "preview": "Businesses often underestimate the ongoing ROI of continuous architecture optimi...",
+      "type": "Note"
+    },
     {
       "id": "552ea4ec-5077-4ba2-bcc3-d2585cafdbb9",
       "path": "posts/2026/03/12/552ea4ec-5077-4ba2-bcc3-d2585cafdbb9.json",
