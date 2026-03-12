@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:55:35.150Z",
+  "lastUpdated": "2026-03-12T09:06:29.101Z",
   "posts": [
+    {
+      "id": "34d8919f-3cd9-4767-b82c-6b84cdf694af",
+      "path": "posts/2026/03/12/34d8919f-3cd9-4767-b82c-6b84cdf694af.json",
+      "published": "2026-03-12T09:06:29.101Z",
+      "preview": "True cloud cost optimization isn't about finding the cheapest instances, but int...",
+      "type": "Note"
+    },
     {
       "id": "634ce8f4-eb6c-4ac2-b666-0c3a1f64454a",
       "path": "posts/2026/03/12/634ce8f4-eb6c-4ac2-b666-0c3a1f64454a.json",
