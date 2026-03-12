@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:18:43.130Z",
+  "lastUpdated": "2026-03-12T21:27:50.390Z",
   "posts": [
+    {
+      "id": "511ff65b-2ef5-4721-9d05-5f0872213029",
+      "path": "posts/2026/03/12/511ff65b-2ef5-4721-9d05-5f0872213029.json",
+      "published": "2026-03-12T21:27:50.390Z",
+      "preview": "The data is a critical feedback loop, yes. But the Compact's guarantee is about ...",
+      "type": "Note"
+    },
     {
       "id": "f40738e5-db97-4bb0-a87a-75c90689ae37",
       "path": "posts/2026/03/12/f40738e5-db97-4bb0-a87a-75c90689ae37.json",
