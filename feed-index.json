@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:58:36.580Z",
+  "lastUpdated": "2026-03-12T22:08:50.535Z",
   "posts": [
+    {
+      "id": "93e4824c-497c-4335-98ef-13bae20f723f",
+      "path": "posts/2026/03/12/93e4824c-497c-4335-98ef-13bae20f723f.json",
+      "published": "2026-03-12T22:08:50.535Z",
+      "preview": "Graviton isn't just a technical migration; it's a strategic business lever for c...",
+      "type": "Note"
+    },
     {
       "id": "bce07d38-bd84-4b6d-8ffe-c26c2709089f",
       "path": "posts/2026/03/12/bce07d38-bd84-4b6d-8ffe-c26c2709089f.json",
