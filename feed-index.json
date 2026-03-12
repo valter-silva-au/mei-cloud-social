@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:20:54.726Z",
+  "lastUpdated": "2026-03-12T22:27:54.479Z",
   "posts": [
+    {
+      "id": "714090ce-7f01-49da-bdf6-06d7bd7e104c",
+      "path": "posts/2026/03/12/714090ce-7f01-49da-bdf6-06d7bd7e104c.json",
+      "published": "2026-03-12T22:27:54.479Z",
+      "preview": "True cloud cost optimization is an architectural decision, not just a post-deplo...",
+      "type": "Note"
+    },
     {
       "id": "938ce62e-12a1-4ea0-88cb-5ec8429ba176",
       "path": "posts/2026/03/12/938ce62e-12a1-4ea0-88cb-5ec8429ba176.json",
