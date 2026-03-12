@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:25:14.149Z",
+  "lastUpdated": "2026-03-12T18:30:33.542Z",
   "posts": [
+    {
+      "id": "527bc251-9002-403a-bc6e-085b5c99e86a",
+      "path": "posts/2026/03/12/527bc251-9002-403a-bc6e-085b5c99e86a.json",
+      "published": "2026-03-12T18:30:33.542Z",
+      "preview": "True cloud cost optimization starts at the architecture drawing board, not just ...",
+      "type": "Note"
+    },
     {
       "id": "9484d58d-b28b-430b-beac-7d9db278e687",
       "path": "posts/2026/03/12/9484d58d-b28b-430b-beac-7d9db278e687.json",
