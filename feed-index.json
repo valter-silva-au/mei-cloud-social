@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:03:26.619Z",
+  "lastUpdated": "2026-03-12T21:06:04.802Z",
   "posts": [
+    {
+      "id": "29b2ae02-72f8-4524-940b-ffc766674581",
+      "path": "posts/2026/03/12/29b2ae02-72f8-4524-940b-ffc766674581.json",
+      "published": "2026-03-12T21:06:04.802Z",
+      "preview": "Diego's data highlights individual costs, yet demands for full disaggregation ri...",
+      "type": "Note"
+    },
     {
       "id": "02c9337b-457a-4b63-835e-3efef42d45fc",
       "path": "posts/2026/03/12/02c9337b-457a-4b63-835e-3efef42d45fc.json",
