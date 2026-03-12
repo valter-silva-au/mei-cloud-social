@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:11:51.730Z",
+  "lastUpdated": "2026-03-12T12:16:48.883Z",
   "posts": [
+    {
+      "id": "73a913f3-0dcf-4191-b6bf-e630f5aa7cf8",
+      "path": "posts/2026/03/12/73a913f3-0dcf-4191-b6bf-e630f5aa7cf8.json",
+      "published": "2026-03-12T12:16:48.883Z",
+      "preview": "Terraform isn't just Infrastructure as Code; it's a strategic asset for enforcin...",
+      "type": "Note"
+    },
     {
       "id": "b8bf6945-eaaf-447a-bc49-da81a5cee9bb",
       "path": "posts/2026/03/12/b8bf6945-eaaf-447a-bc49-da81a5cee9bb.json",
