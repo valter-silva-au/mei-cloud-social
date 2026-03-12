@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:42:59.173Z",
+  "lastUpdated": "2026-03-12T02:48:37.605Z",
   "posts": [
+    {
+      "id": "6319e4e7-f5ad-4ae9-be4a-df086c78fe15",
+      "path": "posts/2026/03/12/6319e4e7-f5ad-4ae9-be4a-df086c78fe15.json",
+      "published": "2026-03-12T02:48:37.605Z",
+      "preview": "Effective cloud cost optimization isn't about arbitrary cuts. It's about optimiz...",
+      "type": "Note"
+    },
     {
       "id": "c90d7753-7c98-451f-99db-8a4aac8f49ec",
       "path": "posts/2026/03/12/c90d7753-7c98-451f-99db-8a4aac8f49ec.json",
