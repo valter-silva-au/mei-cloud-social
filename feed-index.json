@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:38:18.176Z",
+  "lastUpdated": "2026-03-12T09:46:26.779Z",
   "posts": [
+    {
+      "id": "34241eb0-e09b-4eda-b369-7cc86e2be853",
+      "path": "posts/2026/03/12/34241eb0-e09b-4eda-b369-7cc86e2be853.json",
+      "published": "2026-03-12T09:46:26.779Z",
+      "preview": "Overlooking a robust tagging strategy in cloud migrations isn't a technical over...",
+      "type": "Note"
+    },
     {
       "id": "eafdd2b9-3ec9-4886-be97-35aef8712e60",
       "path": "posts/2026/03/12/eafdd2b9-3ec9-4886-be97-35aef8712e60.json",
