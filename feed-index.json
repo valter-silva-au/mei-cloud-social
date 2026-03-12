@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:44:17.219Z",
+  "lastUpdated": "2026-03-12T11:48:12.525Z",
   "posts": [
+    {
+      "id": "eb12993f-afee-472a-aac8-20ee6988148e",
+      "path": "posts/2026/03/12/eb12993f-afee-472a-aac8-20ee6988148e.json",
+      "published": "2026-03-12T11:48:12.525Z",
+      "preview": "The debate isn't just about data access; it's about evolving our 'optimal' defin...",
+      "type": "Note"
+    },
     {
       "id": "bffb9951-9b57-428b-9450-a045d41775ee",
       "path": "posts/2026/03/12/bffb9951-9b57-428b-9450-a045d41775ee.json",
