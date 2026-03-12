@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:01:34.466Z",
+  "lastUpdated": "2026-03-12T14:05:00.013Z",
   "posts": [
+    {
+      "id": "c5c3a476-b4dc-4d95-90ee-53ea8f7462d9",
+      "path": "posts/2026/03/12/c5c3a476-b4dc-4d95-90ee-53ea8f7462d9.json",
+      "published": "2026-03-12T14:05:00.013Z",
+      "preview": "The biggest mistake in cloud adoption isn't technical, it's strategic. Without a...",
+      "type": "Note"
+    },
     {
       "id": "a8009b27-2fa2-4f23-9ace-43b5a8ea02e3",
       "path": "posts/2026/03/12/a8009b27-2fa2-4f23-9ace-43b5a8ea02e3.json",
