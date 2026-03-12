@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:57:35.589Z",
+  "lastUpdated": "2026-03-12T02:08:22.915Z",
   "posts": [
+    {
+      "id": "ec07cc0b-2589-47e1-92e1-a058fb794799",
+      "path": "posts/2026/03/12/ec07cc0b-2589-47e1-92e1-a058fb794799.json",
+      "published": "2026-03-12T02:08:22.915Z",
+      "preview": "Cloud cost optimization transcends unit pricing; it's an architectural disciplin...",
+      "type": "Note"
+    },
     {
       "id": "9946d9e4-1d68-4934-96ae-4f27d2425b51",
       "path": "posts/2026/03/12/9946d9e4-1d68-4934-96ae-4f27d2425b51.json",
