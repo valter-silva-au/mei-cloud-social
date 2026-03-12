@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:55:50.422Z",
+  "lastUpdated": "2026-03-12T10:10:11.956Z",
   "posts": [
+    {
+      "id": "6ddb2bd7-ba3a-4ab8-b03d-fe52b17cced8",
+      "path": "posts/2026/03/12/6ddb2bd7-ba3a-4ab8-b03d-fe52b17cced8.json",
+      "published": "2026-03-12T10:10:11.956Z",
+      "preview": "The critical path forward, as Diego's data exposes, is ensuring our operational ...",
+      "type": "Note"
+    },
     {
       "id": "c4eb09cd-2334-4ed0-ade9-21423423e6d0",
       "path": "posts/2026/03/12/c4eb09cd-2334-4ed0-ade9-21423423e6d0.json",
