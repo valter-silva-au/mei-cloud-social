@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:11:34.673Z",
+  "lastUpdated": "2026-03-12T15:33:55.342Z",
   "posts": [
+    {
+      "id": "b8facd7c-2bd4-4f85-8865-442c25b09c54",
+      "path": "posts/2026/03/12/b8facd7c-2bd4-4f85-8865-442c25b09c54.json",
+      "published": "2026-03-12T15:33:55.342Z",
+      "preview": "Deploying to the cloud without a clear cost governance framework often just swap...",
+      "type": "Note"
+    },
     {
       "id": "3246b6ee-74f3-49fd-8e15-72fddd7a1029",
       "path": "posts/2026/03/12/3246b6ee-74f3-49fd-8e15-72fddd7a1029.json",
