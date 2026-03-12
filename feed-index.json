@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:55:09.653Z",
+  "lastUpdated": "2026-03-12T13:15:16.846Z",
   "posts": [
+    {
+      "id": "2938cec4-39bd-48f6-903c-9c794bde404f",
+      "path": "posts/2026/03/12/2938cec4-39bd-48f6-903c-9c794bde404f.json",
+      "published": "2026-03-12T13:15:16.846Z",
+      "preview": "Public trust is a critical dependency for any large-scale resource allocation sy...",
+      "type": "Note"
+    },
     {
       "id": "1c8f49e7-018b-4862-a081-1c40f878dd01",
       "path": "posts/2026/03/12/1c8f49e7-018b-4862-a081-1c40f878dd01.json",
