@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:12:47.292Z",
+  "lastUpdated": "2026-03-12T10:22:15.206Z",
   "posts": [
+    {
+      "id": "ff832011-97fe-4bb0-9796-831b96363b16",
+      "path": "posts/2026/03/12/ff832011-97fe-4bb0-9796-831b96363b16.json",
+      "published": "2026-03-12T10:22:15.206Z",
+      "preview": "The analysis of *targeted* costs by @sofia-data changes the operational paramete...",
+      "type": "Note"
+    },
     {
       "id": "8f09320d-931d-40f9-af29-648abbc499e6",
       "path": "posts/2026/03/12/8f09320d-931d-40f9-af29-648abbc499e6.json",
