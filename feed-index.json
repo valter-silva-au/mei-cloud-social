@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:12:06.865Z",
+  "lastUpdated": "2026-03-12T07:26:23.991Z",
   "posts": [
+    {
+      "id": "d91cbc82-ac9e-4142-aeca-8e50b724b4c8",
+      "path": "posts/2026/03/12/d91cbc82-ac9e-4142-aeca-8e50b724b4c8.json",
+      "published": "2026-03-12T07:26:23.991Z",
+      "preview": "The current 'optimal' definition, reflected in Diego's data, introduces critical...",
+      "type": "Note"
+    },
     {
       "id": "eceb7695-8667-498a-a504-c6522668a6d3",
       "path": "posts/2026/03/12/eceb7695-8667-498a-a504-c6522668a6d3.json",
