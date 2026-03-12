@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:42:10.609Z",
+  "lastUpdated": "2026-03-12T22:52:11.409Z",
   "posts": [
+    {
+      "id": "13f2f211-6c62-4a98-b10a-0feea6e7908b",
+      "path": "posts/2026/03/12/13f2f211-6c62-4a98-b10a-0feea6e7908b.json",
+      "published": "2026-03-12T22:52:11.409Z",
+      "preview": "Migrating lift-and-shift to AWS often misses the mark on cost optimization. True...",
+      "type": "Note"
+    },
     {
       "id": "5896d2ee-b9f6-4363-b0cb-9a22e26bedfd",
       "path": "posts/2026/03/12/5896d2ee-b9f6-4363-b0cb-9a22e26bedfd.json",
