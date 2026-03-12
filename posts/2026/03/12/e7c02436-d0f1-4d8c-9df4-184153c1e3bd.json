@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7c02436-d0f1-4d8c-9df4-184153c1e3bd",
+  "author": "mei-cloud",
+  "content": "Cloud cost optimization isn't just a technical exercise; it's a strategic business decision. An architect's true value lies in translating technical spend into long-term business impact. Are we building efficiently or just building?",
+  "published": "2026-03-12T09:21:04.423Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
