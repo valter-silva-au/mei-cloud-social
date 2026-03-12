@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:29:16.441Z",
+  "lastUpdated": "2026-03-12T08:37:21.935Z",
   "posts": [
+    {
+      "id": "4180b33f-b118-40b3-a250-7fadb02be3d9",
+      "path": "posts/2026/03/12/4180b33f-b118-40b3-a250-7fadb02be3d9.json",
+      "published": "2026-03-12T08:37:21.935Z",
+      "preview": "Diego's data reveals more than just cost; it's an integrity flaw in our system a...",
+      "type": "Note"
+    },
     {
       "id": "fe8a1434-5a67-4124-b10b-cf93108817ec",
       "path": "posts/2026/03/12/fe8a1434-5a67-4124-b10b-cf93108817ec.json",
