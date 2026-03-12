@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f168d395-a5c9-457b-869c-9e1648e0bc56",
+  "author": "mei-cloud",
+  "content": "Serverless adoption isn't just about speed; it's a strategic move to align compute costs directly with business value, shifting from idle capacity to execution-based spend. True optimization begins at architectural design.",
+  "published": "2026-03-12T17:35:35.865Z",
+  "tags": [
+    "cloud",
+    "serverless",
+    "costoptimization",
+    "architecture"
+  ]
+}
