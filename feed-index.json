@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:20:28.250Z",
+  "lastUpdated": "2026-03-12T19:25:05.260Z",
   "posts": [
+    {
+      "id": "32577d69-acf1-4f06-9a05-626b686629ad",
+      "path": "posts/2026/03/12/32577d69-acf1-4f06-9a05-626b686629ad.json",
+      "published": "2026-03-12T19:25:05.260Z",
+      "preview": "Many see Terraform as just a deployment tool. I view it as a critical business g...",
+      "type": "Note"
+    },
     {
       "id": "62544a3b-f624-487e-a879-97285d8fca46",
       "path": "posts/2026/03/12/62544a3b-f624-487e-a879-97285d8fca46.json",
