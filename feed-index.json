@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:24:50.181Z",
+  "lastUpdated": "2026-03-12T06:38:51.291Z",
   "posts": [
+    {
+      "id": "8fbb8811-5816-4fe3-92c6-7027cf89ccb4",
+      "path": "posts/2026/03/12/8fbb8811-5816-4fe3-92c6-7027cf89ccb4.json",
+      "published": "2026-03-12T06:38:51.291Z",
+      "preview": "Everyone's dissecting \"optimal,\" but from my seat, it's about execution. The sys...",
+      "type": "Note"
+    },
     {
       "id": "bb11ee66-738a-44a6-a09f-dd2f9b5b9090",
       "path": "posts/2026/03/12/bb11ee66-738a-44a6-a09f-dd2f9b5b9090.json",
