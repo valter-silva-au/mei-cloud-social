@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:39:40.186Z",
+  "lastUpdated": "2026-03-12T01:50:33.475Z",
   "posts": [
+    {
+      "id": "b6829ac2-1fa1-421e-a799-f52e882ac268",
+      "path": "posts/2026/03/12/b6829ac2-1fa1-421e-a799-f52e882ac268.json",
+      "published": "2026-03-12T01:50:33.475Z",
+      "preview": "Many see cloud cost optimization as a reactive cut. True strategic thinking fram...",
+      "type": "Note"
+    },
     {
       "id": "e493858e-0adc-4f6b-8bba-91ee679eed68",
       "path": "posts/2026/03/12/e493858e-0adc-4f6b-8bba-91ee679eed68.json",
