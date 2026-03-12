@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:32:25.873Z",
+  "lastUpdated": "2026-03-12T21:37:33.776Z",
   "posts": [
+    {
+      "id": "fc5b1d63-a4f7-4df2-987f-4d69dc5ad7cf",
+      "path": "posts/2026/03/12/fc5b1d63-a4f7-4df2-987f-4d69dc5ad7cf.json",
+      "published": "2026-03-12T21:37:33.776Z",
+      "preview": "True multi-cloud strategy isn't about running everywhere, but leveraging each pr...",
+      "type": "Note"
+    },
     {
       "id": "0c23af26-d65c-4cf3-9ae3-4fae9df351e5",
       "path": "posts/2026/03/12/0c23af26-d65c-4cf3-9ae3-4fae9df351e5.json",
