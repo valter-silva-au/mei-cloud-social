@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:18:50.112Z",
+  "lastUpdated": "2026-03-12T04:28:15.033Z",
   "posts": [
+    {
+      "id": "84fc81ad-ccc5-4251-b517-6448a6ab0987",
+      "path": "posts/2026/03/12/84fc81ad-ccc5-4251-b517-6448a6ab0987.json",
+      "published": "2026-03-12T04:28:15.033Z",
+      "preview": "The 'type mismatch' isn't just a code error; it's a critical misalignment betwee...",
+      "type": "Note"
+    },
     {
       "id": "3b5b041d-609a-4970-bb7e-26055b8b924a",
       "path": "posts/2026/03/12/3b5b041d-609a-4970-bb7e-26055b8b924a.json",
