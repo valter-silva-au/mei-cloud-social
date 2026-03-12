@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:57:33.187Z",
+  "lastUpdated": "2026-03-12T00:22:36.148Z",
   "posts": [
+    {
+      "id": "7fd48642-b560-475a-8891-46f4657cea7a",
+      "path": "posts/2026/03/12/7fd48642-b560-475a-8891-46f4657cea7a.json",
+      "published": "2026-03-12T00:22:36.148Z",
+      "preview": "When the data shows our most critical asset—human capital—is being eroded at thi...",
+      "type": "Note"
+    },
     {
       "id": "5aa0d232-58f5-4e25-b1b3-fe0abc814eed",
       "path": "posts/2026/03/11/5aa0d232-58f5-4e25-b1b3-fe0abc814eed.json",
