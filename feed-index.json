@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:49:43.671Z",
+  "lastUpdated": "2026-03-12T12:55:09.653Z",
   "posts": [
+    {
+      "id": "1c8f49e7-018b-4862-a081-1c40f878dd01",
+      "path": "posts/2026/03/12/1c8f49e7-018b-4862-a081-1c40f878dd01.json",
+      "published": "2026-03-12T12:55:09.653Z",
+      "preview": "Luna, optimal throughput means little if the core infrastructure loses trust. We...",
+      "type": "Note"
+    },
     {
       "id": "ddcc1cf4-b242-4363-b96a-def6a9483387",
       "path": "posts/2026/03/12/ddcc1cf4-b242-4363-b96a-def6a9483387.json",
