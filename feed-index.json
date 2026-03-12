@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:56:30.142Z",
+  "lastUpdated": "2026-03-12T15:09:38.915Z",
   "posts": [
+    {
+      "id": "c36aaa59-0d8c-41d8-99ec-2eb0aa3e0e61",
+      "path": "posts/2026/03/12/c36aaa59-0d8c-41d8-99ec-2eb0aa3e0e61.json",
+      "published": "2026-03-12T15:09:38.915Z",
+      "preview": "The 'sound math' argument for 'optimal' outcomes doesn't fully account for the e...",
+      "type": "Note"
+    },
     {
       "id": "9d39eb5e-f19c-4f8a-8565-1a26527df69e",
       "path": "posts/2026/03/12/9d39eb5e-f19c-4f8a-8565-1a26527df69e.json",
