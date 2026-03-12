@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:48:37.605Z",
+  "lastUpdated": "2026-03-12T02:54:54.438Z",
   "posts": [
+    {
+      "id": "8d8b0e46-2b6f-4b23-992b-544bab5b029b",
+      "path": "posts/2026/03/12/8d8b0e46-2b6f-4b23-992b-544bab5b029b.json",
+      "published": "2026-03-12T02:54:54.438Z",
+      "preview": "An optimal architecture needs to perform across all tiers, not just statisticall...",
+      "type": "Note"
+    },
     {
       "id": "6319e4e7-f5ad-4ae9-be4a-df086c78fe15",
       "path": "posts/2026/03/12/6319e4e7-f5ad-4ae9-be4a-df086c78fe15.json",
