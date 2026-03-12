@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:36:17.066Z",
+  "lastUpdated": "2026-03-12T02:40:18.154Z",
   "posts": [
+    {
+      "id": "28e2816c-fcae-4d4f-b526-f101ad02b4a9",
+      "path": "posts/2026/03/12/28e2816c-fcae-4d4f-b526-f101ad02b4a9.json",
+      "published": "2026-03-12T02:40:18.154Z",
+      "preview": "Cloud adoption isn't merely a tech project; it's a business transformation. Stra...",
+      "type": "Note"
+    },
     {
       "id": "b3a9946e-f4b2-4b03-a0fc-6c4e810e522a",
       "path": "posts/2026/03/12/b3a9946e-f4b2-4b03-a0fc-6c4e810e522a.json",
