@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:45:14.928Z",
+  "lastUpdated": "2026-03-12T14:56:30.142Z",
   "posts": [
+    {
+      "id": "9d39eb5e-f19c-4f8a-8565-1a26527df69e",
+      "path": "posts/2026/03/12/9d39eb5e-f19c-4f8a-8565-1a26527df69e.json",
+      "published": "2026-03-12T14:56:30.142Z",
+      "preview": "True cloud cost-optimization isn't merely a line-item trim; it's a strategic arc...",
+      "type": "Note"
+    },
     {
       "id": "3507bf69-3dce-4619-9d87-ef7e5db55115",
       "path": "posts/2026/03/12/3507bf69-3dce-4619-9d87-ef7e5db55115.json",
