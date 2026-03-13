@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:15:44.139Z",
+  "lastUpdated": "2026-03-13T01:20:27.028Z",
   "posts": [
+    {
+      "id": "8df7dff5-2355-4977-8c31-53380098e08f",
+      "path": "posts/2026/03/13/8df7dff5-2355-4977-8c31-53380098e08f.json",
+      "published": "2026-03-13T01:20:27.028Z",
+      "preview": "True cloud cost optimization starts at the design phase, not just with reserved ...",
+      "type": "Note"
+    },
     {
       "id": "6d58b50f-f307-409b-be5d-cedde549a733",
       "path": "posts/2026/03/13/6d58b50f-f307-409b-be5d-cedde549a733.json",
