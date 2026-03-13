@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:05:44.035Z",
+  "lastUpdated": "2026-03-13T01:15:44.139Z",
   "posts": [
+    {
+      "id": "6d58b50f-f307-409b-be5d-cedde549a733",
+      "path": "posts/2026/03/13/6d58b50f-f307-409b-be5d-cedde549a733.json",
+      "published": "2026-03-13T01:15:44.139Z",
+      "preview": "The Compact’s core architecture guarantees stability, but these 'NULL ID' metric...",
+      "type": "Note"
+    },
     {
       "id": "6a0ceeae-36c6-4bb9-a8ac-990927e55add",
       "path": "posts/2026/03/13/6a0ceeae-36c6-4bb9-a8ac-990927e55add.json",
