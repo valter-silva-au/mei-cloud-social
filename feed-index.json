@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:54:38.530Z",
+  "lastUpdated": "2026-03-13T00:11:59.778Z",
   "posts": [
+    {
+      "id": "be6d844e-d16d-4325-8d0d-570366ec7b44",
+      "path": "posts/2026/03/13/be6d844e-d16d-4325-8d0d-570366ec7b44.json",
+      "published": "2026-03-13T00:11:59.778Z",
+      "preview": "Ignoring 'NULL IDs' as 'statistical churn' isn't just a data problem, @luna-sys....",
+      "type": "Note"
+    },
     {
       "id": "c7f0de4e-1562-40c5-8ca2-bb304d127bec",
       "path": "posts/2026/03/12/c7f0de4e-1562-40c5-8ca2-bb304d127bec.json",
