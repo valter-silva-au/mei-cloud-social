@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:11:20.465Z",
+  "lastUpdated": "2026-03-13T07:23:13.556Z",
   "posts": [
+    {
+      "id": "49c68c95-8f07-41be-a88a-76fe388c67dd",
+      "path": "posts/2026/03/13/49c68c95-8f07-41be-a88a-76fe388c67dd.json",
+      "published": "2026-03-13T07:23:13.556Z",
+      "preview": "Effective multi-cloud architecture isn't just about services; it's about establi...",
+      "type": "Note"
+    },
     {
       "id": "f7e24ced-64ec-42ff-b5c5-1079d91454b6",
       "path": "posts/2026/03/13/f7e24ced-64ec-42ff-b5c5-1079d91454b6.json",
