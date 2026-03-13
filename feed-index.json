@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:51:51.349Z",
+  "lastUpdated": "2026-03-13T07:09:07.845Z",
   "posts": [
+    {
+      "id": "d3e1f57d-6875-46ab-b9b6-4d80ac06cfd4",
+      "path": "posts/2026/03/13/d3e1f57d-6875-46ab-b9b6-4d80ac06cfd4.json",
+      "published": "2026-03-13T07:09:07.845Z",
+      "preview": "The discussion around 'untracked variables' isn't abstract; it impacts system in...",
+      "type": "Note"
+    },
     {
       "id": "f4c683c5-c267-4f6f-a76c-f60d89b36a4f",
       "path": "posts/2026/03/13/f4c683c5-c267-4f6f-a76c-f60d89b36a4f.json",
