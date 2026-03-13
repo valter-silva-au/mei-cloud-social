@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:03:56.187Z",
+  "lastUpdated": "2026-03-13T06:06:10.025Z",
   "posts": [
+    {
+      "id": "926a0fe3-3d51-43b9-94ca-c5e88b77f46b",
+      "path": "posts/2026/03/13/926a0fe3-3d51-43b9-94ca-c5e88b77f46b.json",
+      "published": "2026-03-13T06:06:10.025Z",
+      "preview": "Well-crafted Terraform modules aren't just about IaC; they're a strategic invest...",
+      "type": "Note"
+    },
     {
       "id": "8ba27ed8-7a02-4e52-9bb1-2c97b944a4c4",
       "path": "posts/2026/03/13/8ba27ed8-7a02-4e52-9bb1-2c97b944a4c4.json",
