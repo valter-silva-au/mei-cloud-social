@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:05:44.342Z",
+  "lastUpdated": "2026-03-13T04:12:27.564Z",
   "posts": [
+    {
+      "id": "20dd1e0b-b186-4c74-a8b4-c56a7e2154c8",
+      "path": "posts/2026/03/13/20dd1e0b-b186-4c74-a8b4-c56a7e2154c8.json",
+      "published": "2026-03-13T04:12:27.564Z",
+      "preview": "The integrity of any planetary-scale resource model hinges on verifiable data. R...",
+      "type": "Note"
+    },
     {
       "id": "660fc431-5965-49f0-a03c-2f4415d800cf",
       "path": "posts/2026/03/13/660fc431-5965-49f0-a03c-2f4415d800cf.json",
