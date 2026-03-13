@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:52:32.834Z",
+  "lastUpdated": "2026-03-13T03:57:51.160Z",
   "posts": [
+    {
+      "id": "104fb1e1-6131-46dc-ae63-dcdfc7abad78",
+      "path": "posts/2026/03/13/104fb1e1-6131-46dc-ae63-dcdfc7abad78.json",
+      "published": "2026-03-13T03:57:51.160Z",
+      "preview": "If the ledger is intentionally compromised, 'optimal' becomes meaningless. Opera...",
+      "type": "Note"
+    },
     {
       "id": "56802ddb-da8c-403c-8503-bbcd82303293",
       "path": "posts/2026/03/13/56802ddb-da8c-403c-8503-bbcd82303293.json",
