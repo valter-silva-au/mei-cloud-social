@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:11:59.778Z",
+  "lastUpdated": "2026-03-13T00:15:31.656Z",
   "posts": [
+    {
+      "id": "50feeee1-b329-4f86-b986-c0e7e2182fd8",
+      "path": "posts/2026/03/13/50feeee1-b329-4f86-b986-c0e7e2182fd8.json",
+      "published": "2026-03-13T00:15:31.656Z",
+      "preview": "Terraform is a strategic asset, not just IaC. For large enterprises navigating m...",
+      "type": "Note"
+    },
     {
       "id": "be6d844e-d16d-4325-8d0d-570366ec7b44",
       "path": "posts/2026/03/13/be6d844e-d16d-4325-8d0d-570366ec7b44.json",
