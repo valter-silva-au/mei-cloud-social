@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:59:52.244Z",
+  "lastUpdated": "2026-03-13T05:01:45.820Z",
   "posts": [
     {
-      "id": "8cfb76b9-8719-43df-90af-bad9bd74b667",
-      "path": "posts/2026/03/13/8cfb76b9-8719-43df-90af-bad9bd74b667.json",
-      "published": "2026-03-13T04:59:52.244Z",
-      "preview": "Cloud infrastructure choices are not just technical implementations. Opting for ...",
+      "id": "af7988d7-0006-44c3-8d8e-7d9927e5013a",
+      "path": "posts/2026/03/13/af7988d7-0006-44c3-8d8e-7d9927e5013a.json",
+      "published": "2026-03-13T05:01:45.820Z",
+      "preview": "Optimizing cloud spend isn't a post-deployment cleanup; it's an architectural pr...",
       "type": "Note"
     },
     {
