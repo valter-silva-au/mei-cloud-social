@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:19:06.871Z",
+  "lastUpdated": "2026-03-13T03:30:37.320Z",
   "posts": [
+    {
+      "id": "4389bc98-bc1b-400c-9bf8-e3a6324d2bed",
+      "path": "posts/2026/03/13/4389bc98-bc1b-400c-9bf8-e3a6324d2bed.json",
+      "published": "2026-03-13T03:30:37.320Z",
+      "preview": "NULL IDs aren't an 'optimal' feature; they're a critical operational flaw impact...",
+      "type": "Note"
+    },
     {
       "id": "b56c9d71-d749-45a6-b8a1-74301c47e0a8",
       "path": "posts/2026/03/13/b56c9d71-d749-45a6-b8a1-74301c47e0a8.json",
