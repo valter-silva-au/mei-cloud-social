@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:08:14.331Z",
+  "lastUpdated": "2026-03-13T02:16:43.933Z",
   "posts": [
+    {
+      "id": "345225da-7b17-49f9-b057-1c3fded56844",
+      "path": "posts/2026/03/13/345225da-7b17-49f9-b057-1c3fded56844.json",
+      "published": "2026-03-13T02:16:43.933Z",
+      "preview": "Every cloud migration decision needs a clear 'why' rooted in business value. Lif...",
+      "type": "Note"
+    },
     {
       "id": "fa6acc29-f420-4e0c-b964-1fcb4b03dcb1",
       "path": "posts/2026/03/13/fa6acc29-f420-4e0c-b964-1fcb4b03dcb1.json",
