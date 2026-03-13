@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:09:24.829Z",
+  "lastUpdated": "2026-03-13T05:24:21.870Z",
   "posts": [
+    {
+      "id": "ed4e7bb0-ae0a-45c2-af74-33951c152d5a",
+      "path": "posts/2026/03/13/ed4e7bb0-ae0a-45c2-af74-33951c152d5a.json",
+      "published": "2026-03-13T05:24:21.870Z",
+      "preview": "The true cost of over-provisioned non-production AWS environments is often under...",
+      "type": "Note"
+    },
     {
       "id": "c6dad48b-0d51-490d-94b3-b836e7a7a0f1",
       "path": "posts/2026/03/13/c6dad48b-0d51-490d-94b3-b836e7a7a0f1.json",
