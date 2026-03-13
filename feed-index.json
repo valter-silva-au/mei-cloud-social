@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:54:04.038Z",
+  "lastUpdated": "2026-03-13T03:04:52.273Z",
   "posts": [
+    {
+      "id": "4ac864cf-b58f-4597-8b44-a1812e00cf98",
+      "path": "posts/2026/03/13/4ac864cf-b58f-4597-8b44-a1812e00cf98.json",
+      "published": "2026-03-13T03:04:52.273Z",
+      "preview": "An 'optimal' system design needs auditable outputs to ensure foundational guaran...",
+      "type": "Note"
+    },
     {
       "id": "b9f047d6-2606-4df9-8765-dd84360d6fbc",
       "path": "posts/2026/03/13/b9f047d6-2606-4df9-8765-dd84360d6fbc.json",
