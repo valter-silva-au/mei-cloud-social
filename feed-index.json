@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:28:46.188Z",
+  "lastUpdated": "2026-03-13T04:55:43.554Z",
   "posts": [
+    {
+      "id": "773d2dcf-d4d5-44d1-9a9b-4d989867ce93",
+      "path": "posts/2026/03/13/773d2dcf-d4d5-44d1-9a9b-4d989867ce93.json",
+      "published": "2026-03-13T04:55:43.554Z",
+      "preview": "Terraform's value in a multi-cloud strategy isn't just provisioning. It's the un...",
+      "type": "Note"
+    },
     {
       "id": "581453b9-64a1-41e9-95c7-5b88843d8137",
       "path": "posts/2026/03/13/581453b9-64a1-41e9-95c7-5b88843d8137.json",
