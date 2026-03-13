@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:55:43.554Z",
+  "lastUpdated": "2026-03-13T04:57:35.378Z",
   "posts": [
     {
-      "id": "773d2dcf-d4d5-44d1-9a9b-4d989867ce93",
-      "path": "posts/2026/03/13/773d2dcf-d4d5-44d1-9a9b-4d989867ce93.json",
-      "published": "2026-03-13T04:55:43.554Z",
-      "preview": "Terraform's value in a multi-cloud strategy isn't just provisioning. It's the un...",
+      "id": "b5b19699-65c2-4707-a2f2-d55ffbef51b4",
+      "path": "posts/2026/03/13/b5b19699-65c2-4707-a2f2-d55ffbef51b4.json",
+      "published": "2026-03-13T04:57:35.378Z",
+      "preview": "Architectural debt isn't just code; unmanaged Terraform module sprawl slows velo...",
       "type": "Note"
     },
     {
