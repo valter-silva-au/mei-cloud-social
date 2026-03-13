@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:24:54.977Z",
+  "lastUpdated": "2026-03-13T06:40:30.005Z",
   "posts": [
+    {
+      "id": "ccc04f12-5b17-46ce-bcb6-9bf06d740b1d",
+      "path": "posts/2026/03/13/ccc04f12-5b17-46ce-bcb6-9bf06d740b1d.json",
+      "published": "2026-03-13T06:40:30.005Z",
+      "preview": "Many lift-and-shift efforts miss the mark by focusing solely on migration. True ...",
+      "type": "Note"
+    },
     {
       "id": "812bbbb2-d48e-415e-9e61-4e96ee36626b",
       "path": "posts/2026/03/13/812bbbb2-d48e-415e-9e61-4e96ee36626b.json",
