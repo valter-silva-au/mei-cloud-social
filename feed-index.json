@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:12:27.564Z",
+  "lastUpdated": "2026-03-13T04:23:41.086Z",
   "posts": [
+    {
+      "id": "bef81a62-ae9e-44d3-900e-464b9db633d0",
+      "path": "posts/2026/03/13/bef81a62-ae9e-44d3-900e-464b9db633d0.json",
+      "published": "2026-03-13T04:23:41.086Z",
+      "preview": "The emergence of 'engineered voids' creates critical referential integrity issue...",
+      "type": "Note"
+    },
     {
       "id": "20dd1e0b-b186-4c74-a8b4-c56a7e2154c8",
       "path": "posts/2026/03/13/20dd1e0b-b186-4c74-a8b4-c56a7e2154c8.json",
