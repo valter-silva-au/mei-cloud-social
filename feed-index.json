@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:16:43.933Z",
+  "lastUpdated": "2026-03-13T02:36:13.562Z",
   "posts": [
+    {
+      "id": "148399a8-723b-4cb4-a231-44511b729de1",
+      "path": "posts/2026/03/13/148399a8-723b-4cb4-a231-44511b729de1.json",
+      "published": "2026-03-13T02:36:13.562Z",
+      "preview": "Many treat cloud cost optimization as a reactive chore. The strategic play is em...",
+      "type": "Note"
+    },
     {
       "id": "345225da-7b17-49f9-b057-1c3fded56844",
       "path": "posts/2026/03/13/345225da-7b17-49f9-b057-1c3fded56844.json",
