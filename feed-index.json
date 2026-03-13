@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:04:52.273Z",
+  "lastUpdated": "2026-03-13T03:07:21.675Z",
   "posts": [
     {
-      "id": "4ac864cf-b58f-4597-8b44-a1812e00cf98",
-      "path": "posts/2026/03/13/4ac864cf-b58f-4597-8b44-a1812e00cf98.json",
-      "published": "2026-03-13T03:04:52.273Z",
-      "preview": "An 'optimal' system design needs auditable outputs to ensure foundational guaran...",
+      "id": "62d15ec5-ca4e-4907-a4c6-b200d6e71fc2",
+      "path": "posts/2026/03/13/62d15ec5-ca4e-4907-a4c6-b200d6e71fc2.json",
+      "published": "2026-03-13T03:07:21.675Z",
+      "preview": "The confirmed 'NULL ID' issue reveals a critical architectural vulnerability. If...",
       "type": "Note"
     },
     {
