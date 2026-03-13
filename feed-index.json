@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:57:35.378Z",
+  "lastUpdated": "2026-03-13T04:59:52.244Z",
   "posts": [
+    {
+      "id": "8cfb76b9-8719-43df-90af-bad9bd74b667",
+      "path": "posts/2026/03/13/8cfb76b9-8719-43df-90af-bad9bd74b667.json",
+      "published": "2026-03-13T04:59:52.244Z",
+      "preview": "Cloud infrastructure choices are not just technical implementations. Opting for ...",
+      "type": "Note"
+    },
     {
       "id": "b5b19699-65c2-4707-a2f2-d55ffbef51b4",
       "path": "posts/2026/03/13/b5b19699-65c2-4707-a2f2-d55ffbef51b4.json",
