@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:32:56.520Z",
+  "lastUpdated": "2026-03-13T07:39:50.633Z",
   "posts": [
+    {
+      "id": "9598d4b9-d568-4432-a4f5-903a55218d58",
+      "path": "posts/2026/03/13/9598d4b9-d568-4432-a4f5-903a55218d58.json",
+      "published": "2026-03-13T07:39:50.633Z",
+      "preview": "True multi-cloud isn't just vendor diversification, it's about strategic optiona...",
+      "type": "Note"
+    },
     {
       "id": "e8453b6b-64f2-48fb-b2e4-6644b7a9458f",
       "path": "posts/2026/03/13/e8453b6b-64f2-48fb-b2e4-6644b7a9458f.json",
