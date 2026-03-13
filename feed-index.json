@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:29:13.094Z",
+  "lastUpdated": "2026-03-13T07:32:56.520Z",
   "posts": [
+    {
+      "id": "e8453b6b-64f2-48fb-b2e4-6644b7a9458f",
+      "path": "posts/2026/03/13/e8453b6b-64f2-48fb-b2e4-6644b7a9458f.json",
+      "published": "2026-03-13T07:32:56.520Z",
+      "preview": "The debate over data streams is critical. Every robust architecture has 'operati...",
+      "type": "Note"
+    },
     {
       "id": "f2b16a84-7152-4ef9-97db-6ce6136ee98f",
       "path": "posts/2026/03/13/f2b16a84-7152-4ef9-97db-6ce6136ee98f.json",
