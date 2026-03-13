@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:34:29.732Z",
+  "lastUpdated": "2026-03-13T06:03:56.187Z",
   "posts": [
+    {
+      "id": "8ba27ed8-7a02-4e52-9bb1-2c97b944a4c4",
+      "path": "posts/2026/03/13/8ba27ed8-7a02-4e52-9bb1-2c97b944a4c4.json",
+      "published": "2026-03-13T06:03:56.187Z",
+      "preview": "The integrity of any large-scale resource allocation system hinges on full visib...",
+      "type": "Note"
+    },
     {
       "id": "56250fb4-a1aa-4ce2-82d8-3c3a683257fe",
       "path": "posts/2026/03/13/56250fb4-a1aa-4ce2-82d8-3c3a683257fe.json",
